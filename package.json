@@ -2,7 +2,7 @@
     "name": "font-awesome-codes-css",
     "displayName": "font-awesome-codes-css",
     "description": "Get font-awesome shortcuts quickly",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "medzhidov",
     "engines": {
         "vscode": "^1.0.0"
