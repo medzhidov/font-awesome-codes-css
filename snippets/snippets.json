@@ -1,0 +1,4328 @@
+{
+    "fa-glass": {
+        "prefix": "fa-glass",
+        "body": "\\f\f000",
+        "description": "fontawesome fa-glass",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-music": {
+        "prefix": "fa-music",
+        "body": "\\f\f001",
+        "description": "fontawesome fa-music",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-search": {
+        "prefix": "fa-search",
+        "body": "\\f\f002",
+        "description": "fontawesome fa-search",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-envelope-o": {
+        "prefix": "fa-envelope-o",
+        "body": "\\f\f003",
+        "description": "fontawesome fa-envelope-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-heart": {
+        "prefix": "fa-heart",
+        "body": "\\f\f004",
+        "description": "fontawesome fa-heart",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-star": {
+        "prefix": "fa-star",
+        "body": "\\f\f005",
+        "description": "fontawesome fa-star",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-star-o": {
+        "prefix": "fa-star-o",
+        "body": "\\f\f006",
+        "description": "fontawesome fa-star-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-user": {
+        "prefix": "fa-user",
+        "body": "\\f\f007",
+        "description": "fontawesome fa-user",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-film": {
+        "prefix": "fa-film",
+        "body": "\\f\f008",
+        "description": "fontawesome fa-film",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-th-large": {
+        "prefix": "fa-th-large",
+        "body": "\\f\f009",
+        "description": "fontawesome fa-th-large",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-th": {
+        "prefix": "fa-th",
+        "body": "\\f\f00a",
+        "description": "fontawesome fa-th",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-th-list": {
+        "prefix": "fa-th-list",
+        "body": "\\f\f00b",
+        "description": "fontawesome fa-th-list",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-check": {
+        "prefix": "fa-check",
+        "body": "\\f\f00c",
+        "description": "fontawesome fa-check",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-remove": {
+        "prefix": "fa-remove",
+        "body": "\\f\f00d",
+        "description": "fontawesome fa-remove",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-close": {
+        "prefix": "fa-close",
+        "body": "\\f\f00d",
+        "description": "fontawesome fa-close",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-times": {
+        "prefix": "fa-times",
+        "body": "\\f\f00d",
+        "description": "fontawesome fa-times",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-search-plus": {
+        "prefix": "fa-search-plus",
+        "body": "\\f\f00e",
+        "description": "fontawesome fa-search-plus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-search-minus": {
+        "prefix": "fa-search-minus",
+        "body": "\\f\f010",
+        "description": "fontawesome fa-search-minus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-power-off": {
+        "prefix": "fa-power-off",
+        "body": "\\f\f011",
+        "description": "fontawesome fa-power-off",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-signal": {
+        "prefix": "fa-signal",
+        "body": "\\f\f012",
+        "description": "fontawesome fa-signal",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gear": {
+        "prefix": "fa-gear",
+        "body": "\\f\f013",
+        "description": "fontawesome fa-gear",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cog": {
+        "prefix": "fa-cog",
+        "body": "\\f\f013",
+        "description": "fontawesome fa-cog",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-trash-o": {
+        "prefix": "fa-trash-o",
+        "body": "\\f\f014",
+        "description": "fontawesome fa-trash-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-home": {
+        "prefix": "fa-home",
+        "body": "\\f\f015",
+        "description": "fontawesome fa-home",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-o": {
+        "prefix": "fa-file-o",
+        "body": "\\f\f016",
+        "description": "fontawesome fa-file-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-clock-o": {
+        "prefix": "fa-clock-o",
+        "body": "\\f\f017",
+        "description": "fontawesome fa-clock-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-road": {
+        "prefix": "fa-road",
+        "body": "\\f\f018",
+        "description": "fontawesome fa-road",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-download": {
+        "prefix": "fa-download",
+        "body": "\\f\f019",
+        "description": "fontawesome fa-download",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-circle-o-down": {
+        "prefix": "fa-arrow-circle-o-down",
+        "body": "\\f\f01a",
+        "description": "fontawesome fa-arrow-circle-o-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-circle-o-up": {
+        "prefix": "fa-arrow-circle-o-up",
+        "body": "\\f\f01b",
+        "description": "fontawesome fa-arrow-circle-o-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-inbox": {
+        "prefix": "fa-inbox",
+        "body": "\\f\f01c",
+        "description": "fontawesome fa-inbox",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-play-circle-o": {
+        "prefix": "fa-play-circle-o",
+        "body": "\\f\f01d",
+        "description": "fontawesome fa-play-circle-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rotate-right": {
+        "prefix": "fa-rotate-right",
+        "body": "\\f\f01e",
+        "description": "fontawesome fa-rotate-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-repeat": {
+        "prefix": "fa-repeat",
+        "body": "\\f\f01e",
+        "description": "fontawesome fa-repeat",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-refresh": {
+        "prefix": "fa-refresh",
+        "body": "\\f\f021",
+        "description": "fontawesome fa-refresh",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-list-alt": {
+        "prefix": "fa-list-alt",
+        "body": "\\f\f022",
+        "description": "fontawesome fa-list-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-lock": {
+        "prefix": "fa-lock",
+        "body": "\\f\f023",
+        "description": "fontawesome fa-lock",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-flag": {
+        "prefix": "fa-flag",
+        "body": "\\f\f024",
+        "description": "fontawesome fa-flag",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-headphones": {
+        "prefix": "fa-headphones",
+        "body": "\\f\f025",
+        "description": "fontawesome fa-headphones",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-volume-off": {
+        "prefix": "fa-volume-off",
+        "body": "\\f\f026",
+        "description": "fontawesome fa-volume-off",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-volume-down": {
+        "prefix": "fa-volume-down",
+        "body": "\\f\f027",
+        "description": "fontawesome fa-volume-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-volume-up": {
+        "prefix": "fa-volume-up",
+        "body": "\\f\f028",
+        "description": "fontawesome fa-volume-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-qrcode": {
+        "prefix": "fa-qrcode",
+        "body": "\\f\f029",
+        "description": "fontawesome fa-qrcode",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-barcode": {
+        "prefix": "fa-barcode",
+        "body": "\\f\f02a",
+        "description": "fontawesome fa-barcode",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tag": {
+        "prefix": "fa-tag",
+        "body": "\\f\f02b",
+        "description": "fontawesome fa-tag",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tags": {
+        "prefix": "fa-tags",
+        "body": "\\f\f02c",
+        "description": "fontawesome fa-tags",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-book": {
+        "prefix": "fa-book",
+        "body": "\\f\f02d",
+        "description": "fontawesome fa-book",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bookmark": {
+        "prefix": "fa-bookmark",
+        "body": "\\f\f02e",
+        "description": "fontawesome fa-bookmark",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-print": {
+        "prefix": "fa-print",
+        "body": "\\f\f02f",
+        "description": "fontawesome fa-print",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-camera": {
+        "prefix": "fa-camera",
+        "body": "\\f\f030",
+        "description": "fontawesome fa-camera",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-font": {
+        "prefix": "fa-font",
+        "body": "\\f\f031",
+        "description": "fontawesome fa-font",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bold": {
+        "prefix": "fa-bold",
+        "body": "\\f\f032",
+        "description": "fontawesome fa-bold",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-italic": {
+        "prefix": "fa-italic",
+        "body": "\\f\f033",
+        "description": "fontawesome fa-italic",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-text-height": {
+        "prefix": "fa-text-height",
+        "body": "\\f\f034",
+        "description": "fontawesome fa-text-height",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-text-width": {
+        "prefix": "fa-text-width",
+        "body": "\\f\f035",
+        "description": "fontawesome fa-text-width",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-align-left": {
+        "prefix": "fa-align-left",
+        "body": "\\f\f036",
+        "description": "fontawesome fa-align-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-align-center": {
+        "prefix": "fa-align-center",
+        "body": "\\f\f037",
+        "description": "fontawesome fa-align-center",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-align-right": {
+        "prefix": "fa-align-right",
+        "body": "\\f\f038",
+        "description": "fontawesome fa-align-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-align-justify": {
+        "prefix": "fa-align-justify",
+        "body": "\\f\f039",
+        "description": "fontawesome fa-align-justify",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-list": {
+        "prefix": "fa-list",
+        "body": "\\f\f03a",
+        "description": "fontawesome fa-list",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-dedent": {
+        "prefix": "fa-dedent",
+        "body": "\\f\f03b",
+        "description": "fontawesome fa-dedent",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-outdent": {
+        "prefix": "fa-outdent",
+        "body": "\\f\f03b",
+        "description": "fontawesome fa-outdent",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-indent": {
+        "prefix": "fa-indent",
+        "body": "\\f\f03c",
+        "description": "fontawesome fa-indent",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-video-camera": {
+        "prefix": "fa-video-camera",
+        "body": "\\f\f03d",
+        "description": "fontawesome fa-video-camera",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-photo": {
+        "prefix": "fa-photo",
+        "body": "\\f\f03e",
+        "description": "fontawesome fa-photo",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-image": {
+        "prefix": "fa-image",
+        "body": "\\f\f03e",
+        "description": "fontawesome fa-image",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-picture-o": {
+        "prefix": "fa-picture-o",
+        "body": "\\f\f03e",
+        "description": "fontawesome fa-picture-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pencil": {
+        "prefix": "fa-pencil",
+        "body": "\\f\f040",
+        "description": "fontawesome fa-pencil",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-map-marker": {
+        "prefix": "fa-map-marker",
+        "body": "\\f\f041",
+        "description": "fontawesome fa-map-marker",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-adjust": {
+        "prefix": "fa-adjust",
+        "body": "\\f\f042",
+        "description": "fontawesome fa-adjust",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tint": {
+        "prefix": "fa-tint",
+        "body": "\\f\f043",
+        "description": "fontawesome fa-tint",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-edit": {
+        "prefix": "fa-edit",
+        "body": "\\f\f044",
+        "description": "fontawesome fa-edit",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pencil-square-o": {
+        "prefix": "fa-pencil-square-o",
+        "body": "\\f\f044",
+        "description": "fontawesome fa-pencil-square-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-share-square-o": {
+        "prefix": "fa-share-square-o",
+        "body": "\\f\f045",
+        "description": "fontawesome fa-share-square-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-check-square-o": {
+        "prefix": "fa-check-square-o",
+        "body": "\\f\f046",
+        "description": "fontawesome fa-check-square-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrows": {
+        "prefix": "fa-arrows",
+        "body": "\\f\f047",
+        "description": "fontawesome fa-arrows",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-step-backward": {
+        "prefix": "fa-step-backward",
+        "body": "\\f\f048",
+        "description": "fontawesome fa-step-backward",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-fast-backward": {
+        "prefix": "fa-fast-backward",
+        "body": "\\f\f049",
+        "description": "fontawesome fa-fast-backward",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-backward": {
+        "prefix": "fa-backward",
+        "body": "\\f\f04a",
+        "description": "fontawesome fa-backward",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-play": {
+        "prefix": "fa-play",
+        "body": "\\f\f04b",
+        "description": "fontawesome fa-play",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pause": {
+        "prefix": "fa-pause",
+        "body": "\\f\f04c",
+        "description": "fontawesome fa-pause",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-stop": {
+        "prefix": "fa-stop",
+        "body": "\\f\f04d",
+        "description": "fontawesome fa-stop",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-forward": {
+        "prefix": "fa-forward",
+        "body": "\\f\f04e",
+        "description": "fontawesome fa-forward",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-fast-forward": {
+        "prefix": "fa-fast-forward",
+        "body": "\\f\f050",
+        "description": "fontawesome fa-fast-forward",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-step-forward": {
+        "prefix": "fa-step-forward",
+        "body": "\\f\f051",
+        "description": "fontawesome fa-step-forward",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-eject": {
+        "prefix": "fa-eject",
+        "body": "\\f\f052",
+        "description": "fontawesome fa-eject",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chevron-left": {
+        "prefix": "fa-chevron-left",
+        "body": "\\f\f053",
+        "description": "fontawesome fa-chevron-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chevron-right": {
+        "prefix": "fa-chevron-right",
+        "body": "\\f\f054",
+        "description": "fontawesome fa-chevron-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-plus-circle": {
+        "prefix": "fa-plus-circle",
+        "body": "\\f\f055",
+        "description": "fontawesome fa-plus-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-minus-circle": {
+        "prefix": "fa-minus-circle",
+        "body": "\\f\f056",
+        "description": "fontawesome fa-minus-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-times-circle": {
+        "prefix": "fa-times-circle",
+        "body": "\\f\f057",
+        "description": "fontawesome fa-times-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-check-circle": {
+        "prefix": "fa-check-circle",
+        "body": "\\f\f058",
+        "description": "fontawesome fa-check-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-question-circle": {
+        "prefix": "fa-question-circle",
+        "body": "\\f\f059",
+        "description": "fontawesome fa-question-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-info-circle": {
+        "prefix": "fa-info-circle",
+        "body": "\\f\f05a",
+        "description": "fontawesome fa-info-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-crosshairs": {
+        "prefix": "fa-crosshairs",
+        "body": "\\f\f05b",
+        "description": "fontawesome fa-crosshairs",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-times-circle-o": {
+        "prefix": "fa-times-circle-o",
+        "body": "\\f\f05c",
+        "description": "fontawesome fa-times-circle-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-check-circle-o": {
+        "prefix": "fa-check-circle-o",
+        "body": "\\f\f05d",
+        "description": "fontawesome fa-check-circle-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ban": {
+        "prefix": "fa-ban",
+        "body": "\\f\f05e",
+        "description": "fontawesome fa-ban",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-left": {
+        "prefix": "fa-arrow-left",
+        "body": "\\f\f060",
+        "description": "fontawesome fa-arrow-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-right": {
+        "prefix": "fa-arrow-right",
+        "body": "\\f\f061",
+        "description": "fontawesome fa-arrow-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-up": {
+        "prefix": "fa-arrow-up",
+        "body": "\\f\f062",
+        "description": "fontawesome fa-arrow-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-down": {
+        "prefix": "fa-arrow-down",
+        "body": "\\f\f063",
+        "description": "fontawesome fa-arrow-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mail-forward": {
+        "prefix": "fa-mail-forward",
+        "body": "\\f\f064",
+        "description": "fontawesome fa-mail-forward",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-share": {
+        "prefix": "fa-share",
+        "body": "\\f\f064",
+        "description": "fontawesome fa-share",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-expand": {
+        "prefix": "fa-expand",
+        "body": "\\f\f065",
+        "description": "fontawesome fa-expand",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-compress": {
+        "prefix": "fa-compress",
+        "body": "\\f\f066",
+        "description": "fontawesome fa-compress",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-plus": {
+        "prefix": "fa-plus",
+        "body": "\\f\f067",
+        "description": "fontawesome fa-plus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-minus": {
+        "prefix": "fa-minus",
+        "body": "\\f\f068",
+        "description": "fontawesome fa-minus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-asterisk": {
+        "prefix": "fa-asterisk",
+        "body": "\\f\f069",
+        "description": "fontawesome fa-asterisk",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-exclamation-circle": {
+        "prefix": "fa-exclamation-circle",
+        "body": "\\f\f06a",
+        "description": "fontawesome fa-exclamation-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gift": {
+        "prefix": "fa-gift",
+        "body": "\\f\f06b",
+        "description": "fontawesome fa-gift",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-leaf": {
+        "prefix": "fa-leaf",
+        "body": "\\f\f06c",
+        "description": "fontawesome fa-leaf",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-fire": {
+        "prefix": "fa-fire",
+        "body": "\\f\f06d",
+        "description": "fontawesome fa-fire",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-eye": {
+        "prefix": "fa-eye",
+        "body": "\\f\f06e",
+        "description": "fontawesome fa-eye",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-eye-slash": {
+        "prefix": "fa-eye-slash",
+        "body": "\\f\f070",
+        "description": "fontawesome fa-eye-slash",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-warning": {
+        "prefix": "fa-warning",
+        "body": "\\f\f071",
+        "description": "fontawesome fa-warning",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-exclamation-triangle": {
+        "prefix": "fa-exclamation-triangle",
+        "body": "\\f\f071",
+        "description": "fontawesome fa-exclamation-triangle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-plane": {
+        "prefix": "fa-plane",
+        "body": "\\f\f072",
+        "description": "fontawesome fa-plane",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-calendar": {
+        "prefix": "fa-calendar",
+        "body": "\\f\f073",
+        "description": "fontawesome fa-calendar",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-random": {
+        "prefix": "fa-random",
+        "body": "\\f\f074",
+        "description": "fontawesome fa-random",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-comment": {
+        "prefix": "fa-comment",
+        "body": "\\f\f075",
+        "description": "fontawesome fa-comment",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-magnet": {
+        "prefix": "fa-magnet",
+        "body": "\\f\f076",
+        "description": "fontawesome fa-magnet",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chevron-up": {
+        "prefix": "fa-chevron-up",
+        "body": "\\f\f077",
+        "description": "fontawesome fa-chevron-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chevron-down": {
+        "prefix": "fa-chevron-down",
+        "body": "\\f\f078",
+        "description": "fontawesome fa-chevron-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-retweet": {
+        "prefix": "fa-retweet",
+        "body": "\\f\f079",
+        "description": "fontawesome fa-retweet",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-shopping-cart": {
+        "prefix": "fa-shopping-cart",
+        "body": "\\f\f07a",
+        "description": "fontawesome fa-shopping-cart",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-folder": {
+        "prefix": "fa-folder",
+        "body": "\\f\f07b",
+        "description": "fontawesome fa-folder",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-folder-open": {
+        "prefix": "fa-folder-open",
+        "body": "\\f\f07c",
+        "description": "fontawesome fa-folder-open",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrows-v": {
+        "prefix": "fa-arrows-v",
+        "body": "\\f\f07d",
+        "description": "fontawesome fa-arrows-v",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrows-h": {
+        "prefix": "fa-arrows-h",
+        "body": "\\f\f07e",
+        "description": "fontawesome fa-arrows-h",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bar-chart-o": {
+        "prefix": "fa-bar-chart-o",
+        "body": "\\f\f080",
+        "description": "fontawesome fa-bar-chart-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bar-chart": {
+        "prefix": "fa-bar-chart",
+        "body": "\\f\f080",
+        "description": "fontawesome fa-bar-chart",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-twitter-square": {
+        "prefix": "fa-twitter-square",
+        "body": "\\f\f081",
+        "description": "fontawesome fa-twitter-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-facebook-square": {
+        "prefix": "fa-facebook-square",
+        "body": "\\f\f082",
+        "description": "fontawesome fa-facebook-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-camera-retro": {
+        "prefix": "fa-camera-retro",
+        "body": "\\f\f083",
+        "description": "fontawesome fa-camera-retro",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-key": {
+        "prefix": "fa-key",
+        "body": "\\f\f084",
+        "description": "fontawesome fa-key",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gears": {
+        "prefix": "fa-gears",
+        "body": "\\f\f085",
+        "description": "fontawesome fa-gears",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cogs": {
+        "prefix": "fa-cogs",
+        "body": "\\f\f085",
+        "description": "fontawesome fa-cogs",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-comments": {
+        "prefix": "fa-comments",
+        "body": "\\f\f086",
+        "description": "fontawesome fa-comments",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-thumbs-o-up": {
+        "prefix": "fa-thumbs-o-up",
+        "body": "\\f\f087",
+        "description": "fontawesome fa-thumbs-o-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-thumbs-o-down": {
+        "prefix": "fa-thumbs-o-down",
+        "body": "\\f\f088",
+        "description": "fontawesome fa-thumbs-o-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-star-half": {
+        "prefix": "fa-star-half",
+        "body": "\\f\f089",
+        "description": "fontawesome fa-star-half",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-heart-o": {
+        "prefix": "fa-heart-o",
+        "body": "\\f\f08a",
+        "description": "fontawesome fa-heart-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sign-out": {
+        "prefix": "fa-sign-out",
+        "body": "\\f\f08b",
+        "description": "fontawesome fa-sign-out",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-linkedin-square": {
+        "prefix": "fa-linkedin-square",
+        "body": "\\f\f08c",
+        "description": "fontawesome fa-linkedin-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-thumb-tack": {
+        "prefix": "fa-thumb-tack",
+        "body": "\\f\f08d",
+        "description": "fontawesome fa-thumb-tack",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-external-link": {
+        "prefix": "fa-external-link",
+        "body": "\\f\f08e",
+        "description": "fontawesome fa-external-link",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sign-in": {
+        "prefix": "fa-sign-in",
+        "body": "\\f\f090",
+        "description": "fontawesome fa-sign-in",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-trophy": {
+        "prefix": "fa-trophy",
+        "body": "\\f\f091",
+        "description": "fontawesome fa-trophy",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-github-square": {
+        "prefix": "fa-github-square",
+        "body": "\\f\f092",
+        "description": "fontawesome fa-github-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-upload": {
+        "prefix": "fa-upload",
+        "body": "\\f\f093",
+        "description": "fontawesome fa-upload",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-lemon-o": {
+        "prefix": "fa-lemon-o",
+        "body": "\\f\f094",
+        "description": "fontawesome fa-lemon-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-phone": {
+        "prefix": "fa-phone",
+        "body": "\\f\f095",
+        "description": "fontawesome fa-phone",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-square-o": {
+        "prefix": "fa-square-o",
+        "body": "\\f\f096",
+        "description": "fontawesome fa-square-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bookmark-o": {
+        "prefix": "fa-bookmark-o",
+        "body": "\\f\f097",
+        "description": "fontawesome fa-bookmark-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-phone-square": {
+        "prefix": "fa-phone-square",
+        "body": "\\f\f098",
+        "description": "fontawesome fa-phone-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-twitter": {
+        "prefix": "fa-twitter",
+        "body": "\\f\f099",
+        "description": "fontawesome fa-twitter",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-facebook-f": {
+        "prefix": "fa-facebook-f",
+        "body": "\\f\f09a",
+        "description": "fontawesome fa-facebook-f",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-facebook": {
+        "prefix": "fa-facebook",
+        "body": "\\f\f09a",
+        "description": "fontawesome fa-facebook",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-github": {
+        "prefix": "fa-github",
+        "body": "\\f\f09b",
+        "description": "fontawesome fa-github",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-unlock": {
+        "prefix": "fa-unlock",
+        "body": "\\f\f09c",
+        "description": "fontawesome fa-unlock",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-credit-card": {
+        "prefix": "fa-credit-card",
+        "body": "\\f\f09d",
+        "description": "fontawesome fa-credit-card",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-feed": {
+        "prefix": "fa-feed",
+        "body": "\\f\f09e",
+        "description": "fontawesome fa-feed",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rss": {
+        "prefix": "fa-rss",
+        "body": "\\f\f09e",
+        "description": "fontawesome fa-rss",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hdd-o": {
+        "prefix": "fa-hdd-o",
+        "body": "\\f\f0a0",
+        "description": "fontawesome fa-hdd-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bullhorn": {
+        "prefix": "fa-bullhorn",
+        "body": "\\f\f0a1",
+        "description": "fontawesome fa-bullhorn",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bell": {
+        "prefix": "fa-bell",
+        "body": "\\f\f0f3",
+        "description": "fontawesome fa-bell",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-certificate": {
+        "prefix": "fa-certificate",
+        "body": "\\f\f0a3",
+        "description": "fontawesome fa-certificate",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-o-right": {
+        "prefix": "fa-hand-o-right",
+        "body": "\\f\f0a4",
+        "description": "fontawesome fa-hand-o-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-o-left": {
+        "prefix": "fa-hand-o-left",
+        "body": "\\f\f0a5",
+        "description": "fontawesome fa-hand-o-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-o-up": {
+        "prefix": "fa-hand-o-up",
+        "body": "\\f\f0a6",
+        "description": "fontawesome fa-hand-o-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-o-down": {
+        "prefix": "fa-hand-o-down",
+        "body": "\\f\f0a7",
+        "description": "fontawesome fa-hand-o-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-circle-left": {
+        "prefix": "fa-arrow-circle-left",
+        "body": "\\f\f0a8",
+        "description": "fontawesome fa-arrow-circle-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-circle-right": {
+        "prefix": "fa-arrow-circle-right",
+        "body": "\\f\f0a9",
+        "description": "fontawesome fa-arrow-circle-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-circle-up": {
+        "prefix": "fa-arrow-circle-up",
+        "body": "\\f\f0aa",
+        "description": "fontawesome fa-arrow-circle-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-circle-down": {
+        "prefix": "fa-arrow-circle-down",
+        "body": "\\f\f0ab",
+        "description": "fontawesome fa-arrow-circle-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-globe": {
+        "prefix": "fa-globe",
+        "body": "\\f\f0ac",
+        "description": "fontawesome fa-globe",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wrench": {
+        "prefix": "fa-wrench",
+        "body": "\\f\f0ad",
+        "description": "fontawesome fa-wrench",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tasks": {
+        "prefix": "fa-tasks",
+        "body": "\\f\f0ae",
+        "description": "fontawesome fa-tasks",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-filter": {
+        "prefix": "fa-filter",
+        "body": "\\f\f0b0",
+        "description": "fontawesome fa-filter",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-briefcase": {
+        "prefix": "fa-briefcase",
+        "body": "\\f\f0b1",
+        "description": "fontawesome fa-briefcase",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrows-alt": {
+        "prefix": "fa-arrows-alt",
+        "body": "\\f\f0b2",
+        "description": "fontawesome fa-arrows-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-group": {
+        "prefix": "fa-group",
+        "body": "\\f\f0c0",
+        "description": "fontawesome fa-group",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-users": {
+        "prefix": "fa-users",
+        "body": "\\f\f0c0",
+        "description": "fontawesome fa-users",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chain": {
+        "prefix": "fa-chain",
+        "body": "\\f\f0c1",
+        "description": "fontawesome fa-chain",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-link": {
+        "prefix": "fa-link",
+        "body": "\\f\f0c1",
+        "description": "fontawesome fa-link",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cloud": {
+        "prefix": "fa-cloud",
+        "body": "\\f\f0c2",
+        "description": "fontawesome fa-cloud",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-flask": {
+        "prefix": "fa-flask",
+        "body": "\\f\f0c3",
+        "description": "fontawesome fa-flask",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cut": {
+        "prefix": "fa-cut",
+        "body": "\\f\f0c4",
+        "description": "fontawesome fa-cut",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-scissors": {
+        "prefix": "fa-scissors",
+        "body": "\\f\f0c4",
+        "description": "fontawesome fa-scissors",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-copy": {
+        "prefix": "fa-copy",
+        "body": "\\f\f0c5",
+        "description": "fontawesome fa-copy",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-files-o": {
+        "prefix": "fa-files-o",
+        "body": "\\f\f0c5",
+        "description": "fontawesome fa-files-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-paperclip": {
+        "prefix": "fa-paperclip",
+        "body": "\\f\f0c6",
+        "description": "fontawesome fa-paperclip",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-save": {
+        "prefix": "fa-save",
+        "body": "\\f\f0c7",
+        "description": "fontawesome fa-save",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-floppy-o": {
+        "prefix": "fa-floppy-o",
+        "body": "\\f\f0c7",
+        "description": "fontawesome fa-floppy-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-square": {
+        "prefix": "fa-square",
+        "body": "\\f\f0c8",
+        "description": "fontawesome fa-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-navicon": {
+        "prefix": "fa-navicon",
+        "body": "\\f\f0c9",
+        "description": "fontawesome fa-navicon",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-reorder": {
+        "prefix": "fa-reorder",
+        "body": "\\f\f0c9",
+        "description": "fontawesome fa-reorder",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bars": {
+        "prefix": "fa-bars",
+        "body": "\\f\f0c9",
+        "description": "fontawesome fa-bars",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-list-ul": {
+        "prefix": "fa-list-ul",
+        "body": "\\f\f0ca",
+        "description": "fontawesome fa-list-ul",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-list-ol": {
+        "prefix": "fa-list-ol",
+        "body": "\\f\f0cb",
+        "description": "fontawesome fa-list-ol",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-strikethrough": {
+        "prefix": "fa-strikethrough",
+        "body": "\\f\f0cc",
+        "description": "fontawesome fa-strikethrough",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-underline": {
+        "prefix": "fa-underline",
+        "body": "\\f\f0cd",
+        "description": "fontawesome fa-underline",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-table": {
+        "prefix": "fa-table",
+        "body": "\\f\f0ce",
+        "description": "fontawesome fa-table",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-magic": {
+        "prefix": "fa-magic",
+        "body": "\\f\f0d0",
+        "description": "fontawesome fa-magic",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-truck": {
+        "prefix": "fa-truck",
+        "body": "\\f\f0d1",
+        "description": "fontawesome fa-truck",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pinterest": {
+        "prefix": "fa-pinterest",
+        "body": "\\f\f0d2",
+        "description": "fontawesome fa-pinterest",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pinterest-square": {
+        "prefix": "fa-pinterest-square",
+        "body": "\\f\f0d3",
+        "description": "fontawesome fa-pinterest-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-google-plus-square": {
+        "prefix": "fa-google-plus-square",
+        "body": "\\f\f0d4",
+        "description": "fontawesome fa-google-plus-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-google-plus": {
+        "prefix": "fa-google-plus",
+        "body": "\\f\f0d5",
+        "description": "fontawesome fa-google-plus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-money": {
+        "prefix": "fa-money",
+        "body": "\\f\f0d6",
+        "description": "fontawesome fa-money",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-caret-down": {
+        "prefix": "fa-caret-down",
+        "body": "\\f\f0d7",
+        "description": "fontawesome fa-caret-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-caret-up": {
+        "prefix": "fa-caret-up",
+        "body": "\\f\f0d8",
+        "description": "fontawesome fa-caret-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-caret-left": {
+        "prefix": "fa-caret-left",
+        "body": "\\f\f0d9",
+        "description": "fontawesome fa-caret-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-caret-right": {
+        "prefix": "fa-caret-right",
+        "body": "\\f\f0da",
+        "description": "fontawesome fa-caret-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-columns": {
+        "prefix": "fa-columns",
+        "body": "\\f\f0db",
+        "description": "fontawesome fa-columns",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-unsorted": {
+        "prefix": "fa-unsorted",
+        "body": "\\f\f0dc",
+        "description": "fontawesome fa-unsorted",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort": {
+        "prefix": "fa-sort",
+        "body": "\\f\f0dc",
+        "description": "fontawesome fa-sort",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-down": {
+        "prefix": "fa-sort-down",
+        "body": "\\f\f0dd",
+        "description": "fontawesome fa-sort-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-desc": {
+        "prefix": "fa-sort-desc",
+        "body": "\\f\f0dd",
+        "description": "fontawesome fa-sort-desc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-up": {
+        "prefix": "fa-sort-up",
+        "body": "\\f\f0de",
+        "description": "fontawesome fa-sort-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-asc": {
+        "prefix": "fa-sort-asc",
+        "body": "\\f\f0de",
+        "description": "fontawesome fa-sort-asc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-envelope": {
+        "prefix": "fa-envelope",
+        "body": "\\f\f0e0",
+        "description": "fontawesome fa-envelope",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-linkedin": {
+        "prefix": "fa-linkedin",
+        "body": "\\f\f0e1",
+        "description": "fontawesome fa-linkedin",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rotate-left": {
+        "prefix": "fa-rotate-left",
+        "body": "\\f\f0e2",
+        "description": "fontawesome fa-rotate-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-undo": {
+        "prefix": "fa-undo",
+        "body": "\\f\f0e2",
+        "description": "fontawesome fa-undo",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-legal": {
+        "prefix": "fa-legal",
+        "body": "\\f\f0e3",
+        "description": "fontawesome fa-legal",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gavel": {
+        "prefix": "fa-gavel",
+        "body": "\\f\f0e3",
+        "description": "fontawesome fa-gavel",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-dashboard": {
+        "prefix": "fa-dashboard",
+        "body": "\\f\f0e4",
+        "description": "fontawesome fa-dashboard",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tachometer": {
+        "prefix": "fa-tachometer",
+        "body": "\\f\f0e4",
+        "description": "fontawesome fa-tachometer",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-comment-o": {
+        "prefix": "fa-comment-o",
+        "body": "\\f\f0e5",
+        "description": "fontawesome fa-comment-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-comments-o": {
+        "prefix": "fa-comments-o",
+        "body": "\\f\f0e6",
+        "description": "fontawesome fa-comments-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-flash": {
+        "prefix": "fa-flash",
+        "body": "\\f\f0e7",
+        "description": "fontawesome fa-flash",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bolt": {
+        "prefix": "fa-bolt",
+        "body": "\\f\f0e7",
+        "description": "fontawesome fa-bolt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sitemap": {
+        "prefix": "fa-sitemap",
+        "body": "\\f\f0e8",
+        "description": "fontawesome fa-sitemap",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-umbrella": {
+        "prefix": "fa-umbrella",
+        "body": "\\f\f0e9",
+        "description": "fontawesome fa-umbrella",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-paste": {
+        "prefix": "fa-paste",
+        "body": "\\f\f0ea",
+        "description": "fontawesome fa-paste",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-clipboard": {
+        "prefix": "fa-clipboard",
+        "body": "\\f\f0ea",
+        "description": "fontawesome fa-clipboard",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-lightbulb-o": {
+        "prefix": "fa-lightbulb-o",
+        "body": "\\f\f0eb",
+        "description": "fontawesome fa-lightbulb-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-exchange": {
+        "prefix": "fa-exchange",
+        "body": "\\f\f0ec",
+        "description": "fontawesome fa-exchange",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cloud-download": {
+        "prefix": "fa-cloud-download",
+        "body": "\\f\f0ed",
+        "description": "fontawesome fa-cloud-download",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cloud-upload": {
+        "prefix": "fa-cloud-upload",
+        "body": "\\f\f0ee",
+        "description": "fontawesome fa-cloud-upload",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-user-md": {
+        "prefix": "fa-user-md",
+        "body": "\\f\f0f0",
+        "description": "fontawesome fa-user-md",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-stethoscope": {
+        "prefix": "fa-stethoscope",
+        "body": "\\f\f0f1",
+        "description": "fontawesome fa-stethoscope",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-suitcase": {
+        "prefix": "fa-suitcase",
+        "body": "\\f\f0f2",
+        "description": "fontawesome fa-suitcase",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bell-o": {
+        "prefix": "fa-bell-o",
+        "body": "\\f\f0a2",
+        "description": "fontawesome fa-bell-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-coffee": {
+        "prefix": "fa-coffee",
+        "body": "\\f\f0f4",
+        "description": "fontawesome fa-coffee",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cutlery": {
+        "prefix": "fa-cutlery",
+        "body": "\\f\f0f5",
+        "description": "fontawesome fa-cutlery",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-text-o": {
+        "prefix": "fa-file-text-o",
+        "body": "\\f\f0f6",
+        "description": "fontawesome fa-file-text-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-building-o": {
+        "prefix": "fa-building-o",
+        "body": "\\f\f0f7",
+        "description": "fontawesome fa-building-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hospital-o": {
+        "prefix": "fa-hospital-o",
+        "body": "\\f\f0f8",
+        "description": "fontawesome fa-hospital-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ambulance": {
+        "prefix": "fa-ambulance",
+        "body": "\\f\f0f9",
+        "description": "fontawesome fa-ambulance",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-medkit": {
+        "prefix": "fa-medkit",
+        "body": "\\f\f0fa",
+        "description": "fontawesome fa-medkit",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-fighter-jet": {
+        "prefix": "fa-fighter-jet",
+        "body": "\\f\f0fb",
+        "description": "fontawesome fa-fighter-jet",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-beer": {
+        "prefix": "fa-beer",
+        "body": "\\f\f0fc",
+        "description": "fontawesome fa-beer",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-h-square": {
+        "prefix": "fa-h-square",
+        "body": "\\f\f0fd",
+        "description": "fontawesome fa-h-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-plus-square": {
+        "prefix": "fa-plus-square",
+        "body": "\\f\f0fe",
+        "description": "fontawesome fa-plus-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angle-double-left": {
+        "prefix": "fa-angle-double-left",
+        "body": "\\f\f100",
+        "description": "fontawesome fa-angle-double-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angle-double-right": {
+        "prefix": "fa-angle-double-right",
+        "body": "\\f\f101",
+        "description": "fontawesome fa-angle-double-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angle-double-up": {
+        "prefix": "fa-angle-double-up",
+        "body": "\\f\f102",
+        "description": "fontawesome fa-angle-double-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angle-double-down": {
+        "prefix": "fa-angle-double-down",
+        "body": "\\f\f103",
+        "description": "fontawesome fa-angle-double-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angle-left": {
+        "prefix": "fa-angle-left",
+        "body": "\\f\f104",
+        "description": "fontawesome fa-angle-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angle-right": {
+        "prefix": "fa-angle-right",
+        "body": "\\f\f105",
+        "description": "fontawesome fa-angle-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angle-up": {
+        "prefix": "fa-angle-up",
+        "body": "\\f\f106",
+        "description": "fontawesome fa-angle-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angle-down": {
+        "prefix": "fa-angle-down",
+        "body": "\\f\f107",
+        "description": "fontawesome fa-angle-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-desktop": {
+        "prefix": "fa-desktop",
+        "body": "\\f\f108",
+        "description": "fontawesome fa-desktop",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-laptop": {
+        "prefix": "fa-laptop",
+        "body": "\\f\f109",
+        "description": "fontawesome fa-laptop",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tablet": {
+        "prefix": "fa-tablet",
+        "body": "\\f\f10a",
+        "description": "fontawesome fa-tablet",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mobile-phone": {
+        "prefix": "fa-mobile-phone",
+        "body": "\\f\f10b",
+        "description": "fontawesome fa-mobile-phone",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mobile": {
+        "prefix": "fa-mobile",
+        "body": "\\f\f10b",
+        "description": "fontawesome fa-mobile",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-circle-o": {
+        "prefix": "fa-circle-o",
+        "body": "\\f\f10c",
+        "description": "fontawesome fa-circle-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-quote-left": {
+        "prefix": "fa-quote-left",
+        "body": "\\f\f10d",
+        "description": "fontawesome fa-quote-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-quote-right": {
+        "prefix": "fa-quote-right",
+        "body": "\\f\f10e",
+        "description": "fontawesome fa-quote-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-spinner": {
+        "prefix": "fa-spinner",
+        "body": "\\f\f110",
+        "description": "fontawesome fa-spinner",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-circle": {
+        "prefix": "fa-circle",
+        "body": "\\f\f111",
+        "description": "fontawesome fa-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mail-reply": {
+        "prefix": "fa-mail-reply",
+        "body": "\\f\f112",
+        "description": "fontawesome fa-mail-reply",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-reply": {
+        "prefix": "fa-reply",
+        "body": "\\f\f112",
+        "description": "fontawesome fa-reply",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-github-alt": {
+        "prefix": "fa-github-alt",
+        "body": "\\f\f113",
+        "description": "fontawesome fa-github-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-folder-o": {
+        "prefix": "fa-folder-o",
+        "body": "\\f\f114",
+        "description": "fontawesome fa-folder-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-folder-open-o": {
+        "prefix": "fa-folder-open-o",
+        "body": "\\f\f115",
+        "description": "fontawesome fa-folder-open-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-smile-o": {
+        "prefix": "fa-smile-o",
+        "body": "\\f\f118",
+        "description": "fontawesome fa-smile-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-frown-o": {
+        "prefix": "fa-frown-o",
+        "body": "\\f\f119",
+        "description": "fontawesome fa-frown-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-meh-o": {
+        "prefix": "fa-meh-o",
+        "body": "\\f\f11a",
+        "description": "fontawesome fa-meh-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gamepad": {
+        "prefix": "fa-gamepad",
+        "body": "\\f\f11b",
+        "description": "fontawesome fa-gamepad",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-keyboard-o": {
+        "prefix": "fa-keyboard-o",
+        "body": "\\f\f11c",
+        "description": "fontawesome fa-keyboard-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-flag-o": {
+        "prefix": "fa-flag-o",
+        "body": "\\f\f11d",
+        "description": "fontawesome fa-flag-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-flag-checkered": {
+        "prefix": "fa-flag-checkered",
+        "body": "\\f\f11e",
+        "description": "fontawesome fa-flag-checkered",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-terminal": {
+        "prefix": "fa-terminal",
+        "body": "\\f\f120",
+        "description": "fontawesome fa-terminal",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-code": {
+        "prefix": "fa-code",
+        "body": "\\f\f121",
+        "description": "fontawesome fa-code",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mail-reply-all": {
+        "prefix": "fa-mail-reply-all",
+        "body": "\\f\f122",
+        "description": "fontawesome fa-mail-reply-all",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-reply-all": {
+        "prefix": "fa-reply-all",
+        "body": "\\f\f122",
+        "description": "fontawesome fa-reply-all",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-star-half-empty": {
+        "prefix": "fa-star-half-empty",
+        "body": "\\f\f123",
+        "description": "fontawesome fa-star-half-empty",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-star-half-full": {
+        "prefix": "fa-star-half-full",
+        "body": "\\f\f123",
+        "description": "fontawesome fa-star-half-full",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-star-half-o": {
+        "prefix": "fa-star-half-o",
+        "body": "\\f\f123",
+        "description": "fontawesome fa-star-half-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-location-arrow": {
+        "prefix": "fa-location-arrow",
+        "body": "\\f\f124",
+        "description": "fontawesome fa-location-arrow",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-crop": {
+        "prefix": "fa-crop",
+        "body": "\\f\f125",
+        "description": "fontawesome fa-crop",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-code-fork": {
+        "prefix": "fa-code-fork",
+        "body": "\\f\f126",
+        "description": "fontawesome fa-code-fork",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-unlink": {
+        "prefix": "fa-unlink",
+        "body": "\\f\f127",
+        "description": "fontawesome fa-unlink",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chain-broken": {
+        "prefix": "fa-chain-broken",
+        "body": "\\f\f127",
+        "description": "fontawesome fa-chain-broken",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-question": {
+        "prefix": "fa-question",
+        "body": "\\f\f128",
+        "description": "fontawesome fa-question",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-info": {
+        "prefix": "fa-info",
+        "body": "\\f\f129",
+        "description": "fontawesome fa-info",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-exclamation": {
+        "prefix": "fa-exclamation",
+        "body": "\\f\f12a",
+        "description": "fontawesome fa-exclamation",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-superscript": {
+        "prefix": "fa-superscript",
+        "body": "\\f\f12b",
+        "description": "fontawesome fa-superscript",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-subscript": {
+        "prefix": "fa-subscript",
+        "body": "\\f\f12c",
+        "description": "fontawesome fa-subscript",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-eraser": {
+        "prefix": "fa-eraser",
+        "body": "\\f\f12d",
+        "description": "fontawesome fa-eraser",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-puzzle-piece": {
+        "prefix": "fa-puzzle-piece",
+        "body": "\\f\f12e",
+        "description": "fontawesome fa-puzzle-piece",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-microphone": {
+        "prefix": "fa-microphone",
+        "body": "\\f\f130",
+        "description": "fontawesome fa-microphone",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-microphone-slash": {
+        "prefix": "fa-microphone-slash",
+        "body": "\\f\f131",
+        "description": "fontawesome fa-microphone-slash",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-shield": {
+        "prefix": "fa-shield",
+        "body": "\\f\f132",
+        "description": "fontawesome fa-shield",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-calendar-o": {
+        "prefix": "fa-calendar-o",
+        "body": "\\f\f133",
+        "description": "fontawesome fa-calendar-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-fire-extinguisher": {
+        "prefix": "fa-fire-extinguisher",
+        "body": "\\f\f134",
+        "description": "fontawesome fa-fire-extinguisher",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rocket": {
+        "prefix": "fa-rocket",
+        "body": "\\f\f135",
+        "description": "fontawesome fa-rocket",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-maxcdn": {
+        "prefix": "fa-maxcdn",
+        "body": "\\f\f136",
+        "description": "fontawesome fa-maxcdn",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chevron-circle-left": {
+        "prefix": "fa-chevron-circle-left",
+        "body": "\\f\f137",
+        "description": "fontawesome fa-chevron-circle-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chevron-circle-right": {
+        "prefix": "fa-chevron-circle-right",
+        "body": "\\f\f138",
+        "description": "fontawesome fa-chevron-circle-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chevron-circle-up": {
+        "prefix": "fa-chevron-circle-up",
+        "body": "\\f\f139",
+        "description": "fontawesome fa-chevron-circle-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chevron-circle-down": {
+        "prefix": "fa-chevron-circle-down",
+        "body": "\\f\f13a",
+        "description": "fontawesome fa-chevron-circle-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-html5": {
+        "prefix": "fa-html5",
+        "body": "\\f\f13b",
+        "description": "fontawesome fa-html5",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-css.scss.sass.less3": {
+        "prefix": "fa-css.scss.sass.less3",
+        "body": "\\f\f13c",
+        "description": "fontawesome fa-css.scss.sass.less3",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-anchor": {
+        "prefix": "fa-anchor",
+        "body": "\\f\f13d",
+        "description": "fontawesome fa-anchor",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-unlock-alt": {
+        "prefix": "fa-unlock-alt",
+        "body": "\\f\f13e",
+        "description": "fontawesome fa-unlock-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bullseye": {
+        "prefix": "fa-bullseye",
+        "body": "\\f\f140",
+        "description": "fontawesome fa-bullseye",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ellipsis-h": {
+        "prefix": "fa-ellipsis-h",
+        "body": "\\f\f141",
+        "description": "fontawesome fa-ellipsis-h",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ellipsis-v": {
+        "prefix": "fa-ellipsis-v",
+        "body": "\\f\f142",
+        "description": "fontawesome fa-ellipsis-v",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rss-square": {
+        "prefix": "fa-rss-square",
+        "body": "\\f\f143",
+        "description": "fontawesome fa-rss-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-play-circle": {
+        "prefix": "fa-play-circle",
+        "body": "\\f\f144",
+        "description": "fontawesome fa-play-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ticket": {
+        "prefix": "fa-ticket",
+        "body": "\\f\f145",
+        "description": "fontawesome fa-ticket",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-minus-square": {
+        "prefix": "fa-minus-square",
+        "body": "\\f\f146",
+        "description": "fontawesome fa-minus-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-minus-square-o": {
+        "prefix": "fa-minus-square-o",
+        "body": "\\f\f147",
+        "description": "fontawesome fa-minus-square-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-level-up": {
+        "prefix": "fa-level-up",
+        "body": "\\f\f148",
+        "description": "fontawesome fa-level-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-level-down": {
+        "prefix": "fa-level-down",
+        "body": "\\f\f149",
+        "description": "fontawesome fa-level-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-check-square": {
+        "prefix": "fa-check-square",
+        "body": "\\f\f14a",
+        "description": "fontawesome fa-check-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pencil-square": {
+        "prefix": "fa-pencil-square",
+        "body": "\\f\f14b",
+        "description": "fontawesome fa-pencil-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-external-link-square": {
+        "prefix": "fa-external-link-square",
+        "body": "\\f\f14c",
+        "description": "fontawesome fa-external-link-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-share-square": {
+        "prefix": "fa-share-square",
+        "body": "\\f\f14d",
+        "description": "fontawesome fa-share-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-compass": {
+        "prefix": "fa-compass",
+        "body": "\\f\f14e",
+        "description": "fontawesome fa-compass",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-toggle-down": {
+        "prefix": "fa-toggle-down",
+        "body": "\\f\f150",
+        "description": "fontawesome fa-toggle-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-caret-square-o-down": {
+        "prefix": "fa-caret-square-o-down",
+        "body": "\\f\f150",
+        "description": "fontawesome fa-caret-square-o-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-toggle-up": {
+        "prefix": "fa-toggle-up",
+        "body": "\\f\f151",
+        "description": "fontawesome fa-toggle-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-caret-square-o-up": {
+        "prefix": "fa-caret-square-o-up",
+        "body": "\\f\f151",
+        "description": "fontawesome fa-caret-square-o-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-toggle-right": {
+        "prefix": "fa-toggle-right",
+        "body": "\\f\f152",
+        "description": "fontawesome fa-toggle-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-caret-square-o-right": {
+        "prefix": "fa-caret-square-o-right",
+        "body": "\\f\f152",
+        "description": "fontawesome fa-caret-square-o-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-euro": {
+        "prefix": "fa-euro",
+        "body": "\\f\f153",
+        "description": "fontawesome fa-euro",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-eur": {
+        "prefix": "fa-eur",
+        "body": "\\f\f153",
+        "description": "fontawesome fa-eur",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gbp": {
+        "prefix": "fa-gbp",
+        "body": "\\f\f154",
+        "description": "fontawesome fa-gbp",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-dollar": {
+        "prefix": "fa-dollar",
+        "body": "\\f\f155",
+        "description": "fontawesome fa-dollar",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-usd": {
+        "prefix": "fa-usd",
+        "body": "\\f\f155",
+        "description": "fontawesome fa-usd",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rupee": {
+        "prefix": "fa-rupee",
+        "body": "\\f\f156",
+        "description": "fontawesome fa-rupee",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-inr": {
+        "prefix": "fa-inr",
+        "body": "\\f\f156",
+        "description": "fontawesome fa-inr",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cny": {
+        "prefix": "fa-cny",
+        "body": "\\f\f157",
+        "description": "fontawesome fa-cny",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rmb": {
+        "prefix": "fa-rmb",
+        "body": "\\f\f157",
+        "description": "fontawesome fa-rmb",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-yen": {
+        "prefix": "fa-yen",
+        "body": "\\f\f157",
+        "description": "fontawesome fa-yen",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-jpy": {
+        "prefix": "fa-jpy",
+        "body": "\\f\f157",
+        "description": "fontawesome fa-jpy",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ruble": {
+        "prefix": "fa-ruble",
+        "body": "\\f\f158",
+        "description": "fontawesome fa-ruble",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rouble": {
+        "prefix": "fa-rouble",
+        "body": "\\f\f158",
+        "description": "fontawesome fa-rouble",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rub": {
+        "prefix": "fa-rub",
+        "body": "\\f\f158",
+        "description": "fontawesome fa-rub",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-won": {
+        "prefix": "fa-won",
+        "body": "\\f\f159",
+        "description": "fontawesome fa-won",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-krw": {
+        "prefix": "fa-krw",
+        "body": "\\f\f159",
+        "description": "fontawesome fa-krw",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bitcoin": {
+        "prefix": "fa-bitcoin",
+        "body": "\\f\f15a",
+        "description": "fontawesome fa-bitcoin",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-btc": {
+        "prefix": "fa-btc",
+        "body": "\\f\f15a",
+        "description": "fontawesome fa-btc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file": {
+        "prefix": "fa-file",
+        "body": "\\f\f15b",
+        "description": "fontawesome fa-file",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-text": {
+        "prefix": "fa-file-text",
+        "body": "\\f\f15c",
+        "description": "fontawesome fa-file-text",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-alpha-asc": {
+        "prefix": "fa-sort-alpha-asc",
+        "body": "\\f\f15d",
+        "description": "fontawesome fa-sort-alpha-asc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-alpha-desc": {
+        "prefix": "fa-sort-alpha-desc",
+        "body": "\\f\f15e",
+        "description": "fontawesome fa-sort-alpha-desc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-amount-asc": {
+        "prefix": "fa-sort-amount-asc",
+        "body": "\\f\f160",
+        "description": "fontawesome fa-sort-amount-asc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-amount-desc": {
+        "prefix": "fa-sort-amount-desc",
+        "body": "\\f\f161",
+        "description": "fontawesome fa-sort-amount-desc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-numeric-asc": {
+        "prefix": "fa-sort-numeric-asc",
+        "body": "\\f\f162",
+        "description": "fontawesome fa-sort-numeric-asc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sort-numeric-desc": {
+        "prefix": "fa-sort-numeric-desc",
+        "body": "\\f\f163",
+        "description": "fontawesome fa-sort-numeric-desc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-thumbs-up": {
+        "prefix": "fa-thumbs-up",
+        "body": "\\f\f164",
+        "description": "fontawesome fa-thumbs-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-thumbs-down": {
+        "prefix": "fa-thumbs-down",
+        "body": "\\f\f165",
+        "description": "fontawesome fa-thumbs-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-youtube-square": {
+        "prefix": "fa-youtube-square",
+        "body": "\\f\f166",
+        "description": "fontawesome fa-youtube-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-youtube": {
+        "prefix": "fa-youtube",
+        "body": "\\f\f167",
+        "description": "fontawesome fa-youtube",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-xing": {
+        "prefix": "fa-xing",
+        "body": "\\f\f168",
+        "description": "fontawesome fa-xing",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-xing-square": {
+        "prefix": "fa-xing-square",
+        "body": "\\f\f169",
+        "description": "fontawesome fa-xing-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-youtube-play": {
+        "prefix": "fa-youtube-play",
+        "body": "\\f\f16a",
+        "description": "fontawesome fa-youtube-play",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-dropbox": {
+        "prefix": "fa-dropbox",
+        "body": "\\f\f16b",
+        "description": "fontawesome fa-dropbox",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-stack-overflow": {
+        "prefix": "fa-stack-overflow",
+        "body": "\\f\f16c",
+        "description": "fontawesome fa-stack-overflow",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-instagram": {
+        "prefix": "fa-instagram",
+        "body": "\\f\f16d",
+        "description": "fontawesome fa-instagram",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-flickr": {
+        "prefix": "fa-flickr",
+        "body": "\\f\f16e",
+        "description": "fontawesome fa-flickr",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-adn": {
+        "prefix": "fa-adn",
+        "body": "\\f\f170",
+        "description": "fontawesome fa-adn",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bitbucket": {
+        "prefix": "fa-bitbucket",
+        "body": "\\f\f171",
+        "description": "fontawesome fa-bitbucket",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bitbucket-square": {
+        "prefix": "fa-bitbucket-square",
+        "body": "\\f\f172",
+        "description": "fontawesome fa-bitbucket-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tumblr": {
+        "prefix": "fa-tumblr",
+        "body": "\\f\f173",
+        "description": "fontawesome fa-tumblr",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tumblr-square": {
+        "prefix": "fa-tumblr-square",
+        "body": "\\f\f174",
+        "description": "fontawesome fa-tumblr-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-long-arrow-down": {
+        "prefix": "fa-long-arrow-down",
+        "body": "\\f\f175",
+        "description": "fontawesome fa-long-arrow-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-long-arrow-up": {
+        "prefix": "fa-long-arrow-up",
+        "body": "\\f\f176",
+        "description": "fontawesome fa-long-arrow-up",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-long-arrow-left": {
+        "prefix": "fa-long-arrow-left",
+        "body": "\\f\f177",
+        "description": "fontawesome fa-long-arrow-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-long-arrow-right": {
+        "prefix": "fa-long-arrow-right",
+        "body": "\\f\f178",
+        "description": "fontawesome fa-long-arrow-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-apple": {
+        "prefix": "fa-apple",
+        "body": "\\f\f179",
+        "description": "fontawesome fa-apple",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-windows": {
+        "prefix": "fa-windows",
+        "body": "\\f\f17a",
+        "description": "fontawesome fa-windows",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-android": {
+        "prefix": "fa-android",
+        "body": "\\f\f17b",
+        "description": "fontawesome fa-android",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-linux": {
+        "prefix": "fa-linux",
+        "body": "\\f\f17c",
+        "description": "fontawesome fa-linux",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-dribbble": {
+        "prefix": "fa-dribbble",
+        "body": "\\f\f17d",
+        "description": "fontawesome fa-dribbble",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-skype": {
+        "prefix": "fa-skype",
+        "body": "\\f\f17e",
+        "description": "fontawesome fa-skype",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-foursquare": {
+        "prefix": "fa-foursquare",
+        "body": "\\f\f180",
+        "description": "fontawesome fa-foursquare",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-trello": {
+        "prefix": "fa-trello",
+        "body": "\\f\f181",
+        "description": "fontawesome fa-trello",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-female": {
+        "prefix": "fa-female",
+        "body": "\\f\f182",
+        "description": "fontawesome fa-female",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-male": {
+        "prefix": "fa-male",
+        "body": "\\f\f183",
+        "description": "fontawesome fa-male",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gittip": {
+        "prefix": "fa-gittip",
+        "body": "\\f\f184",
+        "description": "fontawesome fa-gittip",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gratipay": {
+        "prefix": "fa-gratipay",
+        "body": "\\f\f184",
+        "description": "fontawesome fa-gratipay",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sun-o": {
+        "prefix": "fa-sun-o",
+        "body": "\\f\f185",
+        "description": "fontawesome fa-sun-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-moon-o": {
+        "prefix": "fa-moon-o",
+        "body": "\\f\f186",
+        "description": "fontawesome fa-moon-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-archive": {
+        "prefix": "fa-archive",
+        "body": "\\f\f187",
+        "description": "fontawesome fa-archive",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bug": {
+        "prefix": "fa-bug",
+        "body": "\\f\f188",
+        "description": "fontawesome fa-bug",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-vk": {
+        "prefix": "fa-vk",
+        "body": "\\f\f189",
+        "description": "fontawesome fa-vk",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-weibo": {
+        "prefix": "fa-weibo",
+        "body": "\\f\f18a",
+        "description": "fontawesome fa-weibo",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-renren": {
+        "prefix": "fa-renren",
+        "body": "\\f\f18b",
+        "description": "fontawesome fa-renren",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pagelines": {
+        "prefix": "fa-pagelines",
+        "body": "\\f\f18c",
+        "description": "fontawesome fa-pagelines",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-stack-exchange": {
+        "prefix": "fa-stack-exchange",
+        "body": "\\f\f18d",
+        "description": "fontawesome fa-stack-exchange",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-circle-o-right": {
+        "prefix": "fa-arrow-circle-o-right",
+        "body": "\\f\f18e",
+        "description": "fontawesome fa-arrow-circle-o-right",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-arrow-circle-o-left": {
+        "prefix": "fa-arrow-circle-o-left",
+        "body": "\\f\f190",
+        "description": "fontawesome fa-arrow-circle-o-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-toggle-left": {
+        "prefix": "fa-toggle-left",
+        "body": "\\f\f191",
+        "description": "fontawesome fa-toggle-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-caret-square-o-left": {
+        "prefix": "fa-caret-square-o-left",
+        "body": "\\f\f191",
+        "description": "fontawesome fa-caret-square-o-left",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-dot-circle-o": {
+        "prefix": "fa-dot-circle-o",
+        "body": "\\f\f192",
+        "description": "fontawesome fa-dot-circle-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wheelchair": {
+        "prefix": "fa-wheelchair",
+        "body": "\\f\f193",
+        "description": "fontawesome fa-wheelchair",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-vimeo-square": {
+        "prefix": "fa-vimeo-square",
+        "body": "\\f\f194",
+        "description": "fontawesome fa-vimeo-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-turkish-lira": {
+        "prefix": "fa-turkish-lira",
+        "body": "\\f\f195",
+        "description": "fontawesome fa-turkish-lira",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-try": {
+        "prefix": "fa-try",
+        "body": "\\f\f195",
+        "description": "fontawesome fa-try",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-plus-square-o": {
+        "prefix": "fa-plus-square-o",
+        "body": "\\f\f196",
+        "description": "fontawesome fa-plus-square-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-space-shuttle": {
+        "prefix": "fa-space-shuttle",
+        "body": "\\f\f197",
+        "description": "fontawesome fa-space-shuttle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-slack": {
+        "prefix": "fa-slack",
+        "body": "\\f\f198",
+        "description": "fontawesome fa-slack",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-envelope-square": {
+        "prefix": "fa-envelope-square",
+        "body": "\\f\f199",
+        "description": "fontawesome fa-envelope-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wordpress": {
+        "prefix": "fa-wordpress",
+        "body": "\\f\f19a",
+        "description": "fontawesome fa-wordpress",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-openid": {
+        "prefix": "fa-openid",
+        "body": "\\f\f19b",
+        "description": "fontawesome fa-openid",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-institution": {
+        "prefix": "fa-institution",
+        "body": "\\f\f19c",
+        "description": "fontawesome fa-institution",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bank": {
+        "prefix": "fa-bank",
+        "body": "\\f\f19c",
+        "description": "fontawesome fa-bank",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-university": {
+        "prefix": "fa-university",
+        "body": "\\f\f19c",
+        "description": "fontawesome fa-university",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mortar-board": {
+        "prefix": "fa-mortar-board",
+        "body": "\\f\f19d",
+        "description": "fontawesome fa-mortar-board",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-graduation-cap": {
+        "prefix": "fa-graduation-cap",
+        "body": "\\f\f19d",
+        "description": "fontawesome fa-graduation-cap",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-yahoo": {
+        "prefix": "fa-yahoo",
+        "body": "\\f\f19e",
+        "description": "fontawesome fa-yahoo",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-google": {
+        "prefix": "fa-google",
+        "body": "\\f\f1a0",
+        "description": "fontawesome fa-google",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-reddit": {
+        "prefix": "fa-reddit",
+        "body": "\\f\f1a1",
+        "description": "fontawesome fa-reddit",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-reddit-square": {
+        "prefix": "fa-reddit-square",
+        "body": "\\f\f1a2",
+        "description": "fontawesome fa-reddit-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-stumbleupon-circle": {
+        "prefix": "fa-stumbleupon-circle",
+        "body": "\\f\f1a3",
+        "description": "fontawesome fa-stumbleupon-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-stumbleupon": {
+        "prefix": "fa-stumbleupon",
+        "body": "\\f\f1a4",
+        "description": "fontawesome fa-stumbleupon",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-delicious": {
+        "prefix": "fa-delicious",
+        "body": "\\f\f1a5",
+        "description": "fontawesome fa-delicious",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-digg": {
+        "prefix": "fa-digg",
+        "body": "\\f\f1a6",
+        "description": "fontawesome fa-digg",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pied-piper": {
+        "prefix": "fa-pied-piper",
+        "body": "\\f\f1a7",
+        "description": "fontawesome fa-pied-piper",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pied-piper-alt": {
+        "prefix": "fa-pied-piper-alt",
+        "body": "\\f\f1a8",
+        "description": "fontawesome fa-pied-piper-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-drupal": {
+        "prefix": "fa-drupal",
+        "body": "\\f\f1a9",
+        "description": "fontawesome fa-drupal",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-joomla": {
+        "prefix": "fa-joomla",
+        "body": "\\f\f1aa",
+        "description": "fontawesome fa-joomla",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-language": {
+        "prefix": "fa-language",
+        "body": "\\f\f1ab",
+        "description": "fontawesome fa-language",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-fax": {
+        "prefix": "fa-fax",
+        "body": "\\f\f1ac",
+        "description": "fontawesome fa-fax",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-building": {
+        "prefix": "fa-building",
+        "body": "\\f\f1ad",
+        "description": "fontawesome fa-building",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-child": {
+        "prefix": "fa-child",
+        "body": "\\f\f1ae",
+        "description": "fontawesome fa-child",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-paw": {
+        "prefix": "fa-paw",
+        "body": "\\f\f1b0",
+        "description": "fontawesome fa-paw",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-spoon": {
+        "prefix": "fa-spoon",
+        "body": "\\f\f1b1",
+        "description": "fontawesome fa-spoon",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cube": {
+        "prefix": "fa-cube",
+        "body": "\\f\f1b2",
+        "description": "fontawesome fa-cube",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cubes": {
+        "prefix": "fa-cubes",
+        "body": "\\f\f1b3",
+        "description": "fontawesome fa-cubes",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-behance": {
+        "prefix": "fa-behance",
+        "body": "\\f\f1b4",
+        "description": "fontawesome fa-behance",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-behance-square": {
+        "prefix": "fa-behance-square",
+        "body": "\\f\f1b5",
+        "description": "fontawesome fa-behance-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-steam": {
+        "prefix": "fa-steam",
+        "body": "\\f\f1b6",
+        "description": "fontawesome fa-steam",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-steam-square": {
+        "prefix": "fa-steam-square",
+        "body": "\\f\f1b7",
+        "description": "fontawesome fa-steam-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-recycle": {
+        "prefix": "fa-recycle",
+        "body": "\\f\f1b8",
+        "description": "fontawesome fa-recycle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-automobile": {
+        "prefix": "fa-automobile",
+        "body": "\\f\f1b9",
+        "description": "fontawesome fa-automobile",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-car": {
+        "prefix": "fa-car",
+        "body": "\\f\f1b9",
+        "description": "fontawesome fa-car",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cab": {
+        "prefix": "fa-cab",
+        "body": "\\f\f1ba",
+        "description": "fontawesome fa-cab",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-taxi": {
+        "prefix": "fa-taxi",
+        "body": "\\f\f1ba",
+        "description": "fontawesome fa-taxi",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tree": {
+        "prefix": "fa-tree",
+        "body": "\\f\f1bb",
+        "description": "fontawesome fa-tree",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-spotify": {
+        "prefix": "fa-spotify",
+        "body": "\\f\f1bc",
+        "description": "fontawesome fa-spotify",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-deviantart": {
+        "prefix": "fa-deviantart",
+        "body": "\\f\f1bd",
+        "description": "fontawesome fa-deviantart",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-soundcloud": {
+        "prefix": "fa-soundcloud",
+        "body": "\\f\f1be",
+        "description": "fontawesome fa-soundcloud",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-database": {
+        "prefix": "fa-database",
+        "body": "\\f\f1c0",
+        "description": "fontawesome fa-database",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-pdf-o": {
+        "prefix": "fa-file-pdf-o",
+        "body": "\\f\f1c1",
+        "description": "fontawesome fa-file-pdf-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-word-o": {
+        "prefix": "fa-file-word-o",
+        "body": "\\f\f1c2",
+        "description": "fontawesome fa-file-word-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-excel-o": {
+        "prefix": "fa-file-excel-o",
+        "body": "\\f\f1c3",
+        "description": "fontawesome fa-file-excel-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-powerpoint-o": {
+        "prefix": "fa-file-powerpoint-o",
+        "body": "\\f\f1c4",
+        "description": "fontawesome fa-file-powerpoint-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-photo-o": {
+        "prefix": "fa-file-photo-o",
+        "body": "\\f\f1c5",
+        "description": "fontawesome fa-file-photo-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-picture-o": {
+        "prefix": "fa-file-picture-o",
+        "body": "\\f\f1c5",
+        "description": "fontawesome fa-file-picture-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-image-o": {
+        "prefix": "fa-file-image-o",
+        "body": "\\f\f1c5",
+        "description": "fontawesome fa-file-image-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-zip-o": {
+        "prefix": "fa-file-zip-o",
+        "body": "\\f\f1c6",
+        "description": "fontawesome fa-file-zip-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-archive-o": {
+        "prefix": "fa-file-archive-o",
+        "body": "\\f\f1c6",
+        "description": "fontawesome fa-file-archive-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-sound-o": {
+        "prefix": "fa-file-sound-o",
+        "body": "\\f\f1c7",
+        "description": "fontawesome fa-file-sound-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-audio-o": {
+        "prefix": "fa-file-audio-o",
+        "body": "\\f\f1c7",
+        "description": "fontawesome fa-file-audio-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-movie-o": {
+        "prefix": "fa-file-movie-o",
+        "body": "\\f\f1c8",
+        "description": "fontawesome fa-file-movie-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-video-o": {
+        "prefix": "fa-file-video-o",
+        "body": "\\f\f1c8",
+        "description": "fontawesome fa-file-video-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-file-code-o": {
+        "prefix": "fa-file-code-o",
+        "body": "\\f\f1c9",
+        "description": "fontawesome fa-file-code-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-vine": {
+        "prefix": "fa-vine",
+        "body": "\\f\f1ca",
+        "description": "fontawesome fa-vine",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-codepen": {
+        "prefix": "fa-codepen",
+        "body": "\\f\f1cb",
+        "description": "fontawesome fa-codepen",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-jsfiddle": {
+        "prefix": "fa-jsfiddle",
+        "body": "\\f\f1cc",
+        "description": "fontawesome fa-jsfiddle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-life-bouy": {
+        "prefix": "fa-life-bouy",
+        "body": "\\f\f1cd",
+        "description": "fontawesome fa-life-bouy",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-life-buoy": {
+        "prefix": "fa-life-buoy",
+        "body": "\\f\f1cd",
+        "description": "fontawesome fa-life-buoy",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-life-saver": {
+        "prefix": "fa-life-saver",
+        "body": "\\f\f1cd",
+        "description": "fontawesome fa-life-saver",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-support": {
+        "prefix": "fa-support",
+        "body": "\\f\f1cd",
+        "description": "fontawesome fa-support",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-life-ring": {
+        "prefix": "fa-life-ring",
+        "body": "\\f\f1cd",
+        "description": "fontawesome fa-life-ring",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-circle-o-notch": {
+        "prefix": "fa-circle-o-notch",
+        "body": "\\f\f1ce",
+        "description": "fontawesome fa-circle-o-notch",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ra": {
+        "prefix": "fa-ra",
+        "body": "\\f\f1d0",
+        "description": "fontawesome fa-ra",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-rebel": {
+        "prefix": "fa-rebel",
+        "body": "\\f\f1d0",
+        "description": "fontawesome fa-rebel",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ge": {
+        "prefix": "fa-ge",
+        "body": "\\f\f1d1",
+        "description": "fontawesome fa-ge",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-empire": {
+        "prefix": "fa-empire",
+        "body": "\\f\f1d1",
+        "description": "fontawesome fa-empire",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-git-square": {
+        "prefix": "fa-git-square",
+        "body": "\\f\f1d2",
+        "description": "fontawesome fa-git-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-git": {
+        "prefix": "fa-git",
+        "body": "\\f\f1d3",
+        "description": "fontawesome fa-git",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-y-combinator-square": {
+        "prefix": "fa-y-combinator-square",
+        "body": "\\f\f1d4",
+        "description": "fontawesome fa-y-combinator-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-yc-square": {
+        "prefix": "fa-yc-square",
+        "body": "\\f\f1d4",
+        "description": "fontawesome fa-yc-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hacker-news": {
+        "prefix": "fa-hacker-news",
+        "body": "\\f\f1d4",
+        "description": "fontawesome fa-hacker-news",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tencent-weibo": {
+        "prefix": "fa-tencent-weibo",
+        "body": "\\f\f1d5",
+        "description": "fontawesome fa-tencent-weibo",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-qq": {
+        "prefix": "fa-qq",
+        "body": "\\f\f1d6",
+        "description": "fontawesome fa-qq",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wechat": {
+        "prefix": "fa-wechat",
+        "body": "\\f\f1d7",
+        "description": "fontawesome fa-wechat",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-weixin": {
+        "prefix": "fa-weixin",
+        "body": "\\f\f1d7",
+        "description": "fontawesome fa-weixin",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-send": {
+        "prefix": "fa-send",
+        "body": "\\f\f1d8",
+        "description": "fontawesome fa-send",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-paper-plane": {
+        "prefix": "fa-paper-plane",
+        "body": "\\f\f1d8",
+        "description": "fontawesome fa-paper-plane",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-send-o": {
+        "prefix": "fa-send-o",
+        "body": "\\f\f1d9",
+        "description": "fontawesome fa-send-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-paper-plane-o": {
+        "prefix": "fa-paper-plane-o",
+        "body": "\\f\f1d9",
+        "description": "fontawesome fa-paper-plane-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-history": {
+        "prefix": "fa-history",
+        "body": "\\f\f1da",
+        "description": "fontawesome fa-history",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-circle-thin": {
+        "prefix": "fa-circle-thin",
+        "body": "\\f\f1db",
+        "description": "fontawesome fa-circle-thin",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-header": {
+        "prefix": "fa-header",
+        "body": "\\f\f1dc",
+        "description": "fontawesome fa-header",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-paragraph": {
+        "prefix": "fa-paragraph",
+        "body": "\\f\f1dd",
+        "description": "fontawesome fa-paragraph",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sliders": {
+        "prefix": "fa-sliders",
+        "body": "\\f\f1de",
+        "description": "fontawesome fa-sliders",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-share-alt": {
+        "prefix": "fa-share-alt",
+        "body": "\\f\f1e0",
+        "description": "fontawesome fa-share-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-share-alt-square": {
+        "prefix": "fa-share-alt-square",
+        "body": "\\f\f1e1",
+        "description": "fontawesome fa-share-alt-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bomb": {
+        "prefix": "fa-bomb",
+        "body": "\\f\f1e2",
+        "description": "fontawesome fa-bomb",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-soccer-ball-o": {
+        "prefix": "fa-soccer-ball-o",
+        "body": "\\f\f1e3",
+        "description": "fontawesome fa-soccer-ball-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-futbol-o": {
+        "prefix": "fa-futbol-o",
+        "body": "\\f\f1e3",
+        "description": "fontawesome fa-futbol-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tty": {
+        "prefix": "fa-tty",
+        "body": "\\f\f1e4",
+        "description": "fontawesome fa-tty",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-binoculars": {
+        "prefix": "fa-binoculars",
+        "body": "\\f\f1e5",
+        "description": "fontawesome fa-binoculars",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-plug": {
+        "prefix": "fa-plug",
+        "body": "\\f\f1e6",
+        "description": "fontawesome fa-plug",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-slideshare": {
+        "prefix": "fa-slideshare",
+        "body": "\\f\f1e7",
+        "description": "fontawesome fa-slideshare",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-twitch": {
+        "prefix": "fa-twitch",
+        "body": "\\f\f1e8",
+        "description": "fontawesome fa-twitch",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-yelp": {
+        "prefix": "fa-yelp",
+        "body": "\\f\f1e9",
+        "description": "fontawesome fa-yelp",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-newspaper-o": {
+        "prefix": "fa-newspaper-o",
+        "body": "\\f\f1ea",
+        "description": "fontawesome fa-newspaper-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wifi": {
+        "prefix": "fa-wifi",
+        "body": "\\f\f1eb",
+        "description": "fontawesome fa-wifi",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-calculator": {
+        "prefix": "fa-calculator",
+        "body": "\\f\f1ec",
+        "description": "fontawesome fa-calculator",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-paypal": {
+        "prefix": "fa-paypal",
+        "body": "\\f\f1ed",
+        "description": "fontawesome fa-paypal",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-google-wallet": {
+        "prefix": "fa-google-wallet",
+        "body": "\\f\f1ee",
+        "description": "fontawesome fa-google-wallet",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc-visa": {
+        "prefix": "fa-cc-visa",
+        "body": "\\f\f1f0",
+        "description": "fontawesome fa-cc-visa",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc-mastercard": {
+        "prefix": "fa-cc-mastercard",
+        "body": "\\f\f1f1",
+        "description": "fontawesome fa-cc-mastercard",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc-discover": {
+        "prefix": "fa-cc-discover",
+        "body": "\\f\f1f2",
+        "description": "fontawesome fa-cc-discover",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc-amex": {
+        "prefix": "fa-cc-amex",
+        "body": "\\f\f1f3",
+        "description": "fontawesome fa-cc-amex",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc-paypal": {
+        "prefix": "fa-cc-paypal",
+        "body": "\\f\f1f4",
+        "description": "fontawesome fa-cc-paypal",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc-stripe": {
+        "prefix": "fa-cc-stripe",
+        "body": "\\f\f1f5",
+        "description": "fontawesome fa-cc-stripe",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bell-slash": {
+        "prefix": "fa-bell-slash",
+        "body": "\\f\f1f6",
+        "description": "fontawesome fa-bell-slash",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bell-slash-o": {
+        "prefix": "fa-bell-slash-o",
+        "body": "\\f\f1f7",
+        "description": "fontawesome fa-bell-slash-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-trash": {
+        "prefix": "fa-trash",
+        "body": "\\f\f1f8",
+        "description": "fontawesome fa-trash",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-copyright": {
+        "prefix": "fa-copyright",
+        "body": "\\f\f1f9",
+        "description": "fontawesome fa-copyright",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-at": {
+        "prefix": "fa-at",
+        "body": "\\f\f1fa",
+        "description": "fontawesome fa-at",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-eyedropper": {
+        "prefix": "fa-eyedropper",
+        "body": "\\f\f1fb",
+        "description": "fontawesome fa-eyedropper",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-paint-brush": {
+        "prefix": "fa-paint-brush",
+        "body": "\\f\f1fc",
+        "description": "fontawesome fa-paint-brush",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-birthday-cake": {
+        "prefix": "fa-birthday-cake",
+        "body": "\\f\f1fd",
+        "description": "fontawesome fa-birthday-cake",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-area-chart": {
+        "prefix": "fa-area-chart",
+        "body": "\\f\f1fe",
+        "description": "fontawesome fa-area-chart",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pie-chart": {
+        "prefix": "fa-pie-chart",
+        "body": "\\f\f200",
+        "description": "fontawesome fa-pie-chart",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-line-chart": {
+        "prefix": "fa-line-chart",
+        "body": "\\f\f201",
+        "description": "fontawesome fa-line-chart",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-lastfm": {
+        "prefix": "fa-lastfm",
+        "body": "\\f\f202",
+        "description": "fontawesome fa-lastfm",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-lastfm-square": {
+        "prefix": "fa-lastfm-square",
+        "body": "\\f\f203",
+        "description": "fontawesome fa-lastfm-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-toggle-off": {
+        "prefix": "fa-toggle-off",
+        "body": "\\f\f204",
+        "description": "fontawesome fa-toggle-off",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-toggle-on": {
+        "prefix": "fa-toggle-on",
+        "body": "\\f\f205",
+        "description": "fontawesome fa-toggle-on",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bicycle": {
+        "prefix": "fa-bicycle",
+        "body": "\\f\f206",
+        "description": "fontawesome fa-bicycle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bus": {
+        "prefix": "fa-bus",
+        "body": "\\f\f207",
+        "description": "fontawesome fa-bus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ioxhost": {
+        "prefix": "fa-ioxhost",
+        "body": "\\f\f208",
+        "description": "fontawesome fa-ioxhost",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-angellist": {
+        "prefix": "fa-angellist",
+        "body": "\\f\f209",
+        "description": "fontawesome fa-angellist",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc": {
+        "prefix": "fa-cc",
+        "body": "\\f\f20a",
+        "description": "fontawesome fa-cc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-shekel": {
+        "prefix": "fa-shekel",
+        "body": "\\f\f20b",
+        "description": "fontawesome fa-shekel",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sheqel": {
+        "prefix": "fa-sheqel",
+        "body": "\\f\f20b",
+        "description": "fontawesome fa-sheqel",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ils": {
+        "prefix": "fa-ils",
+        "body": "\\f\f20b",
+        "description": "fontawesome fa-ils",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-meanpath": {
+        "prefix": "fa-meanpath",
+        "body": "\\f\f20c",
+        "description": "fontawesome fa-meanpath",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-buysellads": {
+        "prefix": "fa-buysellads",
+        "body": "\\f\f20d",
+        "description": "fontawesome fa-buysellads",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-connectdevelop": {
+        "prefix": "fa-connectdevelop",
+        "body": "\\f\f20e",
+        "description": "fontawesome fa-connectdevelop",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-dashcube": {
+        "prefix": "fa-dashcube",
+        "body": "\\f\f210",
+        "description": "fontawesome fa-dashcube",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-forumbee": {
+        "prefix": "fa-forumbee",
+        "body": "\\f\f211",
+        "description": "fontawesome fa-forumbee",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-leanpub": {
+        "prefix": "fa-leanpub",
+        "body": "\\f\f212",
+        "description": "fontawesome fa-leanpub",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sellsy": {
+        "prefix": "fa-sellsy",
+        "body": "\\f\f213",
+        "description": "fontawesome fa-sellsy",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-shirtsinbulk": {
+        "prefix": "fa-shirtsinbulk",
+        "body": "\\f\f214",
+        "description": "fontawesome fa-shirtsinbulk",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-simplybuilt": {
+        "prefix": "fa-simplybuilt",
+        "body": "\\f\f215",
+        "description": "fontawesome fa-simplybuilt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-skyatlas": {
+        "prefix": "fa-skyatlas",
+        "body": "\\f\f216",
+        "description": "fontawesome fa-skyatlas",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cart-plus": {
+        "prefix": "fa-cart-plus",
+        "body": "\\f\f217",
+        "description": "fontawesome fa-cart-plus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cart-arrow-down": {
+        "prefix": "fa-cart-arrow-down",
+        "body": "\\f\f218",
+        "description": "fontawesome fa-cart-arrow-down",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-diamond": {
+        "prefix": "fa-diamond",
+        "body": "\\f\f219",
+        "description": "fontawesome fa-diamond",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-ship": {
+        "prefix": "fa-ship",
+        "body": "\\f\f21a",
+        "description": "fontawesome fa-ship",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-user-secret": {
+        "prefix": "fa-user-secret",
+        "body": "\\f\f21b",
+        "description": "fontawesome fa-user-secret",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-motorcycle": {
+        "prefix": "fa-motorcycle",
+        "body": "\\f\f21c",
+        "description": "fontawesome fa-motorcycle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-street-view": {
+        "prefix": "fa-street-view",
+        "body": "\\f\f21d",
+        "description": "fontawesome fa-street-view",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-heartbeat": {
+        "prefix": "fa-heartbeat",
+        "body": "\\f\f21e",
+        "description": "fontawesome fa-heartbeat",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-venus": {
+        "prefix": "fa-venus",
+        "body": "\\f\f221",
+        "description": "fontawesome fa-venus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mars": {
+        "prefix": "fa-mars",
+        "body": "\\f\f222",
+        "description": "fontawesome fa-mars",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mercury": {
+        "prefix": "fa-mercury",
+        "body": "\\f\f223",
+        "description": "fontawesome fa-mercury",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-intersex": {
+        "prefix": "fa-intersex",
+        "body": "\\f\f224",
+        "description": "fontawesome fa-intersex",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-transgender": {
+        "prefix": "fa-transgender",
+        "body": "\\f\f224",
+        "description": "fontawesome fa-transgender",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-transgender-alt": {
+        "prefix": "fa-transgender-alt",
+        "body": "\\f\f225",
+        "description": "fontawesome fa-transgender-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-venus-double": {
+        "prefix": "fa-venus-double",
+        "body": "\\f\f226",
+        "description": "fontawesome fa-venus-double",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mars-double": {
+        "prefix": "fa-mars-double",
+        "body": "\\f\f227",
+        "description": "fontawesome fa-mars-double",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-venus-mars": {
+        "prefix": "fa-venus-mars",
+        "body": "\\f\f228",
+        "description": "fontawesome fa-venus-mars",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mars-stroke": {
+        "prefix": "fa-mars-stroke",
+        "body": "\\f\f229",
+        "description": "fontawesome fa-mars-stroke",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mars-stroke-v": {
+        "prefix": "fa-mars-stroke-v",
+        "body": "\\f\f22a",
+        "description": "fontawesome fa-mars-stroke-v",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mars-stroke-h": {
+        "prefix": "fa-mars-stroke-h",
+        "body": "\\f\f22b",
+        "description": "fontawesome fa-mars-stroke-h",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-neuter": {
+        "prefix": "fa-neuter",
+        "body": "\\f\f22c",
+        "description": "fontawesome fa-neuter",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-genderless": {
+        "prefix": "fa-genderless",
+        "body": "\\f\f22d",
+        "description": "fontawesome fa-genderless",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-facebook-official": {
+        "prefix": "fa-facebook-official",
+        "body": "\\f\f230",
+        "description": "fontawesome fa-facebook-official",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pinterest-p": {
+        "prefix": "fa-pinterest-p",
+        "body": "\\f\f231",
+        "description": "fontawesome fa-pinterest-p",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-whatsapp": {
+        "prefix": "fa-whatsapp",
+        "body": "\\f\f232",
+        "description": "fontawesome fa-whatsapp",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-server": {
+        "prefix": "fa-server",
+        "body": "\\f\f233",
+        "description": "fontawesome fa-server",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-user-plus": {
+        "prefix": "fa-user-plus",
+        "body": "\\f\f234",
+        "description": "fontawesome fa-user-plus",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-user-times": {
+        "prefix": "fa-user-times",
+        "body": "\\f\f235",
+        "description": "fontawesome fa-user-times",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hotel": {
+        "prefix": "fa-hotel",
+        "body": "\\f\f236",
+        "description": "fontawesome fa-hotel",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bed": {
+        "prefix": "fa-bed",
+        "body": "\\f\f236",
+        "description": "fontawesome fa-bed",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-viacoin": {
+        "prefix": "fa-viacoin",
+        "body": "\\f\f237",
+        "description": "fontawesome fa-viacoin",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-train": {
+        "prefix": "fa-train",
+        "body": "\\f\f238",
+        "description": "fontawesome fa-train",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-subway": {
+        "prefix": "fa-subway",
+        "body": "\\f\f239",
+        "description": "fontawesome fa-subway",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-medium": {
+        "prefix": "fa-medium",
+        "body": "\\f\f23a",
+        "description": "fontawesome fa-medium",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-yc": {
+        "prefix": "fa-yc",
+        "body": "\\f\f23b",
+        "description": "fontawesome fa-yc",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-y-combinator": {
+        "prefix": "fa-y-combinator",
+        "body": "\\f\f23b",
+        "description": "fontawesome fa-y-combinator",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-optin-monster": {
+        "prefix": "fa-optin-monster",
+        "body": "\\f\f23c",
+        "description": "fontawesome fa-optin-monster",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-opencart": {
+        "prefix": "fa-opencart",
+        "body": "\\f\f23d",
+        "description": "fontawesome fa-opencart",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-expeditedssl": {
+        "prefix": "fa-expeditedssl",
+        "body": "\\f\f23e",
+        "description": "fontawesome fa-expeditedssl",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-4": {
+        "prefix": "fa-battery-4",
+        "body": "\\f\f240",
+        "description": "fontawesome fa-battery-4",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-full": {
+        "prefix": "fa-battery-full",
+        "body": "\\f\f240",
+        "description": "fontawesome fa-battery-full",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-3": {
+        "prefix": "fa-battery-3",
+        "body": "\\f\f241",
+        "description": "fontawesome fa-battery-3",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-three-quarters": {
+        "prefix": "fa-battery-three-quarters",
+        "body": "\\f\f241",
+        "description": "fontawesome fa-battery-three-quarters",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-2": {
+        "prefix": "fa-battery-2",
+        "body": "\\f\f242",
+        "description": "fontawesome fa-battery-2",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-half": {
+        "prefix": "fa-battery-half",
+        "body": "\\f\f242",
+        "description": "fontawesome fa-battery-half",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-1": {
+        "prefix": "fa-battery-1",
+        "body": "\\f\f243",
+        "description": "fontawesome fa-battery-1",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-quarter": {
+        "prefix": "fa-battery-quarter",
+        "body": "\\f\f243",
+        "description": "fontawesome fa-battery-quarter",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-0": {
+        "prefix": "fa-battery-0",
+        "body": "\\f\f244",
+        "description": "fontawesome fa-battery-0",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-battery-empty": {
+        "prefix": "fa-battery-empty",
+        "body": "\\f\f244",
+        "description": "fontawesome fa-battery-empty",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mouse-pointer": {
+        "prefix": "fa-mouse-pointer",
+        "body": "\\f\f245",
+        "description": "fontawesome fa-mouse-pointer",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-i-cursor": {
+        "prefix": "fa-i-cursor",
+        "body": "\\f\f246",
+        "description": "fontawesome fa-i-cursor",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-object-group": {
+        "prefix": "fa-object-group",
+        "body": "\\f\f247",
+        "description": "fontawesome fa-object-group",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-object-ungroup": {
+        "prefix": "fa-object-ungroup",
+        "body": "\\f\f248",
+        "description": "fontawesome fa-object-ungroup",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sticky-note": {
+        "prefix": "fa-sticky-note",
+        "body": "\\f\f249",
+        "description": "fontawesome fa-sticky-note",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sticky-note-o": {
+        "prefix": "fa-sticky-note-o",
+        "body": "\\f\f24a",
+        "description": "fontawesome fa-sticky-note-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc-jcb": {
+        "prefix": "fa-cc-jcb",
+        "body": "\\f\f24b",
+        "description": "fontawesome fa-cc-jcb",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-cc-diners-club": {
+        "prefix": "fa-cc-diners-club",
+        "body": "\\f\f24c",
+        "description": "fontawesome fa-cc-diners-club",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-clone": {
+        "prefix": "fa-clone",
+        "body": "\\f\f24d",
+        "description": "fontawesome fa-clone",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-balance-scale": {
+        "prefix": "fa-balance-scale",
+        "body": "\\f\f24e",
+        "description": "fontawesome fa-balance-scale",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hourglass-o": {
+        "prefix": "fa-hourglass-o",
+        "body": "\\f\f250",
+        "description": "fontawesome fa-hourglass-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hourglass-1": {
+        "prefix": "fa-hourglass-1",
+        "body": "\\f\f251",
+        "description": "fontawesome fa-hourglass-1",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hourglass-start": {
+        "prefix": "fa-hourglass-start",
+        "body": "\\f\f251",
+        "description": "fontawesome fa-hourglass-start",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hourglass-2": {
+        "prefix": "fa-hourglass-2",
+        "body": "\\f\f252",
+        "description": "fontawesome fa-hourglass-2",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hourglass-half": {
+        "prefix": "fa-hourglass-half",
+        "body": "\\f\f252",
+        "description": "fontawesome fa-hourglass-half",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hourglass-3": {
+        "prefix": "fa-hourglass-3",
+        "body": "\\f\f253",
+        "description": "fontawesome fa-hourglass-3",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hourglass-end": {
+        "prefix": "fa-hourglass-end",
+        "body": "\\f\f253",
+        "description": "fontawesome fa-hourglass-end",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hourglass": {
+        "prefix": "fa-hourglass",
+        "body": "\\f\f254",
+        "description": "fontawesome fa-hourglass",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-grab-o": {
+        "prefix": "fa-hand-grab-o",
+        "body": "\\f\f255",
+        "description": "fontawesome fa-hand-grab-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-rock-o": {
+        "prefix": "fa-hand-rock-o",
+        "body": "\\f\f255",
+        "description": "fontawesome fa-hand-rock-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-stop-o": {
+        "prefix": "fa-hand-stop-o",
+        "body": "\\f\f256",
+        "description": "fontawesome fa-hand-stop-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-paper-o": {
+        "prefix": "fa-hand-paper-o",
+        "body": "\\f\f256",
+        "description": "fontawesome fa-hand-paper-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-scissors-o": {
+        "prefix": "fa-hand-scissors-o",
+        "body": "\\f\f257",
+        "description": "fontawesome fa-hand-scissors-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-lizard-o": {
+        "prefix": "fa-hand-lizard-o",
+        "body": "\\f\f258",
+        "description": "fontawesome fa-hand-lizard-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-spock-o": {
+        "prefix": "fa-hand-spock-o",
+        "body": "\\f\f259",
+        "description": "fontawesome fa-hand-spock-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-pointer-o": {
+        "prefix": "fa-hand-pointer-o",
+        "body": "\\f\f25a",
+        "description": "fontawesome fa-hand-pointer-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hand-peace-o": {
+        "prefix": "fa-hand-peace-o",
+        "body": "\\f\f25b",
+        "description": "fontawesome fa-hand-peace-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-trademark": {
+        "prefix": "fa-trademark",
+        "body": "\\f\f25c",
+        "description": "fontawesome fa-trademark",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-registered": {
+        "prefix": "fa-registered",
+        "body": "\\f\f25d",
+        "description": "fontawesome fa-registered",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-creative-commons": {
+        "prefix": "fa-creative-commons",
+        "body": "\\f\f25e",
+        "description": "fontawesome fa-creative-commons",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gg": {
+        "prefix": "fa-gg",
+        "body": "\\f\f260",
+        "description": "fontawesome fa-gg",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gg-circle": {
+        "prefix": "fa-gg-circle",
+        "body": "\\f\f261",
+        "description": "fontawesome fa-gg-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tripadvisor": {
+        "prefix": "fa-tripadvisor",
+        "body": "\\f\f262",
+        "description": "fontawesome fa-tripadvisor",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-odnoklassniki": {
+        "prefix": "fa-odnoklassniki",
+        "body": "\\f\f263",
+        "description": "fontawesome fa-odnoklassniki",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-odnoklassniki-square": {
+        "prefix": "fa-odnoklassniki-square",
+        "body": "\\f\f264",
+        "description": "fontawesome fa-odnoklassniki-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-get-pocket": {
+        "prefix": "fa-get-pocket",
+        "body": "\\f\f265",
+        "description": "fontawesome fa-get-pocket",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wikipedia-w": {
+        "prefix": "fa-wikipedia-w",
+        "body": "\\f\f266",
+        "description": "fontawesome fa-wikipedia-w",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-safari": {
+        "prefix": "fa-safari",
+        "body": "\\f\f267",
+        "description": "fontawesome fa-safari",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-chrome": {
+        "prefix": "fa-chrome",
+        "body": "\\f\f268",
+        "description": "fontawesome fa-chrome",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-firefox": {
+        "prefix": "fa-firefox",
+        "body": "\\f\f269",
+        "description": "fontawesome fa-firefox",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-opera": {
+        "prefix": "fa-opera",
+        "body": "\\f\f26a",
+        "description": "fontawesome fa-opera",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-internet-explorer": {
+        "prefix": "fa-internet-explorer",
+        "body": "\\f\f26b",
+        "description": "fontawesome fa-internet-explorer",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-tv": {
+        "prefix": "fa-tv",
+        "body": "\\f\f26c",
+        "description": "fontawesome fa-tv",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-television": {
+        "prefix": "fa-television",
+        "body": "\\f\f26c",
+        "description": "fontawesome fa-television",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-contao": {
+        "prefix": "fa-contao",
+        "body": "\\f\f26d",
+        "description": "fontawesome fa-contao",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-500px": {
+        "prefix": "fa-500px",
+        "body": "\\f\f26e",
+        "description": "fontawesome fa-500px",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-amazon": {
+        "prefix": "fa-amazon",
+        "body": "\\f\f270",
+        "description": "fontawesome fa-amazon",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-calendar-plus-o": {
+        "prefix": "fa-calendar-plus-o",
+        "body": "\\f\f271",
+        "description": "fontawesome fa-calendar-plus-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-calendar-minus-o": {
+        "prefix": "fa-calendar-minus-o",
+        "body": "\\f\f272",
+        "description": "fontawesome fa-calendar-minus-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-calendar-times-o": {
+        "prefix": "fa-calendar-times-o",
+        "body": "\\f\f273",
+        "description": "fontawesome fa-calendar-times-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-calendar-check-o": {
+        "prefix": "fa-calendar-check-o",
+        "body": "\\f\f274",
+        "description": "fontawesome fa-calendar-check-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-industry": {
+        "prefix": "fa-industry",
+        "body": "\\f\f275",
+        "description": "fontawesome fa-industry",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-map-pin": {
+        "prefix": "fa-map-pin",
+        "body": "\\f\f276",
+        "description": "fontawesome fa-map-pin",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-map-signs": {
+        "prefix": "fa-map-signs",
+        "body": "\\f\f277",
+        "description": "fontawesome fa-map-signs",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-map-o": {
+        "prefix": "fa-map-o",
+        "body": "\\f\f278",
+        "description": "fontawesome fa-map-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-map": {
+        "prefix": "fa-map",
+        "body": "\\f\f279",
+        "description": "fontawesome fa-map",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-commenting": {
+        "prefix": "fa-commenting",
+        "body": "\\f\f27a",
+        "description": "fontawesome fa-commenting",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-commenting-o": {
+        "prefix": "fa-commenting-o",
+        "body": "\\f\f27b",
+        "description": "fontawesome fa-commenting-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-houzz": {
+        "prefix": "fa-houzz",
+        "body": "\\f\f27c",
+        "description": "fontawesome fa-houzz",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-vimeo": {
+        "prefix": "fa-vimeo",
+        "body": "\\f\f27d",
+        "description": "fontawesome fa-vimeo",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-black-tie": {
+        "prefix": "fa-black-tie",
+        "body": "\\f\f27e",
+        "description": "fontawesome fa-black-tie",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-fonticons": {
+        "prefix": "fa-fonticons",
+        "body": "\\f\f280",
+        "description": "fontawesome fa-fonticons",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-reddit-alien": {
+        "prefix": "fa-reddit-alien",
+        "body": "\\f\f281",
+        "description": "fontawesome fa-reddit-alien",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-edge": {
+        "prefix": "fa-edge",
+        "body": "\\f\f282",
+        "description": "fontawesome fa-edge",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-credit-card-alt": {
+        "prefix": "fa-credit-card-alt",
+        "body": "\\f\f283",
+        "description": "fontawesome fa-credit-card-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-codiepie": {
+        "prefix": "fa-codiepie",
+        "body": "\\f\f284",
+        "description": "fontawesome fa-codiepie",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-modx": {
+        "prefix": "fa-modx",
+        "body": "\\f\f285",
+        "description": "fontawesome fa-modx",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-fort-awesome": {
+        "prefix": "fa-fort-awesome",
+        "body": "\\f\f286",
+        "description": "fontawesome fa-fort-awesome",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-usb": {
+        "prefix": "fa-usb",
+        "body": "\\f\f287",
+        "description": "fontawesome fa-usb",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-product-hunt": {
+        "prefix": "fa-product-hunt",
+        "body": "\\f\f288",
+        "description": "fontawesome fa-product-hunt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-mixcloud": {
+        "prefix": "fa-mixcloud",
+        "body": "\\f\f289",
+        "description": "fontawesome fa-mixcloud",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-scribd": {
+        "prefix": "fa-scribd",
+        "body": "\\f\f28a",
+        "description": "fontawesome fa-scribd",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pause-circle": {
+        "prefix": "fa-pause-circle",
+        "body": "\\f\f28b",
+        "description": "fontawesome fa-pause-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-pause-circle-o": {
+        "prefix": "fa-pause-circle-o",
+        "body": "\\f\f28c",
+        "description": "fontawesome fa-pause-circle-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-stop-circle": {
+        "prefix": "fa-stop-circle",
+        "body": "\\f\f28d",
+        "description": "fontawesome fa-stop-circle",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-stop-circle-o": {
+        "prefix": "fa-stop-circle-o",
+        "body": "\\f\f28e",
+        "description": "fontawesome fa-stop-circle-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-shopping-bag": {
+        "prefix": "fa-shopping-bag",
+        "body": "\\f\f290",
+        "description": "fontawesome fa-shopping-bag",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-shopping-basket": {
+        "prefix": "fa-shopping-basket",
+        "body": "\\f\f291",
+        "description": "fontawesome fa-shopping-basket",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hashtag": {
+        "prefix": "fa-hashtag",
+        "body": "\\f\f292",
+        "description": "fontawesome fa-hashtag",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bluetooth": {
+        "prefix": "fa-bluetooth",
+        "body": "\\f\f293",
+        "description": "fontawesome fa-bluetooth",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-bluetooth-b": {
+        "prefix": "fa-bluetooth-b",
+        "body": "\\f\f294",
+        "description": "fontawesome fa-bluetooth-b",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-percent": {
+        "prefix": "fa-percent",
+        "body": "\\f\f295",
+        "description": "fontawesome fa-percent",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-gitlab": {
+        "prefix": "fa-gitlab",
+        "body": "\\f\f296",
+        "description": "fontawesome fa-gitlab",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wpbeginner": {
+        "prefix": "fa-wpbeginner",
+        "body": "\\f\f297",
+        "description": "fontawesome fa-wpbeginner",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wpforms": {
+        "prefix": "fa-wpforms",
+        "body": "\\f\f298",
+        "description": "fontawesome fa-wpforms",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-envira": {
+        "prefix": "fa-envira",
+        "body": "\\f\f299",
+        "description": "fontawesome fa-envira",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-universal-access": {
+        "prefix": "fa-universal-access",
+        "body": "\\f\f29a",
+        "description": "fontawesome fa-universal-access",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-wheelchair-alt": {
+        "prefix": "fa-wheelchair-alt",
+        "body": "\\f\f29b",
+        "description": "fontawesome fa-wheelchair-alt",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-question-circle-o": {
+        "prefix": "fa-question-circle-o",
+        "body": "\\f\f29c",
+        "description": "fontawesome fa-question-circle-o",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-blind": {
+        "prefix": "fa-blind",
+        "body": "\\f\f29d",
+        "description": "fontawesome fa-blind",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-audio-description": {
+        "prefix": "fa-audio-description",
+        "body": "\\f\f29e",
+        "description": "fontawesome fa-audio-description",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-volume-control-phone": {
+        "prefix": "fa-volume-control-phone",
+        "body": "\\f\f2a0",
+        "description": "fontawesome fa-volume-control-phone",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-braille": {
+        "prefix": "fa-braille",
+        "body": "\\f\f2a1",
+        "description": "fontawesome fa-braille",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-assistive-listening-systems": {
+        "prefix": "fa-assistive-listening-systems",
+        "body": "\\f\f2a2",
+        "description": "fontawesome fa-assistive-listening-systems",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-asl-interpreting": {
+        "prefix": "fa-asl-interpreting",
+        "body": "\\f\f2a3",
+        "description": "fontawesome fa-asl-interpreting",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-american-sign-language-interpreting": {
+        "prefix": "fa-american-sign-language-interpreting",
+        "body": "\\f\f2a3",
+        "description": "fontawesome fa-american-sign-language-interpreting",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-deafness": {
+        "prefix": "fa-deafness",
+        "body": "\\f\f2a4",
+        "description": "fontawesome fa-deafness",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-hard-of-hearing": {
+        "prefix": "fa-hard-of-hearing",
+        "body": "\\f\f2a4",
+        "description": "fontawesome fa-hard-of-hearing",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-deaf": {
+        "prefix": "fa-deaf",
+        "body": "\\f\f2a4",
+        "description": "fontawesome fa-deaf",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-glide": {
+        "prefix": "fa-glide",
+        "body": "\\f\f2a5",
+        "description": "fontawesome fa-glide",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-glide-g": {
+        "prefix": "fa-glide-g",
+        "body": "\\f\f2a6",
+        "description": "fontawesome fa-glide-g",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-signing": {
+        "prefix": "fa-signing",
+        "body": "\\f\f2a7",
+        "description": "fontawesome fa-signing",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-sign-language": {
+        "prefix": "fa-sign-language",
+        "body": "\\f\f2a7",
+        "description": "fontawesome fa-sign-language",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-low-vision": {
+        "prefix": "fa-low-vision",
+        "body": "\\f\f2a8",
+        "description": "fontawesome fa-low-vision",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-viadeo": {
+        "prefix": "fa-viadeo",
+        "body": "\\f\f2a9",
+        "description": "fontawesome fa-viadeo",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-viadeo-square": {
+        "prefix": "fa-viadeo-square",
+        "body": "\\f\f2aa",
+        "description": "fontawesome fa-viadeo-square",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-snapchat": {
+        "prefix": "fa-snapchat",
+        "body": "\\f\f2ab",
+        "description": "fontawesome fa-snapchat",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-snapchat-ghost": {
+        "prefix": "fa-snapchat-ghost",
+        "body": "\\f\f2ac",
+        "description": "fontawesome fa-snapchat-ghost",
+        "scope": "css.scss.sass.less"
+    },
+    "fa-snapchat-square": {
+        "prefix": "fa-snapchat-square",
+        "body": "\\f\f2ad",
+        "description": "fontawesome fa-snapchat-square",
+        "scope": "css.scss.sass.less"
+    }
+}

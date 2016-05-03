@@ -1,0 +1,25 @@
+{
+    "name": "font-awesome-codes-css",
+    "displayName": "font-awesome-codes-css",
+    "description": "Get font-awesome shortcuts quickly",
+    "version": "0.0.1",
+    "publisher": "medzhidov",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dslpp056193/hex-rgba-converter"
+    }
+}
