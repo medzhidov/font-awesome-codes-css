@@ -35,7 +35,9 @@ Snippets are limited to the css|less|scss scopes. Typing the class name of an ic
 
 Examples:
 
-- fa-check+Tab completes to `'\f00c'`
+- fa-envelope+Tab completes to `'\f0e0'`
+
+![example of work](example.gif)
 
 ## License
 This work is licensed under [The MIT License](https://opensource.org/licenses/MIT)
