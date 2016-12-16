@@ -1,8 +1,8 @@
 {
     "name": "font-awesome-codes-css",
-    "displayName": "font-awesome-codes-css",
+    "displayName": "Font-awesome codes for css (snippets)",
     "description": "Get font-awesome shortcuts quickly",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "publisher": "medzhidov",
     "engines": {
         "vscode": "^1.0.0"
@@ -14,6 +14,10 @@
         "snippets": [
             {
                 "language": "css",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "scss",
                 "path": "./snippets/snippets.json"
             },
             {

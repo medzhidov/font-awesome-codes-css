@@ -2,4327 +2,4327 @@
     "fa-glass": {
         "prefix": "fa-glass",
         "body": "'\\f000'",
-        "description": "fontawesome fa-glass",
+        "description": "fontawesome icon: fa-glass",
         "scope": "css.scss.sass.less"
     },
     "fa-music": {
         "prefix": "fa-music",
         "body": "'\\f001'",
-        "description": "fontawesome fa-music",
+        "description": "fontawesome icon: fa-music",
         "scope": "css.scss.sass.less"
     },
     "fa-search": {
         "prefix": "fa-search",
         "body": "'\\f002'",
-        "description": "fontawesome fa-search",
+        "description": "fontawesome icon: fa-search",
         "scope": "css.scss.sass.less"
     },
     "fa-envelope-o": {
         "prefix": "fa-envelope-o",
         "body": "'\\f003'",
-        "description": "fontawesome fa-envelope-o",
+        "description": "fontawesome icon: fa-envelope-o",
         "scope": "css.scss.sass.less"
     },
     "fa-heart": {
         "prefix": "fa-heart",
         "body": "'\\f004'",
-        "description": "fontawesome fa-heart",
+        "description": "fontawesome icon: fa-heart",
         "scope": "css.scss.sass.less"
     },
     "fa-star": {
         "prefix": "fa-star",
         "body": "'\\f005'",
-        "description": "fontawesome fa-star",
+        "description": "fontawesome icon: fa-star",
         "scope": "css.scss.sass.less"
     },
     "fa-star-o": {
         "prefix": "fa-star-o",
         "body": "'\\f006'",
-        "description": "fontawesome fa-star-o",
+        "description": "fontawesome icon: fa-star-o",
         "scope": "css.scss.sass.less"
     },
     "fa-user": {
         "prefix": "fa-user",
         "body": "'\\f007'",
-        "description": "fontawesome fa-user",
+        "description": "fontawesome icon: fa-user",
         "scope": "css.scss.sass.less"
     },
     "fa-film": {
         "prefix": "fa-film",
         "body": "'\\f008'",
-        "description": "fontawesome fa-film",
+        "description": "fontawesome icon: fa-film",
         "scope": "css.scss.sass.less"
     },
     "fa-th-large": {
         "prefix": "fa-th-large",
         "body": "'\\f009'",
-        "description": "fontawesome fa-th-large",
+        "description": "fontawesome icon: fa-th-large",
         "scope": "css.scss.sass.less"
     },
     "fa-th": {
         "prefix": "fa-th",
         "body": "'\\f00a'",
-        "description": "fontawesome fa-th",
+        "description": "fontawesome icon: fa-th",
         "scope": "css.scss.sass.less"
     },
     "fa-th-list": {
         "prefix": "fa-th-list",
         "body": "'\\f00b'",
-        "description": "fontawesome fa-th-list",
+        "description": "fontawesome icon: fa-th-list",
         "scope": "css.scss.sass.less"
     },
     "fa-check": {
         "prefix": "fa-check",
         "body": "'\\f00c'",
-        "description": "fontawesome fa-check",
+        "description": "fontawesome icon: fa-check",
         "scope": "css.scss.sass.less"
     },
     "fa-remove": {
         "prefix": "fa-remove",
         "body": "'\\f00d'",
-        "description": "fontawesome fa-remove",
+        "description": "fontawesome icon: fa-remove",
         "scope": "css.scss.sass.less"
     },
     "fa-close": {
         "prefix": "fa-close",
         "body": "'\\f00d'",
-        "description": "fontawesome fa-close",
+        "description": "fontawesome icon: fa-close",
         "scope": "css.scss.sass.less"
     },
     "fa-times": {
         "prefix": "fa-times",
         "body": "'\\f00d'",
-        "description": "fontawesome fa-times",
+        "description": "fontawesome icon: fa-times",
         "scope": "css.scss.sass.less"
     },
     "fa-search-plus": {
         "prefix": "fa-search-plus",
         "body": "'\\f00e'",
-        "description": "fontawesome fa-search-plus",
+        "description": "fontawesome icon: fa-search-plus",
         "scope": "css.scss.sass.less"
     },
     "fa-search-minus": {
         "prefix": "fa-search-minus",
         "body": "'\\f010'",
-        "description": "fontawesome fa-search-minus",
+        "description": "fontawesome icon: fa-search-minus",
         "scope": "css.scss.sass.less"
     },
     "fa-power-off": {
         "prefix": "fa-power-off",
         "body": "'\\f011'",
-        "description": "fontawesome fa-power-off",
+        "description": "fontawesome icon: fa-power-off",
         "scope": "css.scss.sass.less"
     },
     "fa-signal": {
         "prefix": "fa-signal",
         "body": "'\\f012'",
-        "description": "fontawesome fa-signal",
+        "description": "fontawesome icon: fa-signal",
         "scope": "css.scss.sass.less"
     },
     "fa-gear": {
         "prefix": "fa-gear",
         "body": "'\\f013'",
-        "description": "fontawesome fa-gear",
+        "description": "fontawesome icon: fa-gear",
         "scope": "css.scss.sass.less"
     },
     "fa-cog": {
         "prefix": "fa-cog",
         "body": "'\\f013'",
-        "description": "fontawesome fa-cog",
+        "description": "fontawesome icon: fa-cog",
         "scope": "css.scss.sass.less"
     },
     "fa-trash-o": {
         "prefix": "fa-trash-o",
         "body": "'\\f014'",
-        "description": "fontawesome fa-trash-o",
+        "description": "fontawesome icon: fa-trash-o",
         "scope": "css.scss.sass.less"
     },
     "fa-home": {
         "prefix": "fa-home",
         "body": "'\\f015'",
-        "description": "fontawesome fa-home",
+        "description": "fontawesome icon: fa-home",
         "scope": "css.scss.sass.less"
     },
     "fa-file-o": {
         "prefix": "fa-file-o",
         "body": "'\\f016'",
-        "description": "fontawesome fa-file-o",
+        "description": "fontawesome icon: fa-file-o",
         "scope": "css.scss.sass.less"
     },
     "fa-clock-o": {
         "prefix": "fa-clock-o",
         "body": "'\\f017'",
-        "description": "fontawesome fa-clock-o",
+        "description": "fontawesome icon: fa-clock-o",
         "scope": "css.scss.sass.less"
     },
     "fa-road": {
         "prefix": "fa-road",
         "body": "'\\f018'",
-        "description": "fontawesome fa-road",
+        "description": "fontawesome icon: fa-road",
         "scope": "css.scss.sass.less"
     },
     "fa-download": {
         "prefix": "fa-download",
         "body": "'\\f019'",
-        "description": "fontawesome fa-download",
+        "description": "fontawesome icon: fa-download",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-circle-o-down": {
         "prefix": "fa-arrow-circle-o-down",
         "body": "'\\f01a'",
-        "description": "fontawesome fa-arrow-circle-o-down",
+        "description": "fontawesome icon: fa-arrow-circle-o-down",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-circle-o-up": {
         "prefix": "fa-arrow-circle-o-up",
         "body": "'\\f01b'",
-        "description": "fontawesome fa-arrow-circle-o-up",
+        "description": "fontawesome icon: fa-arrow-circle-o-up",
         "scope": "css.scss.sass.less"
     },
     "fa-inbox": {
         "prefix": "fa-inbox",
         "body": "'\\f01c'",
-        "description": "fontawesome fa-inbox",
+        "description": "fontawesome icon: fa-inbox",
         "scope": "css.scss.sass.less"
     },
     "fa-play-circle-o": {
         "prefix": "fa-play-circle-o",
         "body": "'\\f01d'",
-        "description": "fontawesome fa-play-circle-o",
+        "description": "fontawesome icon: fa-play-circle-o",
         "scope": "css.scss.sass.less"
     },
     "fa-rotate-right": {
         "prefix": "fa-rotate-right",
         "body": "'\\f01e'",
-        "description": "fontawesome fa-rotate-right",
+        "description": "fontawesome icon: fa-rotate-right",
         "scope": "css.scss.sass.less"
     },
     "fa-repeat": {
         "prefix": "fa-repeat",
         "body": "'\\f01e'",
-        "description": "fontawesome fa-repeat",
+        "description": "fontawesome icon: fa-repeat",
         "scope": "css.scss.sass.less"
     },
     "fa-refresh": {
         "prefix": "fa-refresh",
         "body": "'\\f021'",
-        "description": "fontawesome fa-refresh",
+        "description": "fontawesome icon: fa-refresh",
         "scope": "css.scss.sass.less"
     },
     "fa-list-alt": {
         "prefix": "fa-list-alt",
         "body": "'\\f022'",
-        "description": "fontawesome fa-list-alt",
+        "description": "fontawesome icon: fa-list-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-lock": {
         "prefix": "fa-lock",
         "body": "'\\f023'",
-        "description": "fontawesome fa-lock",
+        "description": "fontawesome icon: fa-lock",
         "scope": "css.scss.sass.less"
     },
     "fa-flag": {
         "prefix": "fa-flag",
         "body": "'\\f024'",
-        "description": "fontawesome fa-flag",
+        "description": "fontawesome icon: fa-flag",
         "scope": "css.scss.sass.less"
     },
     "fa-headphones": {
         "prefix": "fa-headphones",
         "body": "'\\f025'",
-        "description": "fontawesome fa-headphones",
+        "description": "fontawesome icon: fa-headphones",
         "scope": "css.scss.sass.less"
     },
     "fa-volume-off": {
         "prefix": "fa-volume-off",
         "body": "'\\f026'",
-        "description": "fontawesome fa-volume-off",
+        "description": "fontawesome icon: fa-volume-off",
         "scope": "css.scss.sass.less"
     },
     "fa-volume-down": {
         "prefix": "fa-volume-down",
         "body": "'\\f027'",
-        "description": "fontawesome fa-volume-down",
+        "description": "fontawesome icon: fa-volume-down",
         "scope": "css.scss.sass.less"
     },
     "fa-volume-up": {
         "prefix": "fa-volume-up",
         "body": "'\\f028'",
-        "description": "fontawesome fa-volume-up",
+        "description": "fontawesome icon: fa-volume-up",
         "scope": "css.scss.sass.less"
     },
     "fa-qrcode": {
         "prefix": "fa-qrcode",
         "body": "'\\f029'",
-        "description": "fontawesome fa-qrcode",
+        "description": "fontawesome icon: fa-qrcode",
         "scope": "css.scss.sass.less"
     },
     "fa-barcode": {
         "prefix": "fa-barcode",
         "body": "'\\f02a'",
-        "description": "fontawesome fa-barcode",
+        "description": "fontawesome icon: fa-barcode",
         "scope": "css.scss.sass.less"
     },
     "fa-tag": {
         "prefix": "fa-tag",
         "body": "'\\f02b'",
-        "description": "fontawesome fa-tag",
+        "description": "fontawesome icon: fa-tag",
         "scope": "css.scss.sass.less"
     },
     "fa-tags": {
         "prefix": "fa-tags",
         "body": "'\\f02c'",
-        "description": "fontawesome fa-tags",
+        "description": "fontawesome icon: fa-tags",
         "scope": "css.scss.sass.less"
     },
     "fa-book": {
         "prefix": "fa-book",
         "body": "'\\f02d'",
-        "description": "fontawesome fa-book",
+        "description": "fontawesome icon: fa-book",
         "scope": "css.scss.sass.less"
     },
     "fa-bookmark": {
         "prefix": "fa-bookmark",
         "body": "'\\f02e'",
-        "description": "fontawesome fa-bookmark",
+        "description": "fontawesome icon: fa-bookmark",
         "scope": "css.scss.sass.less"
     },
     "fa-print": {
         "prefix": "fa-print",
         "body": "'\\f02f'",
-        "description": "fontawesome fa-print",
+        "description": "fontawesome icon: fa-print",
         "scope": "css.scss.sass.less"
     },
     "fa-camera": {
         "prefix": "fa-camera",
         "body": "'\\f030'",
-        "description": "fontawesome fa-camera",
+        "description": "fontawesome icon: fa-camera",
         "scope": "css.scss.sass.less"
     },
     "fa-font": {
         "prefix": "fa-font",
         "body": "'\\f031'",
-        "description": "fontawesome fa-font",
+        "description": "fontawesome icon: fa-font",
         "scope": "css.scss.sass.less"
     },
     "fa-bold": {
         "prefix": "fa-bold",
         "body": "'\\f032'",
-        "description": "fontawesome fa-bold",
+        "description": "fontawesome icon: fa-bold",
         "scope": "css.scss.sass.less"
     },
     "fa-italic": {
         "prefix": "fa-italic",
         "body": "'\\f033'",
-        "description": "fontawesome fa-italic",
+        "description": "fontawesome icon: fa-italic",
         "scope": "css.scss.sass.less"
     },
     "fa-text-height": {
         "prefix": "fa-text-height",
         "body": "'\\f034'",
-        "description": "fontawesome fa-text-height",
+        "description": "fontawesome icon: fa-text-height",
         "scope": "css.scss.sass.less"
     },
     "fa-text-width": {
         "prefix": "fa-text-width",
         "body": "'\\f035'",
-        "description": "fontawesome fa-text-width",
+        "description": "fontawesome icon: fa-text-width",
         "scope": "css.scss.sass.less"
     },
     "fa-align-left": {
         "prefix": "fa-align-left",
         "body": "'\\f036'",
-        "description": "fontawesome fa-align-left",
+        "description": "fontawesome icon: fa-align-left",
         "scope": "css.scss.sass.less"
     },
     "fa-align-center": {
         "prefix": "fa-align-center",
         "body": "'\\f037'",
-        "description": "fontawesome fa-align-center",
+        "description": "fontawesome icon: fa-align-center",
         "scope": "css.scss.sass.less"
     },
     "fa-align-right": {
         "prefix": "fa-align-right",
         "body": "'\\f038'",
-        "description": "fontawesome fa-align-right",
+        "description": "fontawesome icon: fa-align-right",
         "scope": "css.scss.sass.less"
     },
     "fa-align-justify": {
         "prefix": "fa-align-justify",
         "body": "'\\f039'",
-        "description": "fontawesome fa-align-justify",
+        "description": "fontawesome icon: fa-align-justify",
         "scope": "css.scss.sass.less"
     },
     "fa-list": {
         "prefix": "fa-list",
         "body": "'\\f03a'",
-        "description": "fontawesome fa-list",
+        "description": "fontawesome icon: fa-list",
         "scope": "css.scss.sass.less"
     },
     "fa-dedent": {
         "prefix": "fa-dedent",
         "body": "'\\f03b'",
-        "description": "fontawesome fa-dedent",
+        "description": "fontawesome icon: fa-dedent",
         "scope": "css.scss.sass.less"
     },
     "fa-outdent": {
         "prefix": "fa-outdent",
         "body": "'\\f03b'",
-        "description": "fontawesome fa-outdent",
+        "description": "fontawesome icon: fa-outdent",
         "scope": "css.scss.sass.less"
     },
     "fa-indent": {
         "prefix": "fa-indent",
         "body": "'\\f03c'",
-        "description": "fontawesome fa-indent",
+        "description": "fontawesome icon: fa-indent",
         "scope": "css.scss.sass.less"
     },
     "fa-video-camera": {
         "prefix": "fa-video-camera",
         "body": "'\\f03d'",
-        "description": "fontawesome fa-video-camera",
+        "description": "fontawesome icon: fa-video-camera",
         "scope": "css.scss.sass.less"
     },
     "fa-photo": {
         "prefix": "fa-photo",
         "body": "'\\f03e'",
-        "description": "fontawesome fa-photo",
+        "description": "fontawesome icon: fa-photo",
         "scope": "css.scss.sass.less"
     },
     "fa-image": {
         "prefix": "fa-image",
         "body": "'\\f03e'",
-        "description": "fontawesome fa-image",
+        "description": "fontawesome icon: fa-image",
         "scope": "css.scss.sass.less"
     },
     "fa-picture-o": {
         "prefix": "fa-picture-o",
         "body": "'\\f03e'",
-        "description": "fontawesome fa-picture-o",
+        "description": "fontawesome icon: fa-picture-o",
         "scope": "css.scss.sass.less"
     },
     "fa-pencil": {
         "prefix": "fa-pencil",
         "body": "'\\f040'",
-        "description": "fontawesome fa-pencil",
+        "description": "fontawesome icon: fa-pencil",
         "scope": "css.scss.sass.less"
     },
     "fa-map-marker": {
         "prefix": "fa-map-marker",
         "body": "'\\f041'",
-        "description": "fontawesome fa-map-marker",
+        "description": "fontawesome icon: fa-map-marker",
         "scope": "css.scss.sass.less"
     },
     "fa-adjust": {
         "prefix": "fa-adjust",
         "body": "'\\f042'",
-        "description": "fontawesome fa-adjust",
+        "description": "fontawesome icon: fa-adjust",
         "scope": "css.scss.sass.less"
     },
     "fa-tint": {
         "prefix": "fa-tint",
         "body": "'\\f043'",
-        "description": "fontawesome fa-tint",
+        "description": "fontawesome icon: fa-tint",
         "scope": "css.scss.sass.less"
     },
     "fa-edit": {
         "prefix": "fa-edit",
         "body": "'\\f044'",
-        "description": "fontawesome fa-edit",
+        "description": "fontawesome icon: fa-edit",
         "scope": "css.scss.sass.less"
     },
     "fa-pencil-square-o": {
         "prefix": "fa-pencil-square-o",
         "body": "'\\f044'",
-        "description": "fontawesome fa-pencil-square-o",
+        "description": "fontawesome icon: fa-pencil-square-o",
         "scope": "css.scss.sass.less"
     },
     "fa-share-square-o": {
         "prefix": "fa-share-square-o",
         "body": "'\\f045'",
-        "description": "fontawesome fa-share-square-o",
+        "description": "fontawesome icon: fa-share-square-o",
         "scope": "css.scss.sass.less"
     },
     "fa-check-square-o": {
         "prefix": "fa-check-square-o",
         "body": "'\\f046'",
-        "description": "fontawesome fa-check-square-o",
+        "description": "fontawesome icon: fa-check-square-o",
         "scope": "css.scss.sass.less"
     },
     "fa-arrows": {
         "prefix": "fa-arrows",
         "body": "'\\f047'",
-        "description": "fontawesome fa-arrows",
+        "description": "fontawesome icon: fa-arrows",
         "scope": "css.scss.sass.less"
     },
     "fa-step-backward": {
         "prefix": "fa-step-backward",
         "body": "'\\f048'",
-        "description": "fontawesome fa-step-backward",
+        "description": "fontawesome icon: fa-step-backward",
         "scope": "css.scss.sass.less"
     },
     "fa-fast-backward": {
         "prefix": "fa-fast-backward",
         "body": "'\\f049'",
-        "description": "fontawesome fa-fast-backward",
+        "description": "fontawesome icon: fa-fast-backward",
         "scope": "css.scss.sass.less"
     },
     "fa-backward": {
         "prefix": "fa-backward",
         "body": "'\\f04a'",
-        "description": "fontawesome fa-backward",
+        "description": "fontawesome icon: fa-backward",
         "scope": "css.scss.sass.less"
     },
     "fa-play": {
         "prefix": "fa-play",
         "body": "'\\f04b'",
-        "description": "fontawesome fa-play",
+        "description": "fontawesome icon: fa-play",
         "scope": "css.scss.sass.less"
     },
     "fa-pause": {
         "prefix": "fa-pause",
         "body": "'\\f04c'",
-        "description": "fontawesome fa-pause",
+        "description": "fontawesome icon: fa-pause",
         "scope": "css.scss.sass.less"
     },
     "fa-stop": {
         "prefix": "fa-stop",
         "body": "'\\f04d'",
-        "description": "fontawesome fa-stop",
+        "description": "fontawesome icon: fa-stop",
         "scope": "css.scss.sass.less"
     },
     "fa-forward": {
         "prefix": "fa-forward",
         "body": "'\\f04e'",
-        "description": "fontawesome fa-forward",
+        "description": "fontawesome icon: fa-forward",
         "scope": "css.scss.sass.less"
     },
     "fa-fast-forward": {
         "prefix": "fa-fast-forward",
         "body": "'\\f050'",
-        "description": "fontawesome fa-fast-forward",
+        "description": "fontawesome icon: fa-fast-forward",
         "scope": "css.scss.sass.less"
     },
     "fa-step-forward": {
         "prefix": "fa-step-forward",
         "body": "'\\f051'",
-        "description": "fontawesome fa-step-forward",
+        "description": "fontawesome icon: fa-step-forward",
         "scope": "css.scss.sass.less"
     },
     "fa-eject": {
         "prefix": "fa-eject",
         "body": "'\\f052'",
-        "description": "fontawesome fa-eject",
+        "description": "fontawesome icon: fa-eject",
         "scope": "css.scss.sass.less"
     },
     "fa-chevron-left": {
         "prefix": "fa-chevron-left",
         "body": "'\\f053'",
-        "description": "fontawesome fa-chevron-left",
+        "description": "fontawesome icon: fa-chevron-left",
         "scope": "css.scss.sass.less"
     },
     "fa-chevron-right": {
         "prefix": "fa-chevron-right",
         "body": "'\\f054'",
-        "description": "fontawesome fa-chevron-right",
+        "description": "fontawesome icon: fa-chevron-right",
         "scope": "css.scss.sass.less"
     },
     "fa-plus-circle": {
         "prefix": "fa-plus-circle",
         "body": "'\\f055'",
-        "description": "fontawesome fa-plus-circle",
+        "description": "fontawesome icon: fa-plus-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-minus-circle": {
         "prefix": "fa-minus-circle",
         "body": "'\\f056'",
-        "description": "fontawesome fa-minus-circle",
+        "description": "fontawesome icon: fa-minus-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-times-circle": {
         "prefix": "fa-times-circle",
         "body": "'\\f057'",
-        "description": "fontawesome fa-times-circle",
+        "description": "fontawesome icon: fa-times-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-check-circle": {
         "prefix": "fa-check-circle",
         "body": "'\\f058'",
-        "description": "fontawesome fa-check-circle",
+        "description": "fontawesome icon: fa-check-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-question-circle": {
         "prefix": "fa-question-circle",
         "body": "'\\f059'",
-        "description": "fontawesome fa-question-circle",
+        "description": "fontawesome icon: fa-question-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-info-circle": {
         "prefix": "fa-info-circle",
         "body": "'\\f05a'",
-        "description": "fontawesome fa-info-circle",
+        "description": "fontawesome icon: fa-info-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-crosshairs": {
         "prefix": "fa-crosshairs",
         "body": "'\\f05b'",
-        "description": "fontawesome fa-crosshairs",
+        "description": "fontawesome icon: fa-crosshairs",
         "scope": "css.scss.sass.less"
     },
     "fa-times-circle-o": {
         "prefix": "fa-times-circle-o",
         "body": "'\\f05c'",
-        "description": "fontawesome fa-times-circle-o",
+        "description": "fontawesome icon: fa-times-circle-o",
         "scope": "css.scss.sass.less"
     },
     "fa-check-circle-o": {
         "prefix": "fa-check-circle-o",
         "body": "'\\f05d'",
-        "description": "fontawesome fa-check-circle-o",
+        "description": "fontawesome icon: fa-check-circle-o",
         "scope": "css.scss.sass.less"
     },
     "fa-ban": {
         "prefix": "fa-ban",
         "body": "'\\f05e'",
-        "description": "fontawesome fa-ban",
+        "description": "fontawesome icon: fa-ban",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-left": {
         "prefix": "fa-arrow-left",
         "body": "'\\f060'",
-        "description": "fontawesome fa-arrow-left",
+        "description": "fontawesome icon: fa-arrow-left",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-right": {
         "prefix": "fa-arrow-right",
         "body": "'\\f061'",
-        "description": "fontawesome fa-arrow-right",
+        "description": "fontawesome icon: fa-arrow-right",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-up": {
         "prefix": "fa-arrow-up",
         "body": "'\\f062'",
-        "description": "fontawesome fa-arrow-up",
+        "description": "fontawesome icon: fa-arrow-up",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-down": {
         "prefix": "fa-arrow-down",
         "body": "'\\f063'",
-        "description": "fontawesome fa-arrow-down",
+        "description": "fontawesome icon: fa-arrow-down",
         "scope": "css.scss.sass.less"
     },
     "fa-mail-forward": {
         "prefix": "fa-mail-forward",
         "body": "'\\f064'",
-        "description": "fontawesome fa-mail-forward",
+        "description": "fontawesome icon: fa-mail-forward",
         "scope": "css.scss.sass.less"
     },
     "fa-share": {
         "prefix": "fa-share",
         "body": "'\\f064'",
-        "description": "fontawesome fa-share",
+        "description": "fontawesome icon: fa-share",
         "scope": "css.scss.sass.less"
     },
     "fa-expand": {
         "prefix": "fa-expand",
         "body": "'\\f065'",
-        "description": "fontawesome fa-expand",
+        "description": "fontawesome icon: fa-expand",
         "scope": "css.scss.sass.less"
     },
     "fa-compress": {
         "prefix": "fa-compress",
         "body": "'\\f066'",
-        "description": "fontawesome fa-compress",
+        "description": "fontawesome icon: fa-compress",
         "scope": "css.scss.sass.less"
     },
     "fa-plus": {
         "prefix": "fa-plus",
         "body": "'\\f067'",
-        "description": "fontawesome fa-plus",
+        "description": "fontawesome icon: fa-plus",
         "scope": "css.scss.sass.less"
     },
     "fa-minus": {
         "prefix": "fa-minus",
         "body": "'\\f068'",
-        "description": "fontawesome fa-minus",
+        "description": "fontawesome icon: fa-minus",
         "scope": "css.scss.sass.less"
     },
     "fa-asterisk": {
         "prefix": "fa-asterisk",
         "body": "'\\f069'",
-        "description": "fontawesome fa-asterisk",
+        "description": "fontawesome icon: fa-asterisk",
         "scope": "css.scss.sass.less"
     },
     "fa-exclamation-circle": {
         "prefix": "fa-exclamation-circle",
         "body": "'\\f06a'",
-        "description": "fontawesome fa-exclamation-circle",
+        "description": "fontawesome icon: fa-exclamation-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-gift": {
         "prefix": "fa-gift",
         "body": "'\\f06b'",
-        "description": "fontawesome fa-gift",
+        "description": "fontawesome icon: fa-gift",
         "scope": "css.scss.sass.less"
     },
     "fa-leaf": {
         "prefix": "fa-leaf",
         "body": "'\\f06c'",
-        "description": "fontawesome fa-leaf",
+        "description": "fontawesome icon: fa-leaf",
         "scope": "css.scss.sass.less"
     },
     "fa-fire": {
         "prefix": "fa-fire",
         "body": "'\\f06d'",
-        "description": "fontawesome fa-fire",
+        "description": "fontawesome icon: fa-fire",
         "scope": "css.scss.sass.less"
     },
     "fa-eye": {
         "prefix": "fa-eye",
         "body": "'\\f06e'",
-        "description": "fontawesome fa-eye",
+        "description": "fontawesome icon: fa-eye",
         "scope": "css.scss.sass.less"
     },
     "fa-eye-slash": {
         "prefix": "fa-eye-slash",
         "body": "'\\f070'",
-        "description": "fontawesome fa-eye-slash",
+        "description": "fontawesome icon: fa-eye-slash",
         "scope": "css.scss.sass.less"
     },
     "fa-warning": {
         "prefix": "fa-warning",
         "body": "'\\f071'",
-        "description": "fontawesome fa-warning",
+        "description": "fontawesome icon: fa-warning",
         "scope": "css.scss.sass.less"
     },
     "fa-exclamation-triangle": {
         "prefix": "fa-exclamation-triangle",
         "body": "'\\f071'",
-        "description": "fontawesome fa-exclamation-triangle",
+        "description": "fontawesome icon: fa-exclamation-triangle",
         "scope": "css.scss.sass.less"
     },
     "fa-plane": {
         "prefix": "fa-plane",
         "body": "'\\f072'",
-        "description": "fontawesome fa-plane",
+        "description": "fontawesome icon: fa-plane",
         "scope": "css.scss.sass.less"
     },
     "fa-calendar": {
         "prefix": "fa-calendar",
         "body": "'\\f073'",
-        "description": "fontawesome fa-calendar",
+        "description": "fontawesome icon: fa-calendar",
         "scope": "css.scss.sass.less"
     },
     "fa-random": {
         "prefix": "fa-random",
         "body": "'\\f074'",
-        "description": "fontawesome fa-random",
+        "description": "fontawesome icon: fa-random",
         "scope": "css.scss.sass.less"
     },
     "fa-comment": {
         "prefix": "fa-comment",
         "body": "'\\f075'",
-        "description": "fontawesome fa-comment",
+        "description": "fontawesome icon: fa-comment",
         "scope": "css.scss.sass.less"
     },
     "fa-magnet": {
         "prefix": "fa-magnet",
         "body": "'\\f076'",
-        "description": "fontawesome fa-magnet",
+        "description": "fontawesome icon: fa-magnet",
         "scope": "css.scss.sass.less"
     },
     "fa-chevron-up": {
         "prefix": "fa-chevron-up",
         "body": "'\\f077'",
-        "description": "fontawesome fa-chevron-up",
+        "description": "fontawesome icon: fa-chevron-up",
         "scope": "css.scss.sass.less"
     },
     "fa-chevron-down": {
         "prefix": "fa-chevron-down",
         "body": "'\\f078'",
-        "description": "fontawesome fa-chevron-down",
+        "description": "fontawesome icon: fa-chevron-down",
         "scope": "css.scss.sass.less"
     },
     "fa-retweet": {
         "prefix": "fa-retweet",
         "body": "'\\f079'",
-        "description": "fontawesome fa-retweet",
+        "description": "fontawesome icon: fa-retweet",
         "scope": "css.scss.sass.less"
     },
     "fa-shopping-cart": {
         "prefix": "fa-shopping-cart",
         "body": "'\\f07a'",
-        "description": "fontawesome fa-shopping-cart",
+        "description": "fontawesome icon: fa-shopping-cart",
         "scope": "css.scss.sass.less"
     },
     "fa-folder": {
         "prefix": "fa-folder",
         "body": "'\\f07b'",
-        "description": "fontawesome fa-folder",
+        "description": "fontawesome icon: fa-folder",
         "scope": "css.scss.sass.less"
     },
     "fa-folder-open": {
         "prefix": "fa-folder-open",
         "body": "'\\f07c'",
-        "description": "fontawesome fa-folder-open",
+        "description": "fontawesome icon: fa-folder-open",
         "scope": "css.scss.sass.less"
     },
     "fa-arrows-v": {
         "prefix": "fa-arrows-v",
         "body": "'\\f07d'",
-        "description": "fontawesome fa-arrows-v",
+        "description": "fontawesome icon: fa-arrows-v",
         "scope": "css.scss.sass.less"
     },
     "fa-arrows-h": {
         "prefix": "fa-arrows-h",
         "body": "'\\f07e'",
-        "description": "fontawesome fa-arrows-h",
+        "description": "fontawesome icon: fa-arrows-h",
         "scope": "css.scss.sass.less"
     },
     "fa-bar-chart-o": {
         "prefix": "fa-bar-chart-o",
         "body": "'\\f080'",
-        "description": "fontawesome fa-bar-chart-o",
+        "description": "fontawesome icon: fa-bar-chart-o",
         "scope": "css.scss.sass.less"
     },
     "fa-bar-chart": {
         "prefix": "fa-bar-chart",
         "body": "'\\f080'",
-        "description": "fontawesome fa-bar-chart",
+        "description": "fontawesome icon: fa-bar-chart",
         "scope": "css.scss.sass.less"
     },
     "fa-twitter-square": {
         "prefix": "fa-twitter-square",
         "body": "'\\f081'",
-        "description": "fontawesome fa-twitter-square",
+        "description": "fontawesome icon: fa-twitter-square",
         "scope": "css.scss.sass.less"
     },
     "fa-facebook-square": {
         "prefix": "fa-facebook-square",
         "body": "'\\f082'",
-        "description": "fontawesome fa-facebook-square",
+        "description": "fontawesome icon: fa-facebook-square",
         "scope": "css.scss.sass.less"
     },
     "fa-camera-retro": {
         "prefix": "fa-camera-retro",
         "body": "'\\f083'",
-        "description": "fontawesome fa-camera-retro",
+        "description": "fontawesome icon: fa-camera-retro",
         "scope": "css.scss.sass.less"
     },
     "fa-key": {
         "prefix": "fa-key",
         "body": "'\\f084'",
-        "description": "fontawesome fa-key",
+        "description": "fontawesome icon: fa-key",
         "scope": "css.scss.sass.less"
     },
     "fa-gears": {
         "prefix": "fa-gears",
         "body": "'\\f085'",
-        "description": "fontawesome fa-gears",
+        "description": "fontawesome icon: fa-gears",
         "scope": "css.scss.sass.less"
     },
     "fa-cogs": {
         "prefix": "fa-cogs",
         "body": "'\\f085'",
-        "description": "fontawesome fa-cogs",
+        "description": "fontawesome icon: fa-cogs",
         "scope": "css.scss.sass.less"
     },
     "fa-comments": {
         "prefix": "fa-comments",
         "body": "'\\f086'",
-        "description": "fontawesome fa-comments",
+        "description": "fontawesome icon: fa-comments",
         "scope": "css.scss.sass.less"
     },
     "fa-thumbs-o-up": {
         "prefix": "fa-thumbs-o-up",
         "body": "'\\f087'",
-        "description": "fontawesome fa-thumbs-o-up",
+        "description": "fontawesome icon: fa-thumbs-o-up",
         "scope": "css.scss.sass.less"
     },
     "fa-thumbs-o-down": {
         "prefix": "fa-thumbs-o-down",
         "body": "'\\f088'",
-        "description": "fontawesome fa-thumbs-o-down",
+        "description": "fontawesome icon: fa-thumbs-o-down",
         "scope": "css.scss.sass.less"
     },
     "fa-star-half": {
         "prefix": "fa-star-half",
         "body": "'\\f089'",
-        "description": "fontawesome fa-star-half",
+        "description": "fontawesome icon: fa-star-half",
         "scope": "css.scss.sass.less"
     },
     "fa-heart-o": {
         "prefix": "fa-heart-o",
         "body": "'\\f08a'",
-        "description": "fontawesome fa-heart-o",
+        "description": "fontawesome icon: fa-heart-o",
         "scope": "css.scss.sass.less"
     },
     "fa-sign-out": {
         "prefix": "fa-sign-out",
         "body": "'\\f08b'",
-        "description": "fontawesome fa-sign-out",
+        "description": "fontawesome icon: fa-sign-out",
         "scope": "css.scss.sass.less"
     },
     "fa-linkedin-square": {
         "prefix": "fa-linkedin-square",
         "body": "'\\f08c'",
-        "description": "fontawesome fa-linkedin-square",
+        "description": "fontawesome icon: fa-linkedin-square",
         "scope": "css.scss.sass.less"
     },
     "fa-thumb-tack": {
         "prefix": "fa-thumb-tack",
         "body": "'\\f08d'",
-        "description": "fontawesome fa-thumb-tack",
+        "description": "fontawesome icon: fa-thumb-tack",
         "scope": "css.scss.sass.less"
     },
     "fa-external-link": {
         "prefix": "fa-external-link",
         "body": "'\\f08e'",
-        "description": "fontawesome fa-external-link",
+        "description": "fontawesome icon: fa-external-link",
         "scope": "css.scss.sass.less"
     },
     "fa-sign-in": {
         "prefix": "fa-sign-in",
         "body": "'\\f090'",
-        "description": "fontawesome fa-sign-in",
+        "description": "fontawesome icon: fa-sign-in",
         "scope": "css.scss.sass.less"
     },
     "fa-trophy": {
         "prefix": "fa-trophy",
         "body": "'\\f091'",
-        "description": "fontawesome fa-trophy",
+        "description": "fontawesome icon: fa-trophy",
         "scope": "css.scss.sass.less"
     },
     "fa-github-square": {
         "prefix": "fa-github-square",
         "body": "'\\f092'",
-        "description": "fontawesome fa-github-square",
+        "description": "fontawesome icon: fa-github-square",
         "scope": "css.scss.sass.less"
     },
     "fa-upload": {
         "prefix": "fa-upload",
         "body": "'\\f093'",
-        "description": "fontawesome fa-upload",
+        "description": "fontawesome icon: fa-upload",
         "scope": "css.scss.sass.less"
     },
     "fa-lemon-o": {
         "prefix": "fa-lemon-o",
         "body": "'\\f094'",
-        "description": "fontawesome fa-lemon-o",
+        "description": "fontawesome icon: fa-lemon-o",
         "scope": "css.scss.sass.less"
     },
     "fa-phone": {
         "prefix": "fa-phone",
         "body": "'\\f095'",
-        "description": "fontawesome fa-phone",
+        "description": "fontawesome icon: fa-phone",
         "scope": "css.scss.sass.less"
     },
     "fa-square-o": {
         "prefix": "fa-square-o",
         "body": "'\\f096'",
-        "description": "fontawesome fa-square-o",
+        "description": "fontawesome icon: fa-square-o",
         "scope": "css.scss.sass.less"
     },
     "fa-bookmark-o": {
         "prefix": "fa-bookmark-o",
         "body": "'\\f097'",
-        "description": "fontawesome fa-bookmark-o",
+        "description": "fontawesome icon: fa-bookmark-o",
         "scope": "css.scss.sass.less"
     },
     "fa-phone-square": {
         "prefix": "fa-phone-square",
         "body": "'\\f098'",
-        "description": "fontawesome fa-phone-square",
+        "description": "fontawesome icon: fa-phone-square",
         "scope": "css.scss.sass.less"
     },
     "fa-twitter": {
         "prefix": "fa-twitter",
         "body": "'\\f099'",
-        "description": "fontawesome fa-twitter",
+        "description": "fontawesome icon: fa-twitter",
         "scope": "css.scss.sass.less"
     },
     "fa-facebook-f": {
         "prefix": "fa-facebook-f",
         "body": "'\\f09a'",
-        "description": "fontawesome fa-facebook-f",
+        "description": "fontawesome icon: fa-facebook-f",
         "scope": "css.scss.sass.less"
     },
     "fa-facebook": {
         "prefix": "fa-facebook",
         "body": "'\\f09a'",
-        "description": "fontawesome fa-facebook",
+        "description": "fontawesome icon: fa-facebook",
         "scope": "css.scss.sass.less"
     },
     "fa-github": {
         "prefix": "fa-github",
         "body": "'\\f09b'",
-        "description": "fontawesome fa-github",
+        "description": "fontawesome icon: fa-github",
         "scope": "css.scss.sass.less"
     },
     "fa-unlock": {
         "prefix": "fa-unlock",
         "body": "'\\f09c'",
-        "description": "fontawesome fa-unlock",
+        "description": "fontawesome icon: fa-unlock",
         "scope": "css.scss.sass.less"
     },
     "fa-credit-card": {
         "prefix": "fa-credit-card",
         "body": "'\\f09d'",
-        "description": "fontawesome fa-credit-card",
+        "description": "fontawesome icon: fa-credit-card",
         "scope": "css.scss.sass.less"
     },
     "fa-feed": {
         "prefix": "fa-feed",
         "body": "'\\f09e'",
-        "description": "fontawesome fa-feed",
+        "description": "fontawesome icon: fa-feed",
         "scope": "css.scss.sass.less"
     },
     "fa-rss": {
         "prefix": "fa-rss",
         "body": "'\\f09e'",
-        "description": "fontawesome fa-rss",
+        "description": "fontawesome icon: fa-rss",
         "scope": "css.scss.sass.less"
     },
     "fa-hdd-o": {
         "prefix": "fa-hdd-o",
         "body": "'\\f0a0'",
-        "description": "fontawesome fa-hdd-o",
+        "description": "fontawesome icon: fa-hdd-o",
         "scope": "css.scss.sass.less"
     },
     "fa-bullhorn": {
         "prefix": "fa-bullhorn",
         "body": "'\\f0a1'",
-        "description": "fontawesome fa-bullhorn",
+        "description": "fontawesome icon: fa-bullhorn",
         "scope": "css.scss.sass.less"
     },
     "fa-bell": {
         "prefix": "fa-bell",
         "body": "'\\f0f3'",
-        "description": "fontawesome fa-bell",
+        "description": "fontawesome icon: fa-bell",
         "scope": "css.scss.sass.less"
     },
     "fa-certificate": {
         "prefix": "fa-certificate",
         "body": "'\\f0a3'",
-        "description": "fontawesome fa-certificate",
+        "description": "fontawesome icon: fa-certificate",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-o-right": {
         "prefix": "fa-hand-o-right",
         "body": "'\\f0a4'",
-        "description": "fontawesome fa-hand-o-right",
+        "description": "fontawesome icon: fa-hand-o-right",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-o-left": {
         "prefix": "fa-hand-o-left",
         "body": "'\\f0a5'",
-        "description": "fontawesome fa-hand-o-left",
+        "description": "fontawesome icon: fa-hand-o-left",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-o-up": {
         "prefix": "fa-hand-o-up",
         "body": "'\\f0a6'",
-        "description": "fontawesome fa-hand-o-up",
+        "description": "fontawesome icon: fa-hand-o-up",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-o-down": {
         "prefix": "fa-hand-o-down",
         "body": "'\\f0a7'",
-        "description": "fontawesome fa-hand-o-down",
+        "description": "fontawesome icon: fa-hand-o-down",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-circle-left": {
         "prefix": "fa-arrow-circle-left",
         "body": "'\\f0a8'",
-        "description": "fontawesome fa-arrow-circle-left",
+        "description": "fontawesome icon: fa-arrow-circle-left",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-circle-right": {
         "prefix": "fa-arrow-circle-right",
         "body": "'\\f0a9'",
-        "description": "fontawesome fa-arrow-circle-right",
+        "description": "fontawesome icon: fa-arrow-circle-right",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-circle-up": {
         "prefix": "fa-arrow-circle-up",
         "body": "'\\f0aa'",
-        "description": "fontawesome fa-arrow-circle-up",
+        "description": "fontawesome icon: fa-arrow-circle-up",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-circle-down": {
         "prefix": "fa-arrow-circle-down",
         "body": "'\\f0ab'",
-        "description": "fontawesome fa-arrow-circle-down",
+        "description": "fontawesome icon: fa-arrow-circle-down",
         "scope": "css.scss.sass.less"
     },
     "fa-globe": {
         "prefix": "fa-globe",
         "body": "'\\f0ac'",
-        "description": "fontawesome fa-globe",
+        "description": "fontawesome icon: fa-globe",
         "scope": "css.scss.sass.less"
     },
     "fa-wrench": {
         "prefix": "fa-wrench",
         "body": "'\\f0ad'",
-        "description": "fontawesome fa-wrench",
+        "description": "fontawesome icon: fa-wrench",
         "scope": "css.scss.sass.less"
     },
     "fa-tasks": {
         "prefix": "fa-tasks",
         "body": "'\\f0ae'",
-        "description": "fontawesome fa-tasks",
+        "description": "fontawesome icon: fa-tasks",
         "scope": "css.scss.sass.less"
     },
     "fa-filter": {
         "prefix": "fa-filter",
         "body": "'\\f0b0'",
-        "description": "fontawesome fa-filter",
+        "description": "fontawesome icon: fa-filter",
         "scope": "css.scss.sass.less"
     },
     "fa-briefcase": {
         "prefix": "fa-briefcase",
         "body": "'\\f0b1'",
-        "description": "fontawesome fa-briefcase",
+        "description": "fontawesome icon: fa-briefcase",
         "scope": "css.scss.sass.less"
     },
     "fa-arrows-alt": {
         "prefix": "fa-arrows-alt",
         "body": "'\\f0b2'",
-        "description": "fontawesome fa-arrows-alt",
+        "description": "fontawesome icon: fa-arrows-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-group": {
         "prefix": "fa-group",
         "body": "'\\f0c0'",
-        "description": "fontawesome fa-group",
+        "description": "fontawesome icon: fa-group",
         "scope": "css.scss.sass.less"
     },
     "fa-users": {
         "prefix": "fa-users",
         "body": "'\\f0c0'",
-        "description": "fontawesome fa-users",
+        "description": "fontawesome icon: fa-users",
         "scope": "css.scss.sass.less"
     },
     "fa-chain": {
         "prefix": "fa-chain",
         "body": "'\\f0c1'",
-        "description": "fontawesome fa-chain",
+        "description": "fontawesome icon: fa-chain",
         "scope": "css.scss.sass.less"
     },
     "fa-link": {
         "prefix": "fa-link",
         "body": "'\\f0c1'",
-        "description": "fontawesome fa-link",
+        "description": "fontawesome icon: fa-link",
         "scope": "css.scss.sass.less"
     },
     "fa-cloud": {
         "prefix": "fa-cloud",
         "body": "'\\f0c2'",
-        "description": "fontawesome fa-cloud",
+        "description": "fontawesome icon: fa-cloud",
         "scope": "css.scss.sass.less"
     },
     "fa-flask": {
         "prefix": "fa-flask",
         "body": "'\\f0c3'",
-        "description": "fontawesome fa-flask",
+        "description": "fontawesome icon: fa-flask",
         "scope": "css.scss.sass.less"
     },
     "fa-cut": {
         "prefix": "fa-cut",
         "body": "'\\f0c4'",
-        "description": "fontawesome fa-cut",
+        "description": "fontawesome icon: fa-cut",
         "scope": "css.scss.sass.less"
     },
     "fa-scissors": {
         "prefix": "fa-scissors",
         "body": "'\\f0c4'",
-        "description": "fontawesome fa-scissors",
+        "description": "fontawesome icon: fa-scissors",
         "scope": "css.scss.sass.less"
     },
     "fa-copy": {
         "prefix": "fa-copy",
         "body": "'\\f0c5'",
-        "description": "fontawesome fa-copy",
+        "description": "fontawesome icon: fa-copy",
         "scope": "css.scss.sass.less"
     },
     "fa-files-o": {
         "prefix": "fa-files-o",
         "body": "'\\f0c5'",
-        "description": "fontawesome fa-files-o",
+        "description": "fontawesome icon: fa-files-o",
         "scope": "css.scss.sass.less"
     },
     "fa-paperclip": {
         "prefix": "fa-paperclip",
         "body": "'\\f0c6'",
-        "description": "fontawesome fa-paperclip",
+        "description": "fontawesome icon: fa-paperclip",
         "scope": "css.scss.sass.less"
     },
     "fa-save": {
         "prefix": "fa-save",
         "body": "'\\f0c7'",
-        "description": "fontawesome fa-save",
+        "description": "fontawesome icon: fa-save",
         "scope": "css.scss.sass.less"
     },
     "fa-floppy-o": {
         "prefix": "fa-floppy-o",
         "body": "'\\f0c7'",
-        "description": "fontawesome fa-floppy-o",
+        "description": "fontawesome icon: fa-floppy-o",
         "scope": "css.scss.sass.less"
     },
     "fa-square": {
         "prefix": "fa-square",
         "body": "'\\f0c8'",
-        "description": "fontawesome fa-square",
+        "description": "fontawesome icon: fa-square",
         "scope": "css.scss.sass.less"
     },
     "fa-navicon": {
         "prefix": "fa-navicon",
         "body": "'\\f0c9'",
-        "description": "fontawesome fa-navicon",
+        "description": "fontawesome icon: fa-navicon",
         "scope": "css.scss.sass.less"
     },
     "fa-reorder": {
         "prefix": "fa-reorder",
         "body": "'\\f0c9'",
-        "description": "fontawesome fa-reorder",
+        "description": "fontawesome icon: fa-reorder",
         "scope": "css.scss.sass.less"
     },
     "fa-bars": {
         "prefix": "fa-bars",
         "body": "'\\f0c9'",
-        "description": "fontawesome fa-bars",
+        "description": "fontawesome icon: fa-bars",
         "scope": "css.scss.sass.less"
     },
     "fa-list-ul": {
         "prefix": "fa-list-ul",
         "body": "'\\f0ca'",
-        "description": "fontawesome fa-list-ul",
+        "description": "fontawesome icon: fa-list-ul",
         "scope": "css.scss.sass.less"
     },
     "fa-list-ol": {
         "prefix": "fa-list-ol",
         "body": "'\\f0cb'",
-        "description": "fontawesome fa-list-ol",
+        "description": "fontawesome icon: fa-list-ol",
         "scope": "css.scss.sass.less"
     },
     "fa-strikethrough": {
         "prefix": "fa-strikethrough",
         "body": "'\\f0cc'",
-        "description": "fontawesome fa-strikethrough",
+        "description": "fontawesome icon: fa-strikethrough",
         "scope": "css.scss.sass.less"
     },
     "fa-underline": {
         "prefix": "fa-underline",
         "body": "'\\f0cd'",
-        "description": "fontawesome fa-underline",
+        "description": "fontawesome icon: fa-underline",
         "scope": "css.scss.sass.less"
     },
     "fa-table": {
         "prefix": "fa-table",
         "body": "'\\f0ce'",
-        "description": "fontawesome fa-table",
+        "description": "fontawesome icon: fa-table",
         "scope": "css.scss.sass.less"
     },
     "fa-magic": {
         "prefix": "fa-magic",
         "body": "'\\f0d0'",
-        "description": "fontawesome fa-magic",
+        "description": "fontawesome icon: fa-magic",
         "scope": "css.scss.sass.less"
     },
     "fa-truck": {
         "prefix": "fa-truck",
         "body": "'\\f0d1'",
-        "description": "fontawesome fa-truck",
+        "description": "fontawesome icon: fa-truck",
         "scope": "css.scss.sass.less"
     },
     "fa-pinterest": {
         "prefix": "fa-pinterest",
         "body": "'\\f0d2'",
-        "description": "fontawesome fa-pinterest",
+        "description": "fontawesome icon: fa-pinterest",
         "scope": "css.scss.sass.less"
     },
     "fa-pinterest-square": {
         "prefix": "fa-pinterest-square",
         "body": "'\\f0d3'",
-        "description": "fontawesome fa-pinterest-square",
+        "description": "fontawesome icon: fa-pinterest-square",
         "scope": "css.scss.sass.less"
     },
     "fa-google-plus-square": {
         "prefix": "fa-google-plus-square",
         "body": "'\\f0d4'",
-        "description": "fontawesome fa-google-plus-square",
+        "description": "fontawesome icon: fa-google-plus-square",
         "scope": "css.scss.sass.less"
     },
     "fa-google-plus": {
         "prefix": "fa-google-plus",
         "body": "'\\f0d5'",
-        "description": "fontawesome fa-google-plus",
+        "description": "fontawesome icon: fa-google-plus",
         "scope": "css.scss.sass.less"
     },
     "fa-money": {
         "prefix": "fa-money",
         "body": "'\\f0d6'",
-        "description": "fontawesome fa-money",
+        "description": "fontawesome icon: fa-money",
         "scope": "css.scss.sass.less"
     },
     "fa-caret-down": {
         "prefix": "fa-caret-down",
         "body": "'\\f0d7'",
-        "description": "fontawesome fa-caret-down",
+        "description": "fontawesome icon: fa-caret-down",
         "scope": "css.scss.sass.less"
     },
     "fa-caret-up": {
         "prefix": "fa-caret-up",
         "body": "'\\f0d8'",
-        "description": "fontawesome fa-caret-up",
+        "description": "fontawesome icon: fa-caret-up",
         "scope": "css.scss.sass.less"
     },
     "fa-caret-left": {
         "prefix": "fa-caret-left",
         "body": "'\\f0d9'",
-        "description": "fontawesome fa-caret-left",
+        "description": "fontawesome icon: fa-caret-left",
         "scope": "css.scss.sass.less"
     },
     "fa-caret-right": {
         "prefix": "fa-caret-right",
         "body": "'\\f0da'",
-        "description": "fontawesome fa-caret-right",
+        "description": "fontawesome icon: fa-caret-right",
         "scope": "css.scss.sass.less"
     },
     "fa-columns": {
         "prefix": "fa-columns",
         "body": "'\\f0db'",
-        "description": "fontawesome fa-columns",
+        "description": "fontawesome icon: fa-columns",
         "scope": "css.scss.sass.less"
     },
     "fa-unsorted": {
         "prefix": "fa-unsorted",
         "body": "'\\f0dc'",
-        "description": "fontawesome fa-unsorted",
+        "description": "fontawesome icon: fa-unsorted",
         "scope": "css.scss.sass.less"
     },
     "fa-sort": {
         "prefix": "fa-sort",
         "body": "'\\f0dc'",
-        "description": "fontawesome fa-sort",
+        "description": "fontawesome icon: fa-sort",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-down": {
         "prefix": "fa-sort-down",
         "body": "'\\f0dd'",
-        "description": "fontawesome fa-sort-down",
+        "description": "fontawesome icon: fa-sort-down",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-desc": {
         "prefix": "fa-sort-desc",
         "body": "'\\f0dd'",
-        "description": "fontawesome fa-sort-desc",
+        "description": "fontawesome icon: fa-sort-desc",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-up": {
         "prefix": "fa-sort-up",
         "body": "'\\f0de'",
-        "description": "fontawesome fa-sort-up",
+        "description": "fontawesome icon: fa-sort-up",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-asc": {
         "prefix": "fa-sort-asc",
         "body": "'\\f0de'",
-        "description": "fontawesome fa-sort-asc",
+        "description": "fontawesome icon: fa-sort-asc",
         "scope": "css.scss.sass.less"
     },
     "fa-envelope": {
         "prefix": "fa-envelope",
         "body": "'\\f0e0'",
-        "description": "fontawesome fa-envelope",
+        "description": "fontawesome icon: fa-envelope",
         "scope": "css.scss.sass.less"
     },
     "fa-linkedin": {
         "prefix": "fa-linkedin",
         "body": "'\\f0e1'",
-        "description": "fontawesome fa-linkedin",
+        "description": "fontawesome icon: fa-linkedin",
         "scope": "css.scss.sass.less"
     },
     "fa-rotate-left": {
         "prefix": "fa-rotate-left",
         "body": "'\\f0e2'",
-        "description": "fontawesome fa-rotate-left",
+        "description": "fontawesome icon: fa-rotate-left",
         "scope": "css.scss.sass.less"
     },
     "fa-undo": {
         "prefix": "fa-undo",
         "body": "'\\f0e2'",
-        "description": "fontawesome fa-undo",
+        "description": "fontawesome icon: fa-undo",
         "scope": "css.scss.sass.less"
     },
     "fa-legal": {
         "prefix": "fa-legal",
         "body": "'\\f0e3'",
-        "description": "fontawesome fa-legal",
+        "description": "fontawesome icon: fa-legal",
         "scope": "css.scss.sass.less"
     },
     "fa-gavel": {
         "prefix": "fa-gavel",
         "body": "'\\f0e3'",
-        "description": "fontawesome fa-gavel",
+        "description": "fontawesome icon: fa-gavel",
         "scope": "css.scss.sass.less"
     },
     "fa-dashboard": {
         "prefix": "fa-dashboard",
         "body": "'\\f0e4'",
-        "description": "fontawesome fa-dashboard",
+        "description": "fontawesome icon: fa-dashboard",
         "scope": "css.scss.sass.less"
     },
     "fa-tachometer": {
         "prefix": "fa-tachometer",
         "body": "'\\f0e4'",
-        "description": "fontawesome fa-tachometer",
+        "description": "fontawesome icon: fa-tachometer",
         "scope": "css.scss.sass.less"
     },
     "fa-comment-o": {
         "prefix": "fa-comment-o",
         "body": "'\\f0e5'",
-        "description": "fontawesome fa-comment-o",
+        "description": "fontawesome icon: fa-comment-o",
         "scope": "css.scss.sass.less"
     },
     "fa-comments-o": {
         "prefix": "fa-comments-o",
         "body": "'\\f0e6'",
-        "description": "fontawesome fa-comments-o",
+        "description": "fontawesome icon: fa-comments-o",
         "scope": "css.scss.sass.less"
     },
     "fa-flash": {
         "prefix": "fa-flash",
         "body": "'\\f0e7'",
-        "description": "fontawesome fa-flash",
+        "description": "fontawesome icon: fa-flash",
         "scope": "css.scss.sass.less"
     },
     "fa-bolt": {
         "prefix": "fa-bolt",
         "body": "'\\f0e7'",
-        "description": "fontawesome fa-bolt",
+        "description": "fontawesome icon: fa-bolt",
         "scope": "css.scss.sass.less"
     },
     "fa-sitemap": {
         "prefix": "fa-sitemap",
         "body": "'\\f0e8'",
-        "description": "fontawesome fa-sitemap",
+        "description": "fontawesome icon: fa-sitemap",
         "scope": "css.scss.sass.less"
     },
     "fa-umbrella": {
         "prefix": "fa-umbrella",
         "body": "'\\f0e9'",
-        "description": "fontawesome fa-umbrella",
+        "description": "fontawesome icon: fa-umbrella",
         "scope": "css.scss.sass.less"
     },
     "fa-paste": {
         "prefix": "fa-paste",
         "body": "'\\f0ea'",
-        "description": "fontawesome fa-paste",
+        "description": "fontawesome icon: fa-paste",
         "scope": "css.scss.sass.less"
     },
     "fa-clipboard": {
         "prefix": "fa-clipboard",
         "body": "'\\f0ea'",
-        "description": "fontawesome fa-clipboard",
+        "description": "fontawesome icon: fa-clipboard",
         "scope": "css.scss.sass.less"
     },
     "fa-lightbulb-o": {
         "prefix": "fa-lightbulb-o",
         "body": "'\\f0eb'",
-        "description": "fontawesome fa-lightbulb-o",
+        "description": "fontawesome icon: fa-lightbulb-o",
         "scope": "css.scss.sass.less"
     },
     "fa-exchange": {
         "prefix": "fa-exchange",
         "body": "'\\f0ec'",
-        "description": "fontawesome fa-exchange",
+        "description": "fontawesome icon: fa-exchange",
         "scope": "css.scss.sass.less"
     },
     "fa-cloud-download": {
         "prefix": "fa-cloud-download",
         "body": "'\\f0ed'",
-        "description": "fontawesome fa-cloud-download",
+        "description": "fontawesome icon: fa-cloud-download",
         "scope": "css.scss.sass.less"
     },
     "fa-cloud-upload": {
         "prefix": "fa-cloud-upload",
         "body": "'\\f0ee'",
-        "description": "fontawesome fa-cloud-upload",
+        "description": "fontawesome icon: fa-cloud-upload",
         "scope": "css.scss.sass.less"
     },
     "fa-user-md": {
         "prefix": "fa-user-md",
         "body": "'\\f0f0'",
-        "description": "fontawesome fa-user-md",
+        "description": "fontawesome icon: fa-user-md",
         "scope": "css.scss.sass.less"
     },
     "fa-stethoscope": {
         "prefix": "fa-stethoscope",
         "body": "'\\f0f1'",
-        "description": "fontawesome fa-stethoscope",
+        "description": "fontawesome icon: fa-stethoscope",
         "scope": "css.scss.sass.less"
     },
     "fa-suitcase": {
         "prefix": "fa-suitcase",
         "body": "'\\f0f2'",
-        "description": "fontawesome fa-suitcase",
+        "description": "fontawesome icon: fa-suitcase",
         "scope": "css.scss.sass.less"
     },
     "fa-bell-o": {
         "prefix": "fa-bell-o",
         "body": "'\\f0a2'",
-        "description": "fontawesome fa-bell-o",
+        "description": "fontawesome icon: fa-bell-o",
         "scope": "css.scss.sass.less"
     },
     "fa-coffee": {
         "prefix": "fa-coffee",
         "body": "'\\f0f4'",
-        "description": "fontawesome fa-coffee",
+        "description": "fontawesome icon: fa-coffee",
         "scope": "css.scss.sass.less"
     },
     "fa-cutlery": {
         "prefix": "fa-cutlery",
         "body": "'\\f0f5'",
-        "description": "fontawesome fa-cutlery",
+        "description": "fontawesome icon: fa-cutlery",
         "scope": "css.scss.sass.less"
     },
     "fa-file-text-o": {
         "prefix": "fa-file-text-o",
         "body": "'\\f0f6'",
-        "description": "fontawesome fa-file-text-o",
+        "description": "fontawesome icon: fa-file-text-o",
         "scope": "css.scss.sass.less"
     },
     "fa-building-o": {
         "prefix": "fa-building-o",
         "body": "'\\f0f7'",
-        "description": "fontawesome fa-building-o",
+        "description": "fontawesome icon: fa-building-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hospital-o": {
         "prefix": "fa-hospital-o",
         "body": "'\\f0f8'",
-        "description": "fontawesome fa-hospital-o",
+        "description": "fontawesome icon: fa-hospital-o",
         "scope": "css.scss.sass.less"
     },
     "fa-ambulance": {
         "prefix": "fa-ambulance",
         "body": "'\\f0f9'",
-        "description": "fontawesome fa-ambulance",
+        "description": "fontawesome icon: fa-ambulance",
         "scope": "css.scss.sass.less"
     },
     "fa-medkit": {
         "prefix": "fa-medkit",
         "body": "'\\f0fa'",
-        "description": "fontawesome fa-medkit",
+        "description": "fontawesome icon: fa-medkit",
         "scope": "css.scss.sass.less"
     },
     "fa-fighter-jet": {
         "prefix": "fa-fighter-jet",
         "body": "'\\f0fb'",
-        "description": "fontawesome fa-fighter-jet",
+        "description": "fontawesome icon: fa-fighter-jet",
         "scope": "css.scss.sass.less"
     },
     "fa-beer": {
         "prefix": "fa-beer",
         "body": "'\\f0fc'",
-        "description": "fontawesome fa-beer",
+        "description": "fontawesome icon: fa-beer",
         "scope": "css.scss.sass.less"
     },
     "fa-h-square": {
         "prefix": "fa-h-square",
         "body": "'\\f0fd'",
-        "description": "fontawesome fa-h-square",
+        "description": "fontawesome icon: fa-h-square",
         "scope": "css.scss.sass.less"
     },
     "fa-plus-square": {
         "prefix": "fa-plus-square",
         "body": "'\\f0fe'",
-        "description": "fontawesome fa-plus-square",
+        "description": "fontawesome icon: fa-plus-square",
         "scope": "css.scss.sass.less"
     },
     "fa-angle-double-left": {
         "prefix": "fa-angle-double-left",
         "body": "'\\f100'",
-        "description": "fontawesome fa-angle-double-left",
+        "description": "fontawesome icon: fa-angle-double-left",
         "scope": "css.scss.sass.less"
     },
     "fa-angle-double-right": {
         "prefix": "fa-angle-double-right",
         "body": "'\\f101'",
-        "description": "fontawesome fa-angle-double-right",
+        "description": "fontawesome icon: fa-angle-double-right",
         "scope": "css.scss.sass.less"
     },
     "fa-angle-double-up": {
         "prefix": "fa-angle-double-up",
         "body": "'\\f102'",
-        "description": "fontawesome fa-angle-double-up",
+        "description": "fontawesome icon: fa-angle-double-up",
         "scope": "css.scss.sass.less"
     },
     "fa-angle-double-down": {
         "prefix": "fa-angle-double-down",
         "body": "'\\f103'",
-        "description": "fontawesome fa-angle-double-down",
+        "description": "fontawesome icon: fa-angle-double-down",
         "scope": "css.scss.sass.less"
     },
     "fa-angle-left": {
         "prefix": "fa-angle-left",
         "body": "'\\f104'",
-        "description": "fontawesome fa-angle-left",
+        "description": "fontawesome icon: fa-angle-left",
         "scope": "css.scss.sass.less"
     },
     "fa-angle-right": {
         "prefix": "fa-angle-right",
         "body": "'\\f105'",
-        "description": "fontawesome fa-angle-right",
+        "description": "fontawesome icon: fa-angle-right",
         "scope": "css.scss.sass.less"
     },
     "fa-angle-up": {
         "prefix": "fa-angle-up",
         "body": "'\\f106'",
-        "description": "fontawesome fa-angle-up",
+        "description": "fontawesome icon: fa-angle-up",
         "scope": "css.scss.sass.less"
     },
     "fa-angle-down": {
         "prefix": "fa-angle-down",
         "body": "'\\f107'",
-        "description": "fontawesome fa-angle-down",
+        "description": "fontawesome icon: fa-angle-down",
         "scope": "css.scss.sass.less"
     },
     "fa-desktop": {
         "prefix": "fa-desktop",
         "body": "'\\f108'",
-        "description": "fontawesome fa-desktop",
+        "description": "fontawesome icon: fa-desktop",
         "scope": "css.scss.sass.less"
     },
     "fa-laptop": {
         "prefix": "fa-laptop",
         "body": "'\\f109'",
-        "description": "fontawesome fa-laptop",
+        "description": "fontawesome icon: fa-laptop",
         "scope": "css.scss.sass.less"
     },
     "fa-tablet": {
         "prefix": "fa-tablet",
         "body": "'\\f10a'",
-        "description": "fontawesome fa-tablet",
+        "description": "fontawesome icon: fa-tablet",
         "scope": "css.scss.sass.less"
     },
     "fa-mobile-phone": {
         "prefix": "fa-mobile-phone",
         "body": "'\\f10b'",
-        "description": "fontawesome fa-mobile-phone",
+        "description": "fontawesome icon: fa-mobile-phone",
         "scope": "css.scss.sass.less"
     },
     "fa-mobile": {
         "prefix": "fa-mobile",
         "body": "'\\f10b'",
-        "description": "fontawesome fa-mobile",
+        "description": "fontawesome icon: fa-mobile",
         "scope": "css.scss.sass.less"
     },
     "fa-circle-o": {
         "prefix": "fa-circle-o",
         "body": "'\\f10c'",
-        "description": "fontawesome fa-circle-o",
+        "description": "fontawesome icon: fa-circle-o",
         "scope": "css.scss.sass.less"
     },
     "fa-quote-left": {
         "prefix": "fa-quote-left",
         "body": "'\\f10d'",
-        "description": "fontawesome fa-quote-left",
+        "description": "fontawesome icon: fa-quote-left",
         "scope": "css.scss.sass.less"
     },
     "fa-quote-right": {
         "prefix": "fa-quote-right",
         "body": "'\\f10e'",
-        "description": "fontawesome fa-quote-right",
+        "description": "fontawesome icon: fa-quote-right",
         "scope": "css.scss.sass.less"
     },
     "fa-spinner": {
         "prefix": "fa-spinner",
         "body": "'\\f110'",
-        "description": "fontawesome fa-spinner",
+        "description": "fontawesome icon: fa-spinner",
         "scope": "css.scss.sass.less"
     },
     "fa-circle": {
         "prefix": "fa-circle",
         "body": "'\\f111'",
-        "description": "fontawesome fa-circle",
+        "description": "fontawesome icon: fa-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-mail-reply": {
         "prefix": "fa-mail-reply",
         "body": "'\\f112'",
-        "description": "fontawesome fa-mail-reply",
+        "description": "fontawesome icon: fa-mail-reply",
         "scope": "css.scss.sass.less"
     },
     "fa-reply": {
         "prefix": "fa-reply",
         "body": "'\\f112'",
-        "description": "fontawesome fa-reply",
+        "description": "fontawesome icon: fa-reply",
         "scope": "css.scss.sass.less"
     },
     "fa-github-alt": {
         "prefix": "fa-github-alt",
         "body": "'\\f113'",
-        "description": "fontawesome fa-github-alt",
+        "description": "fontawesome icon: fa-github-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-folder-o": {
         "prefix": "fa-folder-o",
         "body": "'\\f114'",
-        "description": "fontawesome fa-folder-o",
+        "description": "fontawesome icon: fa-folder-o",
         "scope": "css.scss.sass.less"
     },
     "fa-folder-open-o": {
         "prefix": "fa-folder-open-o",
         "body": "'\\f115'",
-        "description": "fontawesome fa-folder-open-o",
+        "description": "fontawesome icon: fa-folder-open-o",
         "scope": "css.scss.sass.less"
     },
     "fa-smile-o": {
         "prefix": "fa-smile-o",
         "body": "'\\f118'",
-        "description": "fontawesome fa-smile-o",
+        "description": "fontawesome icon: fa-smile-o",
         "scope": "css.scss.sass.less"
     },
     "fa-frown-o": {
         "prefix": "fa-frown-o",
         "body": "'\\f119'",
-        "description": "fontawesome fa-frown-o",
+        "description": "fontawesome icon: fa-frown-o",
         "scope": "css.scss.sass.less"
     },
     "fa-meh-o": {
         "prefix": "fa-meh-o",
         "body": "'\\f11a'",
-        "description": "fontawesome fa-meh-o",
+        "description": "fontawesome icon: fa-meh-o",
         "scope": "css.scss.sass.less"
     },
     "fa-gamepad": {
         "prefix": "fa-gamepad",
         "body": "'\\f11b'",
-        "description": "fontawesome fa-gamepad",
+        "description": "fontawesome icon: fa-gamepad",
         "scope": "css.scss.sass.less"
     },
     "fa-keyboard-o": {
         "prefix": "fa-keyboard-o",
         "body": "'\\f11c'",
-        "description": "fontawesome fa-keyboard-o",
+        "description": "fontawesome icon: fa-keyboard-o",
         "scope": "css.scss.sass.less"
     },
     "fa-flag-o": {
         "prefix": "fa-flag-o",
         "body": "'\\f11d'",
-        "description": "fontawesome fa-flag-o",
+        "description": "fontawesome icon: fa-flag-o",
         "scope": "css.scss.sass.less"
     },
     "fa-flag-checkered": {
         "prefix": "fa-flag-checkered",
         "body": "'\\f11e'",
-        "description": "fontawesome fa-flag-checkered",
+        "description": "fontawesome icon: fa-flag-checkered",
         "scope": "css.scss.sass.less"
     },
     "fa-terminal": {
         "prefix": "fa-terminal",
         "body": "'\\f120'",
-        "description": "fontawesome fa-terminal",
+        "description": "fontawesome icon: fa-terminal",
         "scope": "css.scss.sass.less"
     },
     "fa-code": {
         "prefix": "fa-code",
         "body": "'\\f121'",
-        "description": "fontawesome fa-code",
+        "description": "fontawesome icon: fa-code",
         "scope": "css.scss.sass.less"
     },
     "fa-mail-reply-all": {
         "prefix": "fa-mail-reply-all",
         "body": "'\\f122'",
-        "description": "fontawesome fa-mail-reply-all",
+        "description": "fontawesome icon: fa-mail-reply-all",
         "scope": "css.scss.sass.less"
     },
     "fa-reply-all": {
         "prefix": "fa-reply-all",
         "body": "'\\f122'",
-        "description": "fontawesome fa-reply-all",
+        "description": "fontawesome icon: fa-reply-all",
         "scope": "css.scss.sass.less"
     },
     "fa-star-half-empty": {
         "prefix": "fa-star-half-empty",
         "body": "'\\f123'",
-        "description": "fontawesome fa-star-half-empty",
+        "description": "fontawesome icon: fa-star-half-empty",
         "scope": "css.scss.sass.less"
     },
     "fa-star-half-full": {
         "prefix": "fa-star-half-full",
         "body": "'\\f123'",
-        "description": "fontawesome fa-star-half-full",
+        "description": "fontawesome icon: fa-star-half-full",
         "scope": "css.scss.sass.less"
     },
     "fa-star-half-o": {
         "prefix": "fa-star-half-o",
         "body": "'\\f123'",
-        "description": "fontawesome fa-star-half-o",
+        "description": "fontawesome icon: fa-star-half-o",
         "scope": "css.scss.sass.less"
     },
     "fa-location-arrow": {
         "prefix": "fa-location-arrow",
         "body": "'\\f124'",
-        "description": "fontawesome fa-location-arrow",
+        "description": "fontawesome icon: fa-location-arrow",
         "scope": "css.scss.sass.less"
     },
     "fa-crop": {
         "prefix": "fa-crop",
         "body": "'\\f125'",
-        "description": "fontawesome fa-crop",
+        "description": "fontawesome icon: fa-crop",
         "scope": "css.scss.sass.less"
     },
     "fa-code-fork": {
         "prefix": "fa-code-fork",
         "body": "'\\f126'",
-        "description": "fontawesome fa-code-fork",
+        "description": "fontawesome icon: fa-code-fork",
         "scope": "css.scss.sass.less"
     },
     "fa-unlink": {
         "prefix": "fa-unlink",
         "body": "'\\f127'",
-        "description": "fontawesome fa-unlink",
+        "description": "fontawesome icon: fa-unlink",
         "scope": "css.scss.sass.less"
     },
     "fa-chain-broken": {
         "prefix": "fa-chain-broken",
         "body": "'\\f127'",
-        "description": "fontawesome fa-chain-broken",
+        "description": "fontawesome icon: fa-chain-broken",
         "scope": "css.scss.sass.less"
     },
     "fa-question": {
         "prefix": "fa-question",
         "body": "'\\f128'",
-        "description": "fontawesome fa-question",
+        "description": "fontawesome icon: fa-question",
         "scope": "css.scss.sass.less"
     },
     "fa-info": {
         "prefix": "fa-info",
         "body": "'\\f129'",
-        "description": "fontawesome fa-info",
+        "description": "fontawesome icon: fa-info",
         "scope": "css.scss.sass.less"
     },
     "fa-exclamation": {
         "prefix": "fa-exclamation",
         "body": "'\\f12a'",
-        "description": "fontawesome fa-exclamation",
+        "description": "fontawesome icon: fa-exclamation",
         "scope": "css.scss.sass.less"
     },
     "fa-superscript": {
         "prefix": "fa-superscript",
         "body": "'\\f12b'",
-        "description": "fontawesome fa-superscript",
+        "description": "fontawesome icon: fa-superscript",
         "scope": "css.scss.sass.less"
     },
     "fa-subscript": {
         "prefix": "fa-subscript",
         "body": "'\\f12c'",
-        "description": "fontawesome fa-subscript",
+        "description": "fontawesome icon: fa-subscript",
         "scope": "css.scss.sass.less"
     },
     "fa-eraser": {
         "prefix": "fa-eraser",
         "body": "'\\f12d'",
-        "description": "fontawesome fa-eraser",
+        "description": "fontawesome icon: fa-eraser",
         "scope": "css.scss.sass.less"
     },
     "fa-puzzle-piece": {
         "prefix": "fa-puzzle-piece",
         "body": "'\\f12e'",
-        "description": "fontawesome fa-puzzle-piece",
+        "description": "fontawesome icon: fa-puzzle-piece",
         "scope": "css.scss.sass.less"
     },
     "fa-microphone": {
         "prefix": "fa-microphone",
         "body": "'\\f130'",
-        "description": "fontawesome fa-microphone",
+        "description": "fontawesome icon: fa-microphone",
         "scope": "css.scss.sass.less"
     },
     "fa-microphone-slash": {
         "prefix": "fa-microphone-slash",
         "body": "'\\f131'",
-        "description": "fontawesome fa-microphone-slash",
+        "description": "fontawesome icon: fa-microphone-slash",
         "scope": "css.scss.sass.less"
     },
     "fa-shield": {
         "prefix": "fa-shield",
         "body": "'\\f132'",
-        "description": "fontawesome fa-shield",
+        "description": "fontawesome icon: fa-shield",
         "scope": "css.scss.sass.less"
     },
     "fa-calendar-o": {
         "prefix": "fa-calendar-o",
         "body": "'\\f133'",
-        "description": "fontawesome fa-calendar-o",
+        "description": "fontawesome icon: fa-calendar-o",
         "scope": "css.scss.sass.less"
     },
     "fa-fire-extinguisher": {
         "prefix": "fa-fire-extinguisher",
         "body": "'\\f134'",
-        "description": "fontawesome fa-fire-extinguisher",
+        "description": "fontawesome icon: fa-fire-extinguisher",
         "scope": "css.scss.sass.less"
     },
     "fa-rocket": {
         "prefix": "fa-rocket",
         "body": "'\\f135'",
-        "description": "fontawesome fa-rocket",
+        "description": "fontawesome icon: fa-rocket",
         "scope": "css.scss.sass.less"
     },
     "fa-maxcdn": {
         "prefix": "fa-maxcdn",
         "body": "'\\f136'",
-        "description": "fontawesome fa-maxcdn",
+        "description": "fontawesome icon: fa-maxcdn",
         "scope": "css.scss.sass.less"
     },
     "fa-chevron-circle-left": {
         "prefix": "fa-chevron-circle-left",
         "body": "'\\f137'",
-        "description": "fontawesome fa-chevron-circle-left",
+        "description": "fontawesome icon: fa-chevron-circle-left",
         "scope": "css.scss.sass.less"
     },
     "fa-chevron-circle-right": {
         "prefix": "fa-chevron-circle-right",
         "body": "'\\f138'",
-        "description": "fontawesome fa-chevron-circle-right",
+        "description": "fontawesome icon: fa-chevron-circle-right",
         "scope": "css.scss.sass.less"
     },
     "fa-chevron-circle-up": {
         "prefix": "fa-chevron-circle-up",
         "body": "'\\f139'",
-        "description": "fontawesome fa-chevron-circle-up",
+        "description": "fontawesome icon: fa-chevron-circle-up",
         "scope": "css.scss.sass.less"
     },
     "fa-chevron-circle-down": {
         "prefix": "fa-chevron-circle-down",
         "body": "'\\f13a'",
-        "description": "fontawesome fa-chevron-circle-down",
+        "description": "fontawesome icon: fa-chevron-circle-down",
         "scope": "css.scss.sass.less"
     },
     "fa-html5": {
         "prefix": "fa-html5",
         "body": "'\\f13b'",
-        "description": "fontawesome fa-html5",
+        "description": "fontawesome icon: fa-html5",
         "scope": "css.scss.sass.less"
     },
     "fa-css.scss.sass.less3": {
         "prefix": "fa-css.scss.sass.less3",
         "body": "'\\f13c'",
-        "description": "fontawesome fa-css.scss.sass.less3",
+        "description": "fontawesome icon: fa-css.scss.sass.less3",
         "scope": "css.scss.sass.less"
     },
     "fa-anchor": {
         "prefix": "fa-anchor",
         "body": "'\\f13d'",
-        "description": "fontawesome fa-anchor",
+        "description": "fontawesome icon: fa-anchor",
         "scope": "css.scss.sass.less"
     },
     "fa-unlock-alt": {
         "prefix": "fa-unlock-alt",
         "body": "'\\f13e'",
-        "description": "fontawesome fa-unlock-alt",
+        "description": "fontawesome icon: fa-unlock-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-bullseye": {
         "prefix": "fa-bullseye",
         "body": "'\\f140'",
-        "description": "fontawesome fa-bullseye",
+        "description": "fontawesome icon: fa-bullseye",
         "scope": "css.scss.sass.less"
     },
     "fa-ellipsis-h": {
         "prefix": "fa-ellipsis-h",
         "body": "'\\f141'",
-        "description": "fontawesome fa-ellipsis-h",
+        "description": "fontawesome icon: fa-ellipsis-h",
         "scope": "css.scss.sass.less"
     },
     "fa-ellipsis-v": {
         "prefix": "fa-ellipsis-v",
         "body": "'\\f142'",
-        "description": "fontawesome fa-ellipsis-v",
+        "description": "fontawesome icon: fa-ellipsis-v",
         "scope": "css.scss.sass.less"
     },
     "fa-rss-square": {
         "prefix": "fa-rss-square",
         "body": "'\\f143'",
-        "description": "fontawesome fa-rss-square",
+        "description": "fontawesome icon: fa-rss-square",
         "scope": "css.scss.sass.less"
     },
     "fa-play-circle": {
         "prefix": "fa-play-circle",
         "body": "'\\f144'",
-        "description": "fontawesome fa-play-circle",
+        "description": "fontawesome icon: fa-play-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-ticket": {
         "prefix": "fa-ticket",
         "body": "'\\f145'",
-        "description": "fontawesome fa-ticket",
+        "description": "fontawesome icon: fa-ticket",
         "scope": "css.scss.sass.less"
     },
     "fa-minus-square": {
         "prefix": "fa-minus-square",
         "body": "'\\f146'",
-        "description": "fontawesome fa-minus-square",
+        "description": "fontawesome icon: fa-minus-square",
         "scope": "css.scss.sass.less"
     },
     "fa-minus-square-o": {
         "prefix": "fa-minus-square-o",
         "body": "'\\f147'",
-        "description": "fontawesome fa-minus-square-o",
+        "description": "fontawesome icon: fa-minus-square-o",
         "scope": "css.scss.sass.less"
     },
     "fa-level-up": {
         "prefix": "fa-level-up",
         "body": "'\\f148'",
-        "description": "fontawesome fa-level-up",
+        "description": "fontawesome icon: fa-level-up",
         "scope": "css.scss.sass.less"
     },
     "fa-level-down": {
         "prefix": "fa-level-down",
         "body": "'\\f149'",
-        "description": "fontawesome fa-level-down",
+        "description": "fontawesome icon: fa-level-down",
         "scope": "css.scss.sass.less"
     },
     "fa-check-square": {
         "prefix": "fa-check-square",
         "body": "'\\f14a'",
-        "description": "fontawesome fa-check-square",
+        "description": "fontawesome icon: fa-check-square",
         "scope": "css.scss.sass.less"
     },
     "fa-pencil-square": {
         "prefix": "fa-pencil-square",
         "body": "'\\f14b'",
-        "description": "fontawesome fa-pencil-square",
+        "description": "fontawesome icon: fa-pencil-square",
         "scope": "css.scss.sass.less"
     },
     "fa-external-link-square": {
         "prefix": "fa-external-link-square",
         "body": "'\\f14c'",
-        "description": "fontawesome fa-external-link-square",
+        "description": "fontawesome icon: fa-external-link-square",
         "scope": "css.scss.sass.less"
     },
     "fa-share-square": {
         "prefix": "fa-share-square",
         "body": "'\\f14d'",
-        "description": "fontawesome fa-share-square",
+        "description": "fontawesome icon: fa-share-square",
         "scope": "css.scss.sass.less"
     },
     "fa-compass": {
         "prefix": "fa-compass",
         "body": "'\\f14e'",
-        "description": "fontawesome fa-compass",
+        "description": "fontawesome icon: fa-compass",
         "scope": "css.scss.sass.less"
     },
     "fa-toggle-down": {
         "prefix": "fa-toggle-down",
         "body": "'\\f150'",
-        "description": "fontawesome fa-toggle-down",
+        "description": "fontawesome icon: fa-toggle-down",
         "scope": "css.scss.sass.less"
     },
     "fa-caret-square-o-down": {
         "prefix": "fa-caret-square-o-down",
         "body": "'\\f150'",
-        "description": "fontawesome fa-caret-square-o-down",
+        "description": "fontawesome icon: fa-caret-square-o-down",
         "scope": "css.scss.sass.less"
     },
     "fa-toggle-up": {
         "prefix": "fa-toggle-up",
         "body": "'\\f151'",
-        "description": "fontawesome fa-toggle-up",
+        "description": "fontawesome icon: fa-toggle-up",
         "scope": "css.scss.sass.less"
     },
     "fa-caret-square-o-up": {
         "prefix": "fa-caret-square-o-up",
         "body": "'\\f151'",
-        "description": "fontawesome fa-caret-square-o-up",
+        "description": "fontawesome icon: fa-caret-square-o-up",
         "scope": "css.scss.sass.less"
     },
     "fa-toggle-right": {
         "prefix": "fa-toggle-right",
         "body": "'\\f152'",
-        "description": "fontawesome fa-toggle-right",
+        "description": "fontawesome icon: fa-toggle-right",
         "scope": "css.scss.sass.less"
     },
     "fa-caret-square-o-right": {
         "prefix": "fa-caret-square-o-right",
         "body": "'\\f152'",
-        "description": "fontawesome fa-caret-square-o-right",
+        "description": "fontawesome icon: fa-caret-square-o-right",
         "scope": "css.scss.sass.less"
     },
     "fa-euro": {
         "prefix": "fa-euro",
         "body": "'\\f153'",
-        "description": "fontawesome fa-euro",
+        "description": "fontawesome icon: fa-euro",
         "scope": "css.scss.sass.less"
     },
     "fa-eur": {
         "prefix": "fa-eur",
         "body": "'\\f153'",
-        "description": "fontawesome fa-eur",
+        "description": "fontawesome icon: fa-eur",
         "scope": "css.scss.sass.less"
     },
     "fa-gbp": {
         "prefix": "fa-gbp",
         "body": "'\\f154'",
-        "description": "fontawesome fa-gbp",
+        "description": "fontawesome icon: fa-gbp",
         "scope": "css.scss.sass.less"
     },
     "fa-dollar": {
         "prefix": "fa-dollar",
         "body": "'\\f155'",
-        "description": "fontawesome fa-dollar",
+        "description": "fontawesome icon: fa-dollar",
         "scope": "css.scss.sass.less"
     },
     "fa-usd": {
         "prefix": "fa-usd",
         "body": "'\\f155'",
-        "description": "fontawesome fa-usd",
+        "description": "fontawesome icon: fa-usd",
         "scope": "css.scss.sass.less"
     },
     "fa-rupee": {
         "prefix": "fa-rupee",
         "body": "'\\f156'",
-        "description": "fontawesome fa-rupee",
+        "description": "fontawesome icon: fa-rupee",
         "scope": "css.scss.sass.less"
     },
     "fa-inr": {
         "prefix": "fa-inr",
         "body": "'\\f156'",
-        "description": "fontawesome fa-inr",
+        "description": "fontawesome icon: fa-inr",
         "scope": "css.scss.sass.less"
     },
     "fa-cny": {
         "prefix": "fa-cny",
         "body": "'\\f157'",
-        "description": "fontawesome fa-cny",
+        "description": "fontawesome icon: fa-cny",
         "scope": "css.scss.sass.less"
     },
     "fa-rmb": {
         "prefix": "fa-rmb",
         "body": "'\\f157'",
-        "description": "fontawesome fa-rmb",
+        "description": "fontawesome icon: fa-rmb",
         "scope": "css.scss.sass.less"
     },
     "fa-yen": {
         "prefix": "fa-yen",
         "body": "'\\f157'",
-        "description": "fontawesome fa-yen",
+        "description": "fontawesome icon: fa-yen",
         "scope": "css.scss.sass.less"
     },
     "fa-jpy": {
         "prefix": "fa-jpy",
         "body": "'\\f157'",
-        "description": "fontawesome fa-jpy",
+        "description": "fontawesome icon: fa-jpy",
         "scope": "css.scss.sass.less"
     },
     "fa-ruble": {
         "prefix": "fa-ruble",
         "body": "'\\f158'",
-        "description": "fontawesome fa-ruble",
+        "description": "fontawesome icon: fa-ruble",
         "scope": "css.scss.sass.less"
     },
     "fa-rouble": {
         "prefix": "fa-rouble",
         "body": "'\\f158'",
-        "description": "fontawesome fa-rouble",
+        "description": "fontawesome icon: fa-rouble",
         "scope": "css.scss.sass.less"
     },
     "fa-rub": {
         "prefix": "fa-rub",
         "body": "'\\f158'",
-        "description": "fontawesome fa-rub",
+        "description": "fontawesome icon: fa-rub",
         "scope": "css.scss.sass.less"
     },
     "fa-won": {
         "prefix": "fa-won",
         "body": "'\\f159'",
-        "description": "fontawesome fa-won",
+        "description": "fontawesome icon: fa-won",
         "scope": "css.scss.sass.less"
     },
     "fa-krw": {
         "prefix": "fa-krw",
         "body": "'\\f159'",
-        "description": "fontawesome fa-krw",
+        "description": "fontawesome icon: fa-krw",
         "scope": "css.scss.sass.less"
     },
     "fa-bitcoin": {
         "prefix": "fa-bitcoin",
         "body": "'\\f15a'",
-        "description": "fontawesome fa-bitcoin",
+        "description": "fontawesome icon: fa-bitcoin",
         "scope": "css.scss.sass.less"
     },
     "fa-btc": {
         "prefix": "fa-btc",
         "body": "'\\f15a'",
-        "description": "fontawesome fa-btc",
+        "description": "fontawesome icon: fa-btc",
         "scope": "css.scss.sass.less"
     },
     "fa-file": {
         "prefix": "fa-file",
         "body": "'\\f15b'",
-        "description": "fontawesome fa-file",
+        "description": "fontawesome icon: fa-file",
         "scope": "css.scss.sass.less"
     },
     "fa-file-text": {
         "prefix": "fa-file-text",
         "body": "'\\f15c'",
-        "description": "fontawesome fa-file-text",
+        "description": "fontawesome icon: fa-file-text",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-alpha-asc": {
         "prefix": "fa-sort-alpha-asc",
         "body": "'\\f15d'",
-        "description": "fontawesome fa-sort-alpha-asc",
+        "description": "fontawesome icon: fa-sort-alpha-asc",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-alpha-desc": {
         "prefix": "fa-sort-alpha-desc",
         "body": "'\\f15e'",
-        "description": "fontawesome fa-sort-alpha-desc",
+        "description": "fontawesome icon: fa-sort-alpha-desc",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-amount-asc": {
         "prefix": "fa-sort-amount-asc",
         "body": "'\\f160'",
-        "description": "fontawesome fa-sort-amount-asc",
+        "description": "fontawesome icon: fa-sort-amount-asc",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-amount-desc": {
         "prefix": "fa-sort-amount-desc",
         "body": "'\\f161'",
-        "description": "fontawesome fa-sort-amount-desc",
+        "description": "fontawesome icon: fa-sort-amount-desc",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-numeric-asc": {
         "prefix": "fa-sort-numeric-asc",
         "body": "'\\f162'",
-        "description": "fontawesome fa-sort-numeric-asc",
+        "description": "fontawesome icon: fa-sort-numeric-asc",
         "scope": "css.scss.sass.less"
     },
     "fa-sort-numeric-desc": {
         "prefix": "fa-sort-numeric-desc",
         "body": "'\\f163'",
-        "description": "fontawesome fa-sort-numeric-desc",
+        "description": "fontawesome icon: fa-sort-numeric-desc",
         "scope": "css.scss.sass.less"
     },
     "fa-thumbs-up": {
         "prefix": "fa-thumbs-up",
         "body": "'\\f164'",
-        "description": "fontawesome fa-thumbs-up",
+        "description": "fontawesome icon: fa-thumbs-up",
         "scope": "css.scss.sass.less"
     },
     "fa-thumbs-down": {
         "prefix": "fa-thumbs-down",
         "body": "'\\f165'",
-        "description": "fontawesome fa-thumbs-down",
+        "description": "fontawesome icon: fa-thumbs-down",
         "scope": "css.scss.sass.less"
     },
     "fa-youtube-square": {
         "prefix": "fa-youtube-square",
         "body": "'\\f166'",
-        "description": "fontawesome fa-youtube-square",
+        "description": "fontawesome icon: fa-youtube-square",
         "scope": "css.scss.sass.less"
     },
     "fa-youtube": {
         "prefix": "fa-youtube",
         "body": "'\\f167'",
-        "description": "fontawesome fa-youtube",
+        "description": "fontawesome icon: fa-youtube",
         "scope": "css.scss.sass.less"
     },
     "fa-xing": {
         "prefix": "fa-xing",
         "body": "'\\f168'",
-        "description": "fontawesome fa-xing",
+        "description": "fontawesome icon: fa-xing",
         "scope": "css.scss.sass.less"
     },
     "fa-xing-square": {
         "prefix": "fa-xing-square",
         "body": "'\\f169'",
-        "description": "fontawesome fa-xing-square",
+        "description": "fontawesome icon: fa-xing-square",
         "scope": "css.scss.sass.less"
     },
     "fa-youtube-play": {
         "prefix": "fa-youtube-play",
         "body": "'\\f16a'",
-        "description": "fontawesome fa-youtube-play",
+        "description": "fontawesome icon: fa-youtube-play",
         "scope": "css.scss.sass.less"
     },
     "fa-dropbox": {
         "prefix": "fa-dropbox",
         "body": "'\\f16b'",
-        "description": "fontawesome fa-dropbox",
+        "description": "fontawesome icon: fa-dropbox",
         "scope": "css.scss.sass.less"
     },
     "fa-stack-overflow": {
         "prefix": "fa-stack-overflow",
         "body": "'\\f16c'",
-        "description": "fontawesome fa-stack-overflow",
+        "description": "fontawesome icon: fa-stack-overflow",
         "scope": "css.scss.sass.less"
     },
     "fa-instagram": {
         "prefix": "fa-instagram",
         "body": "'\\f16d'",
-        "description": "fontawesome fa-instagram",
+        "description": "fontawesome icon: fa-instagram",
         "scope": "css.scss.sass.less"
     },
     "fa-flickr": {
         "prefix": "fa-flickr",
         "body": "'\\f16e'",
-        "description": "fontawesome fa-flickr",
+        "description": "fontawesome icon: fa-flickr",
         "scope": "css.scss.sass.less"
     },
     "fa-adn": {
         "prefix": "fa-adn",
         "body": "'\\f170'",
-        "description": "fontawesome fa-adn",
+        "description": "fontawesome icon: fa-adn",
         "scope": "css.scss.sass.less"
     },
     "fa-bitbucket": {
         "prefix": "fa-bitbucket",
         "body": "'\\f171'",
-        "description": "fontawesome fa-bitbucket",
+        "description": "fontawesome icon: fa-bitbucket",
         "scope": "css.scss.sass.less"
     },
     "fa-bitbucket-square": {
         "prefix": "fa-bitbucket-square",
         "body": "'\\f172'",
-        "description": "fontawesome fa-bitbucket-square",
+        "description": "fontawesome icon: fa-bitbucket-square",
         "scope": "css.scss.sass.less"
     },
     "fa-tumblr": {
         "prefix": "fa-tumblr",
         "body": "'\\f173'",
-        "description": "fontawesome fa-tumblr",
+        "description": "fontawesome icon: fa-tumblr",
         "scope": "css.scss.sass.less"
     },
     "fa-tumblr-square": {
         "prefix": "fa-tumblr-square",
         "body": "'\\f174'",
-        "description": "fontawesome fa-tumblr-square",
+        "description": "fontawesome icon: fa-tumblr-square",
         "scope": "css.scss.sass.less"
     },
     "fa-long-arrow-down": {
         "prefix": "fa-long-arrow-down",
         "body": "'\\f175'",
-        "description": "fontawesome fa-long-arrow-down",
+        "description": "fontawesome icon: fa-long-arrow-down",
         "scope": "css.scss.sass.less"
     },
     "fa-long-arrow-up": {
         "prefix": "fa-long-arrow-up",
         "body": "'\\f176'",
-        "description": "fontawesome fa-long-arrow-up",
+        "description": "fontawesome icon: fa-long-arrow-up",
         "scope": "css.scss.sass.less"
     },
     "fa-long-arrow-left": {
         "prefix": "fa-long-arrow-left",
         "body": "'\\f177'",
-        "description": "fontawesome fa-long-arrow-left",
+        "description": "fontawesome icon: fa-long-arrow-left",
         "scope": "css.scss.sass.less"
     },
     "fa-long-arrow-right": {
         "prefix": "fa-long-arrow-right",
         "body": "'\\f178'",
-        "description": "fontawesome fa-long-arrow-right",
+        "description": "fontawesome icon: fa-long-arrow-right",
         "scope": "css.scss.sass.less"
     },
     "fa-apple": {
         "prefix": "fa-apple",
         "body": "'\\f179'",
-        "description": "fontawesome fa-apple",
+        "description": "fontawesome icon: fa-apple",
         "scope": "css.scss.sass.less"
     },
     "fa-windows": {
         "prefix": "fa-windows",
         "body": "'\\f17a'",
-        "description": "fontawesome fa-windows",
+        "description": "fontawesome icon: fa-windows",
         "scope": "css.scss.sass.less"
     },
     "fa-android": {
         "prefix": "fa-android",
         "body": "'\\f17b'",
-        "description": "fontawesome fa-android",
+        "description": "fontawesome icon: fa-android",
         "scope": "css.scss.sass.less"
     },
     "fa-linux": {
         "prefix": "fa-linux",
         "body": "'\\f17c'",
-        "description": "fontawesome fa-linux",
+        "description": "fontawesome icon: fa-linux",
         "scope": "css.scss.sass.less"
     },
     "fa-dribbble": {
         "prefix": "fa-dribbble",
         "body": "'\\f17d'",
-        "description": "fontawesome fa-dribbble",
+        "description": "fontawesome icon: fa-dribbble",
         "scope": "css.scss.sass.less"
     },
     "fa-skype": {
         "prefix": "fa-skype",
         "body": "'\\f17e'",
-        "description": "fontawesome fa-skype",
+        "description": "fontawesome icon: fa-skype",
         "scope": "css.scss.sass.less"
     },
     "fa-foursquare": {
         "prefix": "fa-foursquare",
         "body": "'\\f180'",
-        "description": "fontawesome fa-foursquare",
+        "description": "fontawesome icon: fa-foursquare",
         "scope": "css.scss.sass.less"
     },
     "fa-trello": {
         "prefix": "fa-trello",
         "body": "'\\f181'",
-        "description": "fontawesome fa-trello",
+        "description": "fontawesome icon: fa-trello",
         "scope": "css.scss.sass.less"
     },
     "fa-female": {
         "prefix": "fa-female",
         "body": "'\\f182'",
-        "description": "fontawesome fa-female",
+        "description": "fontawesome icon: fa-female",
         "scope": "css.scss.sass.less"
     },
     "fa-male": {
         "prefix": "fa-male",
         "body": "'\\f183'",
-        "description": "fontawesome fa-male",
+        "description": "fontawesome icon: fa-male",
         "scope": "css.scss.sass.less"
     },
     "fa-gittip": {
         "prefix": "fa-gittip",
         "body": "'\\f184'",
-        "description": "fontawesome fa-gittip",
+        "description": "fontawesome icon: fa-gittip",
         "scope": "css.scss.sass.less"
     },
     "fa-gratipay": {
         "prefix": "fa-gratipay",
         "body": "'\\f184'",
-        "description": "fontawesome fa-gratipay",
+        "description": "fontawesome icon: fa-gratipay",
         "scope": "css.scss.sass.less"
     },
     "fa-sun-o": {
         "prefix": "fa-sun-o",
         "body": "'\\f185'",
-        "description": "fontawesome fa-sun-o",
+        "description": "fontawesome icon: fa-sun-o",
         "scope": "css.scss.sass.less"
     },
     "fa-moon-o": {
         "prefix": "fa-moon-o",
         "body": "'\\f186'",
-        "description": "fontawesome fa-moon-o",
+        "description": "fontawesome icon: fa-moon-o",
         "scope": "css.scss.sass.less"
     },
     "fa-archive": {
         "prefix": "fa-archive",
         "body": "'\\f187'",
-        "description": "fontawesome fa-archive",
+        "description": "fontawesome icon: fa-archive",
         "scope": "css.scss.sass.less"
     },
     "fa-bug": {
         "prefix": "fa-bug",
         "body": "'\\f188'",
-        "description": "fontawesome fa-bug",
+        "description": "fontawesome icon: fa-bug",
         "scope": "css.scss.sass.less"
     },
     "fa-vk": {
         "prefix": "fa-vk",
         "body": "'\\f189'",
-        "description": "fontawesome fa-vk",
+        "description": "fontawesome icon: fa-vk",
         "scope": "css.scss.sass.less"
     },
     "fa-weibo": {
         "prefix": "fa-weibo",
         "body": "'\\f18a'",
-        "description": "fontawesome fa-weibo",
+        "description": "fontawesome icon: fa-weibo",
         "scope": "css.scss.sass.less"
     },
     "fa-renren": {
         "prefix": "fa-renren",
         "body": "'\\f18b'",
-        "description": "fontawesome fa-renren",
+        "description": "fontawesome icon: fa-renren",
         "scope": "css.scss.sass.less"
     },
     "fa-pagelines": {
         "prefix": "fa-pagelines",
         "body": "'\\f18c'",
-        "description": "fontawesome fa-pagelines",
+        "description": "fontawesome icon: fa-pagelines",
         "scope": "css.scss.sass.less"
     },
     "fa-stack-exchange": {
         "prefix": "fa-stack-exchange",
         "body": "'\\f18d'",
-        "description": "fontawesome fa-stack-exchange",
+        "description": "fontawesome icon: fa-stack-exchange",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-circle-o-right": {
         "prefix": "fa-arrow-circle-o-right",
         "body": "'\\f18e'",
-        "description": "fontawesome fa-arrow-circle-o-right",
+        "description": "fontawesome icon: fa-arrow-circle-o-right",
         "scope": "css.scss.sass.less"
     },
     "fa-arrow-circle-o-left": {
         "prefix": "fa-arrow-circle-o-left",
         "body": "'\\f190'",
-        "description": "fontawesome fa-arrow-circle-o-left",
+        "description": "fontawesome icon: fa-arrow-circle-o-left",
         "scope": "css.scss.sass.less"
     },
     "fa-toggle-left": {
         "prefix": "fa-toggle-left",
         "body": "'\\f191'",
-        "description": "fontawesome fa-toggle-left",
+        "description": "fontawesome icon: fa-toggle-left",
         "scope": "css.scss.sass.less"
     },
     "fa-caret-square-o-left": {
         "prefix": "fa-caret-square-o-left",
         "body": "'\\f191'",
-        "description": "fontawesome fa-caret-square-o-left",
+        "description": "fontawesome icon: fa-caret-square-o-left",
         "scope": "css.scss.sass.less"
     },
     "fa-dot-circle-o": {
         "prefix": "fa-dot-circle-o",
         "body": "'\\f192'",
-        "description": "fontawesome fa-dot-circle-o",
+        "description": "fontawesome icon: fa-dot-circle-o",
         "scope": "css.scss.sass.less"
     },
     "fa-wheelchair": {
         "prefix": "fa-wheelchair",
         "body": "'\\f193'",
-        "description": "fontawesome fa-wheelchair",
+        "description": "fontawesome icon: fa-wheelchair",
         "scope": "css.scss.sass.less"
     },
     "fa-vimeo-square": {
         "prefix": "fa-vimeo-square",
         "body": "'\\f194'",
-        "description": "fontawesome fa-vimeo-square",
+        "description": "fontawesome icon: fa-vimeo-square",
         "scope": "css.scss.sass.less"
     },
     "fa-turkish-lira": {
         "prefix": "fa-turkish-lira",
         "body": "'\\f195'",
-        "description": "fontawesome fa-turkish-lira",
+        "description": "fontawesome icon: fa-turkish-lira",
         "scope": "css.scss.sass.less"
     },
     "fa-try": {
         "prefix": "fa-try",
         "body": "'\\f195'",
-        "description": "fontawesome fa-try",
+        "description": "fontawesome icon: fa-try",
         "scope": "css.scss.sass.less"
     },
     "fa-plus-square-o": {
         "prefix": "fa-plus-square-o",
         "body": "'\\f196'",
-        "description": "fontawesome fa-plus-square-o",
+        "description": "fontawesome icon: fa-plus-square-o",
         "scope": "css.scss.sass.less"
     },
     "fa-space-shuttle": {
         "prefix": "fa-space-shuttle",
         "body": "'\\f197'",
-        "description": "fontawesome fa-space-shuttle",
+        "description": "fontawesome icon: fa-space-shuttle",
         "scope": "css.scss.sass.less"
     },
     "fa-slack": {
         "prefix": "fa-slack",
         "body": "'\\f198'",
-        "description": "fontawesome fa-slack",
+        "description": "fontawesome icon: fa-slack",
         "scope": "css.scss.sass.less"
     },
     "fa-envelope-square": {
         "prefix": "fa-envelope-square",
         "body": "'\\f199'",
-        "description": "fontawesome fa-envelope-square",
+        "description": "fontawesome icon: fa-envelope-square",
         "scope": "css.scss.sass.less"
     },
     "fa-wordpress": {
         "prefix": "fa-wordpress",
         "body": "'\\f19a'",
-        "description": "fontawesome fa-wordpress",
+        "description": "fontawesome icon: fa-wordpress",
         "scope": "css.scss.sass.less"
     },
     "fa-openid": {
         "prefix": "fa-openid",
         "body": "'\\f19b'",
-        "description": "fontawesome fa-openid",
+        "description": "fontawesome icon: fa-openid",
         "scope": "css.scss.sass.less"
     },
     "fa-institution": {
         "prefix": "fa-institution",
         "body": "'\\f19c'",
-        "description": "fontawesome fa-institution",
+        "description": "fontawesome icon: fa-institution",
         "scope": "css.scss.sass.less"
     },
     "fa-bank": {
         "prefix": "fa-bank",
         "body": "'\\f19c'",
-        "description": "fontawesome fa-bank",
+        "description": "fontawesome icon: fa-bank",
         "scope": "css.scss.sass.less"
     },
     "fa-university": {
         "prefix": "fa-university",
         "body": "'\\f19c'",
-        "description": "fontawesome fa-university",
+        "description": "fontawesome icon: fa-university",
         "scope": "css.scss.sass.less"
     },
     "fa-mortar-board": {
         "prefix": "fa-mortar-board",
         "body": "'\\f19d'",
-        "description": "fontawesome fa-mortar-board",
+        "description": "fontawesome icon: fa-mortar-board",
         "scope": "css.scss.sass.less"
     },
     "fa-graduation-cap": {
         "prefix": "fa-graduation-cap",
         "body": "'\\f19d'",
-        "description": "fontawesome fa-graduation-cap",
+        "description": "fontawesome icon: fa-graduation-cap",
         "scope": "css.scss.sass.less"
     },
     "fa-yahoo": {
         "prefix": "fa-yahoo",
         "body": "'\\f19e'",
-        "description": "fontawesome fa-yahoo",
+        "description": "fontawesome icon: fa-yahoo",
         "scope": "css.scss.sass.less"
     },
     "fa-google": {
         "prefix": "fa-google",
         "body": "'\\f1a0'",
-        "description": "fontawesome fa-google",
+        "description": "fontawesome icon: fa-google",
         "scope": "css.scss.sass.less"
     },
     "fa-reddit": {
         "prefix": "fa-reddit",
         "body": "'\\f1a1'",
-        "description": "fontawesome fa-reddit",
+        "description": "fontawesome icon: fa-reddit",
         "scope": "css.scss.sass.less"
     },
     "fa-reddit-square": {
         "prefix": "fa-reddit-square",
         "body": "'\\f1a2'",
-        "description": "fontawesome fa-reddit-square",
+        "description": "fontawesome icon: fa-reddit-square",
         "scope": "css.scss.sass.less"
     },
     "fa-stumbleupon-circle": {
         "prefix": "fa-stumbleupon-circle",
         "body": "'\\f1a3'",
-        "description": "fontawesome fa-stumbleupon-circle",
+        "description": "fontawesome icon: fa-stumbleupon-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-stumbleupon": {
         "prefix": "fa-stumbleupon",
         "body": "'\\f1a4'",
-        "description": "fontawesome fa-stumbleupon",
+        "description": "fontawesome icon: fa-stumbleupon",
         "scope": "css.scss.sass.less"
     },
     "fa-delicious": {
         "prefix": "fa-delicious",
         "body": "'\\f1a5'",
-        "description": "fontawesome fa-delicious",
+        "description": "fontawesome icon: fa-delicious",
         "scope": "css.scss.sass.less"
     },
     "fa-digg": {
         "prefix": "fa-digg",
         "body": "'\\f1a6'",
-        "description": "fontawesome fa-digg",
+        "description": "fontawesome icon: fa-digg",
         "scope": "css.scss.sass.less"
     },
     "fa-pied-piper": {
         "prefix": "fa-pied-piper",
         "body": "'\\f1a7'",
-        "description": "fontawesome fa-pied-piper",
+        "description": "fontawesome icon: fa-pied-piper",
         "scope": "css.scss.sass.less"
     },
     "fa-pied-piper-alt": {
         "prefix": "fa-pied-piper-alt",
         "body": "'\\f1a8'",
-        "description": "fontawesome fa-pied-piper-alt",
+        "description": "fontawesome icon: fa-pied-piper-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-drupal": {
         "prefix": "fa-drupal",
         "body": "'\\f1a9'",
-        "description": "fontawesome fa-drupal",
+        "description": "fontawesome icon: fa-drupal",
         "scope": "css.scss.sass.less"
     },
     "fa-joomla": {
         "prefix": "fa-joomla",
         "body": "'\\f1aa'",
-        "description": "fontawesome fa-joomla",
+        "description": "fontawesome icon: fa-joomla",
         "scope": "css.scss.sass.less"
     },
     "fa-language": {
         "prefix": "fa-language",
         "body": "'\\f1ab'",
-        "description": "fontawesome fa-language",
+        "description": "fontawesome icon: fa-language",
         "scope": "css.scss.sass.less"
     },
     "fa-fax": {
         "prefix": "fa-fax",
         "body": "'\\f1ac'",
-        "description": "fontawesome fa-fax",
+        "description": "fontawesome icon: fa-fax",
         "scope": "css.scss.sass.less"
     },
     "fa-building": {
         "prefix": "fa-building",
         "body": "'\\f1ad'",
-        "description": "fontawesome fa-building",
+        "description": "fontawesome icon: fa-building",
         "scope": "css.scss.sass.less"
     },
     "fa-child": {
         "prefix": "fa-child",
         "body": "'\\f1ae'",
-        "description": "fontawesome fa-child",
+        "description": "fontawesome icon: fa-child",
         "scope": "css.scss.sass.less"
     },
     "fa-paw": {
         "prefix": "fa-paw",
         "body": "'\\f1b0'",
-        "description": "fontawesome fa-paw",
+        "description": "fontawesome icon: fa-paw",
         "scope": "css.scss.sass.less"
     },
     "fa-spoon": {
         "prefix": "fa-spoon",
         "body": "'\\f1b1'",
-        "description": "fontawesome fa-spoon",
+        "description": "fontawesome icon: fa-spoon",
         "scope": "css.scss.sass.less"
     },
     "fa-cube": {
         "prefix": "fa-cube",
         "body": "'\\f1b2'",
-        "description": "fontawesome fa-cube",
+        "description": "fontawesome icon: fa-cube",
         "scope": "css.scss.sass.less"
     },
     "fa-cubes": {
         "prefix": "fa-cubes",
         "body": "'\\f1b3'",
-        "description": "fontawesome fa-cubes",
+        "description": "fontawesome icon: fa-cubes",
         "scope": "css.scss.sass.less"
     },
     "fa-behance": {
         "prefix": "fa-behance",
         "body": "'\\f1b4'",
-        "description": "fontawesome fa-behance",
+        "description": "fontawesome icon: fa-behance",
         "scope": "css.scss.sass.less"
     },
     "fa-behance-square": {
         "prefix": "fa-behance-square",
         "body": "'\\f1b5'",
-        "description": "fontawesome fa-behance-square",
+        "description": "fontawesome icon: fa-behance-square",
         "scope": "css.scss.sass.less"
     },
     "fa-steam": {
         "prefix": "fa-steam",
         "body": "'\\f1b6'",
-        "description": "fontawesome fa-steam",
+        "description": "fontawesome icon: fa-steam",
         "scope": "css.scss.sass.less"
     },
     "fa-steam-square": {
         "prefix": "fa-steam-square",
         "body": "'\\f1b7'",
-        "description": "fontawesome fa-steam-square",
+        "description": "fontawesome icon: fa-steam-square",
         "scope": "css.scss.sass.less"
     },
     "fa-recycle": {
         "prefix": "fa-recycle",
         "body": "'\\f1b8'",
-        "description": "fontawesome fa-recycle",
+        "description": "fontawesome icon: fa-recycle",
         "scope": "css.scss.sass.less"
     },
     "fa-automobile": {
         "prefix": "fa-automobile",
         "body": "'\\f1b9'",
-        "description": "fontawesome fa-automobile",
+        "description": "fontawesome icon: fa-automobile",
         "scope": "css.scss.sass.less"
     },
     "fa-car": {
         "prefix": "fa-car",
         "body": "'\\f1b9'",
-        "description": "fontawesome fa-car",
+        "description": "fontawesome icon: fa-car",
         "scope": "css.scss.sass.less"
     },
     "fa-cab": {
         "prefix": "fa-cab",
         "body": "'\\f1ba'",
-        "description": "fontawesome fa-cab",
+        "description": "fontawesome icon: fa-cab",
         "scope": "css.scss.sass.less"
     },
     "fa-taxi": {
         "prefix": "fa-taxi",
         "body": "'\\f1ba'",
-        "description": "fontawesome fa-taxi",
+        "description": "fontawesome icon: fa-taxi",
         "scope": "css.scss.sass.less"
     },
     "fa-tree": {
         "prefix": "fa-tree",
         "body": "'\\f1bb'",
-        "description": "fontawesome fa-tree",
+        "description": "fontawesome icon: fa-tree",
         "scope": "css.scss.sass.less"
     },
     "fa-spotify": {
         "prefix": "fa-spotify",
         "body": "'\\f1bc'",
-        "description": "fontawesome fa-spotify",
+        "description": "fontawesome icon: fa-spotify",
         "scope": "css.scss.sass.less"
     },
     "fa-deviantart": {
         "prefix": "fa-deviantart",
         "body": "'\\f1bd'",
-        "description": "fontawesome fa-deviantart",
+        "description": "fontawesome icon: fa-deviantart",
         "scope": "css.scss.sass.less"
     },
     "fa-soundcloud": {
         "prefix": "fa-soundcloud",
         "body": "'\\f1be'",
-        "description": "fontawesome fa-soundcloud",
+        "description": "fontawesome icon: fa-soundcloud",
         "scope": "css.scss.sass.less"
     },
     "fa-database": {
         "prefix": "fa-database",
         "body": "'\\f1c0'",
-        "description": "fontawesome fa-database",
+        "description": "fontawesome icon: fa-database",
         "scope": "css.scss.sass.less"
     },
     "fa-file-pdf-o": {
         "prefix": "fa-file-pdf-o",
         "body": "'\\f1c1'",
-        "description": "fontawesome fa-file-pdf-o",
+        "description": "fontawesome icon: fa-file-pdf-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-word-o": {
         "prefix": "fa-file-word-o",
         "body": "'\\f1c2'",
-        "description": "fontawesome fa-file-word-o",
+        "description": "fontawesome icon: fa-file-word-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-excel-o": {
         "prefix": "fa-file-excel-o",
         "body": "'\\f1c3'",
-        "description": "fontawesome fa-file-excel-o",
+        "description": "fontawesome icon: fa-file-excel-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-powerpoint-o": {
         "prefix": "fa-file-powerpoint-o",
         "body": "'\\f1c4'",
-        "description": "fontawesome fa-file-powerpoint-o",
+        "description": "fontawesome icon: fa-file-powerpoint-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-photo-o": {
         "prefix": "fa-file-photo-o",
         "body": "'\\f1c5'",
-        "description": "fontawesome fa-file-photo-o",
+        "description": "fontawesome icon: fa-file-photo-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-picture-o": {
         "prefix": "fa-file-picture-o",
         "body": "'\\f1c5'",
-        "description": "fontawesome fa-file-picture-o",
+        "description": "fontawesome icon: fa-file-picture-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-image-o": {
         "prefix": "fa-file-image-o",
         "body": "'\\f1c5'",
-        "description": "fontawesome fa-file-image-o",
+        "description": "fontawesome icon: fa-file-image-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-zip-o": {
         "prefix": "fa-file-zip-o",
         "body": "'\\f1c6'",
-        "description": "fontawesome fa-file-zip-o",
+        "description": "fontawesome icon: fa-file-zip-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-archive-o": {
         "prefix": "fa-file-archive-o",
         "body": "'\\f1c6'",
-        "description": "fontawesome fa-file-archive-o",
+        "description": "fontawesome icon: fa-file-archive-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-sound-o": {
         "prefix": "fa-file-sound-o",
         "body": "'\\f1c7'",
-        "description": "fontawesome fa-file-sound-o",
+        "description": "fontawesome icon: fa-file-sound-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-audio-o": {
         "prefix": "fa-file-audio-o",
         "body": "'\\f1c7'",
-        "description": "fontawesome fa-file-audio-o",
+        "description": "fontawesome icon: fa-file-audio-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-movie-o": {
         "prefix": "fa-file-movie-o",
         "body": "'\\f1c8'",
-        "description": "fontawesome fa-file-movie-o",
+        "description": "fontawesome icon: fa-file-movie-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-video-o": {
         "prefix": "fa-file-video-o",
         "body": "'\\f1c8'",
-        "description": "fontawesome fa-file-video-o",
+        "description": "fontawesome icon: fa-file-video-o",
         "scope": "css.scss.sass.less"
     },
     "fa-file-code-o": {
         "prefix": "fa-file-code-o",
         "body": "'\\f1c9'",
-        "description": "fontawesome fa-file-code-o",
+        "description": "fontawesome icon: fa-file-code-o",
         "scope": "css.scss.sass.less"
     },
     "fa-vine": {
         "prefix": "fa-vine",
         "body": "'\\f1ca'",
-        "description": "fontawesome fa-vine",
+        "description": "fontawesome icon: fa-vine",
         "scope": "css.scss.sass.less"
     },
     "fa-codepen": {
         "prefix": "fa-codepen",
         "body": "'\\f1cb'",
-        "description": "fontawesome fa-codepen",
+        "description": "fontawesome icon: fa-codepen",
         "scope": "css.scss.sass.less"
     },
     "fa-jsfiddle": {
         "prefix": "fa-jsfiddle",
         "body": "'\\f1cc'",
-        "description": "fontawesome fa-jsfiddle",
+        "description": "fontawesome icon: fa-jsfiddle",
         "scope": "css.scss.sass.less"
     },
     "fa-life-bouy": {
         "prefix": "fa-life-bouy",
         "body": "'\\f1cd'",
-        "description": "fontawesome fa-life-bouy",
+        "description": "fontawesome icon: fa-life-bouy",
         "scope": "css.scss.sass.less"
     },
     "fa-life-buoy": {
         "prefix": "fa-life-buoy",
         "body": "'\\f1cd'",
-        "description": "fontawesome fa-life-buoy",
+        "description": "fontawesome icon: fa-life-buoy",
         "scope": "css.scss.sass.less"
     },
     "fa-life-saver": {
         "prefix": "fa-life-saver",
         "body": "'\\f1cd'",
-        "description": "fontawesome fa-life-saver",
+        "description": "fontawesome icon: fa-life-saver",
         "scope": "css.scss.sass.less"
     },
     "fa-support": {
         "prefix": "fa-support",
         "body": "'\\f1cd'",
-        "description": "fontawesome fa-support",
+        "description": "fontawesome icon: fa-support",
         "scope": "css.scss.sass.less"
     },
     "fa-life-ring": {
         "prefix": "fa-life-ring",
         "body": "'\\f1cd'",
-        "description": "fontawesome fa-life-ring",
+        "description": "fontawesome icon: fa-life-ring",
         "scope": "css.scss.sass.less"
     },
     "fa-circle-o-notch": {
         "prefix": "fa-circle-o-notch",
         "body": "'\\f1ce'",
-        "description": "fontawesome fa-circle-o-notch",
+        "description": "fontawesome icon: fa-circle-o-notch",
         "scope": "css.scss.sass.less"
     },
     "fa-ra": {
         "prefix": "fa-ra",
         "body": "'\\f1d0'",
-        "description": "fontawesome fa-ra",
+        "description": "fontawesome icon: fa-ra",
         "scope": "css.scss.sass.less"
     },
     "fa-rebel": {
         "prefix": "fa-rebel",
         "body": "'\\f1d0'",
-        "description": "fontawesome fa-rebel",
+        "description": "fontawesome icon: fa-rebel",
         "scope": "css.scss.sass.less"
     },
     "fa-ge": {
         "prefix": "fa-ge",
         "body": "'\\f1d1'",
-        "description": "fontawesome fa-ge",
+        "description": "fontawesome icon: fa-ge",
         "scope": "css.scss.sass.less"
     },
     "fa-empire": {
         "prefix": "fa-empire",
         "body": "'\\f1d1'",
-        "description": "fontawesome fa-empire",
+        "description": "fontawesome icon: fa-empire",
         "scope": "css.scss.sass.less"
     },
     "fa-git-square": {
         "prefix": "fa-git-square",
         "body": "'\\f1d2'",
-        "description": "fontawesome fa-git-square",
+        "description": "fontawesome icon: fa-git-square",
         "scope": "css.scss.sass.less"
     },
     "fa-git": {
         "prefix": "fa-git",
         "body": "'\\f1d3'",
-        "description": "fontawesome fa-git",
+        "description": "fontawesome icon: fa-git",
         "scope": "css.scss.sass.less"
     },
     "fa-y-combinator-square": {
         "prefix": "fa-y-combinator-square",
         "body": "'\\f1d4'",
-        "description": "fontawesome fa-y-combinator-square",
+        "description": "fontawesome icon: fa-y-combinator-square",
         "scope": "css.scss.sass.less"
     },
     "fa-yc-square": {
         "prefix": "fa-yc-square",
         "body": "'\\f1d4'",
-        "description": "fontawesome fa-yc-square",
+        "description": "fontawesome icon: fa-yc-square",
         "scope": "css.scss.sass.less"
     },
     "fa-hacker-news": {
         "prefix": "fa-hacker-news",
         "body": "'\\f1d4'",
-        "description": "fontawesome fa-hacker-news",
+        "description": "fontawesome icon: fa-hacker-news",
         "scope": "css.scss.sass.less"
     },
     "fa-tencent-weibo": {
         "prefix": "fa-tencent-weibo",
         "body": "'\\f1d5'",
-        "description": "fontawesome fa-tencent-weibo",
+        "description": "fontawesome icon: fa-tencent-weibo",
         "scope": "css.scss.sass.less"
     },
     "fa-qq": {
         "prefix": "fa-qq",
         "body": "'\\f1d6'",
-        "description": "fontawesome fa-qq",
+        "description": "fontawesome icon: fa-qq",
         "scope": "css.scss.sass.less"
     },
     "fa-wechat": {
         "prefix": "fa-wechat",
         "body": "'\\f1d7'",
-        "description": "fontawesome fa-wechat",
+        "description": "fontawesome icon: fa-wechat",
         "scope": "css.scss.sass.less"
     },
     "fa-weixin": {
         "prefix": "fa-weixin",
         "body": "'\\f1d7'",
-        "description": "fontawesome fa-weixin",
+        "description": "fontawesome icon: fa-weixin",
         "scope": "css.scss.sass.less"
     },
     "fa-send": {
         "prefix": "fa-send",
         "body": "'\\f1d8'",
-        "description": "fontawesome fa-send",
+        "description": "fontawesome icon: fa-send",
         "scope": "css.scss.sass.less"
     },
     "fa-paper-plane": {
         "prefix": "fa-paper-plane",
         "body": "'\\f1d8'",
-        "description": "fontawesome fa-paper-plane",
+        "description": "fontawesome icon: fa-paper-plane",
         "scope": "css.scss.sass.less"
     },
     "fa-send-o": {
         "prefix": "fa-send-o",
         "body": "'\\f1d9'",
-        "description": "fontawesome fa-send-o",
+        "description": "fontawesome icon: fa-send-o",
         "scope": "css.scss.sass.less"
     },
     "fa-paper-plane-o": {
         "prefix": "fa-paper-plane-o",
         "body": "'\\f1d9'",
-        "description": "fontawesome fa-paper-plane-o",
+        "description": "fontawesome icon: fa-paper-plane-o",
         "scope": "css.scss.sass.less"
     },
     "fa-history": {
         "prefix": "fa-history",
         "body": "'\\f1da'",
-        "description": "fontawesome fa-history",
+        "description": "fontawesome icon: fa-history",
         "scope": "css.scss.sass.less"
     },
     "fa-circle-thin": {
         "prefix": "fa-circle-thin",
         "body": "'\\f1db'",
-        "description": "fontawesome fa-circle-thin",
+        "description": "fontawesome icon: fa-circle-thin",
         "scope": "css.scss.sass.less"
     },
     "fa-header": {
         "prefix": "fa-header",
         "body": "'\\f1dc'",
-        "description": "fontawesome fa-header",
+        "description": "fontawesome icon: fa-header",
         "scope": "css.scss.sass.less"
     },
     "fa-paragraph": {
         "prefix": "fa-paragraph",
         "body": "'\\f1dd'",
-        "description": "fontawesome fa-paragraph",
+        "description": "fontawesome icon: fa-paragraph",
         "scope": "css.scss.sass.less"
     },
     "fa-sliders": {
         "prefix": "fa-sliders",
         "body": "'\\f1de'",
-        "description": "fontawesome fa-sliders",
+        "description": "fontawesome icon: fa-sliders",
         "scope": "css.scss.sass.less"
     },
     "fa-share-alt": {
         "prefix": "fa-share-alt",
         "body": "'\\f1e0'",
-        "description": "fontawesome fa-share-alt",
+        "description": "fontawesome icon: fa-share-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-share-alt-square": {
         "prefix": "fa-share-alt-square",
         "body": "'\\f1e1'",
-        "description": "fontawesome fa-share-alt-square",
+        "description": "fontawesome icon: fa-share-alt-square",
         "scope": "css.scss.sass.less"
     },
     "fa-bomb": {
         "prefix": "fa-bomb",
         "body": "'\\f1e2'",
-        "description": "fontawesome fa-bomb",
+        "description": "fontawesome icon: fa-bomb",
         "scope": "css.scss.sass.less"
     },
     "fa-soccer-ball-o": {
         "prefix": "fa-soccer-ball-o",
         "body": "'\\f1e3'",
-        "description": "fontawesome fa-soccer-ball-o",
+        "description": "fontawesome icon: fa-soccer-ball-o",
         "scope": "css.scss.sass.less"
     },
     "fa-futbol-o": {
         "prefix": "fa-futbol-o",
         "body": "'\\f1e3'",
-        "description": "fontawesome fa-futbol-o",
+        "description": "fontawesome icon: fa-futbol-o",
         "scope": "css.scss.sass.less"
     },
     "fa-tty": {
         "prefix": "fa-tty",
         "body": "'\\f1e4'",
-        "description": "fontawesome fa-tty",
+        "description": "fontawesome icon: fa-tty",
         "scope": "css.scss.sass.less"
     },
     "fa-binoculars": {
         "prefix": "fa-binoculars",
         "body": "'\\f1e5'",
-        "description": "fontawesome fa-binoculars",
+        "description": "fontawesome icon: fa-binoculars",
         "scope": "css.scss.sass.less"
     },
     "fa-plug": {
         "prefix": "fa-plug",
         "body": "'\\f1e6'",
-        "description": "fontawesome fa-plug",
+        "description": "fontawesome icon: fa-plug",
         "scope": "css.scss.sass.less"
     },
     "fa-slideshare": {
         "prefix": "fa-slideshare",
         "body": "'\\f1e7'",
-        "description": "fontawesome fa-slideshare",
+        "description": "fontawesome icon: fa-slideshare",
         "scope": "css.scss.sass.less"
     },
     "fa-twitch": {
         "prefix": "fa-twitch",
         "body": "'\\f1e8'",
-        "description": "fontawesome fa-twitch",
+        "description": "fontawesome icon: fa-twitch",
         "scope": "css.scss.sass.less"
     },
     "fa-yelp": {
         "prefix": "fa-yelp",
         "body": "'\\f1e9'",
-        "description": "fontawesome fa-yelp",
+        "description": "fontawesome icon: fa-yelp",
         "scope": "css.scss.sass.less"
     },
     "fa-newspaper-o": {
         "prefix": "fa-newspaper-o",
         "body": "'\\f1ea'",
-        "description": "fontawesome fa-newspaper-o",
+        "description": "fontawesome icon: fa-newspaper-o",
         "scope": "css.scss.sass.less"
     },
     "fa-wifi": {
         "prefix": "fa-wifi",
         "body": "'\\f1eb'",
-        "description": "fontawesome fa-wifi",
+        "description": "fontawesome icon: fa-wifi",
         "scope": "css.scss.sass.less"
     },
     "fa-calculator": {
         "prefix": "fa-calculator",
         "body": "'\\f1ec'",
-        "description": "fontawesome fa-calculator",
+        "description": "fontawesome icon: fa-calculator",
         "scope": "css.scss.sass.less"
     },
     "fa-paypal": {
         "prefix": "fa-paypal",
         "body": "'\\f1ed'",
-        "description": "fontawesome fa-paypal",
+        "description": "fontawesome icon: fa-paypal",
         "scope": "css.scss.sass.less"
     },
     "fa-google-wallet": {
         "prefix": "fa-google-wallet",
         "body": "'\\f1ee'",
-        "description": "fontawesome fa-google-wallet",
+        "description": "fontawesome icon: fa-google-wallet",
         "scope": "css.scss.sass.less"
     },
     "fa-cc-visa": {
         "prefix": "fa-cc-visa",
         "body": "'\\f1f0'",
-        "description": "fontawesome fa-cc-visa",
+        "description": "fontawesome icon: fa-cc-visa",
         "scope": "css.scss.sass.less"
     },
     "fa-cc-mastercard": {
         "prefix": "fa-cc-mastercard",
         "body": "'\\f1f1'",
-        "description": "fontawesome fa-cc-mastercard",
+        "description": "fontawesome icon: fa-cc-mastercard",
         "scope": "css.scss.sass.less"
     },
     "fa-cc-discover": {
         "prefix": "fa-cc-discover",
         "body": "'\\f1f2'",
-        "description": "fontawesome fa-cc-discover",
+        "description": "fontawesome icon: fa-cc-discover",
         "scope": "css.scss.sass.less"
     },
     "fa-cc-amex": {
         "prefix": "fa-cc-amex",
         "body": "'\\f1f3'",
-        "description": "fontawesome fa-cc-amex",
+        "description": "fontawesome icon: fa-cc-amex",
         "scope": "css.scss.sass.less"
     },
     "fa-cc-paypal": {
         "prefix": "fa-cc-paypal",
         "body": "'\\f1f4'",
-        "description": "fontawesome fa-cc-paypal",
+        "description": "fontawesome icon: fa-cc-paypal",
         "scope": "css.scss.sass.less"
     },
     "fa-cc-stripe": {
         "prefix": "fa-cc-stripe",
         "body": "'\\f1f5'",
-        "description": "fontawesome fa-cc-stripe",
+        "description": "fontawesome icon: fa-cc-stripe",
         "scope": "css.scss.sass.less"
     },
     "fa-bell-slash": {
         "prefix": "fa-bell-slash",
         "body": "'\\f1f6'",
-        "description": "fontawesome fa-bell-slash",
+        "description": "fontawesome icon: fa-bell-slash",
         "scope": "css.scss.sass.less"
     },
     "fa-bell-slash-o": {
         "prefix": "fa-bell-slash-o",
         "body": "'\\f1f7'",
-        "description": "fontawesome fa-bell-slash-o",
+        "description": "fontawesome icon: fa-bell-slash-o",
         "scope": "css.scss.sass.less"
     },
     "fa-trash": {
         "prefix": "fa-trash",
         "body": "'\\f1f8'",
-        "description": "fontawesome fa-trash",
+        "description": "fontawesome icon: fa-trash",
         "scope": "css.scss.sass.less"
     },
     "fa-copyright": {
         "prefix": "fa-copyright",
         "body": "'\\f1f9'",
-        "description": "fontawesome fa-copyright",
+        "description": "fontawesome icon: fa-copyright",
         "scope": "css.scss.sass.less"
     },
     "fa-at": {
         "prefix": "fa-at",
         "body": "'\\f1fa'",
-        "description": "fontawesome fa-at",
+        "description": "fontawesome icon: fa-at",
         "scope": "css.scss.sass.less"
     },
     "fa-eyedropper": {
         "prefix": "fa-eyedropper",
         "body": "'\\f1fb'",
-        "description": "fontawesome fa-eyedropper",
+        "description": "fontawesome icon: fa-eyedropper",
         "scope": "css.scss.sass.less"
     },
     "fa-paint-brush": {
         "prefix": "fa-paint-brush",
         "body": "'\\f1fc'",
-        "description": "fontawesome fa-paint-brush",
+        "description": "fontawesome icon: fa-paint-brush",
         "scope": "css.scss.sass.less"
     },
     "fa-birthday-cake": {
         "prefix": "fa-birthday-cake",
         "body": "'\\f1fd'",
-        "description": "fontawesome fa-birthday-cake",
+        "description": "fontawesome icon: fa-birthday-cake",
         "scope": "css.scss.sass.less"
     },
     "fa-area-chart": {
         "prefix": "fa-area-chart",
         "body": "'\\f1fe'",
-        "description": "fontawesome fa-area-chart",
+        "description": "fontawesome icon: fa-area-chart",
         "scope": "css.scss.sass.less"
     },
     "fa-pie-chart": {
         "prefix": "fa-pie-chart",
         "body": "'\\f200'",
-        "description": "fontawesome fa-pie-chart",
+        "description": "fontawesome icon: fa-pie-chart",
         "scope": "css.scss.sass.less"
     },
     "fa-line-chart": {
         "prefix": "fa-line-chart",
         "body": "'\\f201'",
-        "description": "fontawesome fa-line-chart",
+        "description": "fontawesome icon: fa-line-chart",
         "scope": "css.scss.sass.less"
     },
     "fa-lastfm": {
         "prefix": "fa-lastfm",
         "body": "'\\f202'",
-        "description": "fontawesome fa-lastfm",
+        "description": "fontawesome icon: fa-lastfm",
         "scope": "css.scss.sass.less"
     },
     "fa-lastfm-square": {
         "prefix": "fa-lastfm-square",
         "body": "'\\f203'",
-        "description": "fontawesome fa-lastfm-square",
+        "description": "fontawesome icon: fa-lastfm-square",
         "scope": "css.scss.sass.less"
     },
     "fa-toggle-off": {
         "prefix": "fa-toggle-off",
         "body": "'\\f204'",
-        "description": "fontawesome fa-toggle-off",
+        "description": "fontawesome icon: fa-toggle-off",
         "scope": "css.scss.sass.less"
     },
     "fa-toggle-on": {
         "prefix": "fa-toggle-on",
         "body": "'\\f205'",
-        "description": "fontawesome fa-toggle-on",
+        "description": "fontawesome icon: fa-toggle-on",
         "scope": "css.scss.sass.less"
     },
     "fa-bicycle": {
         "prefix": "fa-bicycle",
         "body": "'\\f206'",
-        "description": "fontawesome fa-bicycle",
+        "description": "fontawesome icon: fa-bicycle",
         "scope": "css.scss.sass.less"
     },
     "fa-bus": {
         "prefix": "fa-bus",
         "body": "'\\f207'",
-        "description": "fontawesome fa-bus",
+        "description": "fontawesome icon: fa-bus",
         "scope": "css.scss.sass.less"
     },
     "fa-ioxhost": {
         "prefix": "fa-ioxhost",
         "body": "'\\f208'",
-        "description": "fontawesome fa-ioxhost",
+        "description": "fontawesome icon: fa-ioxhost",
         "scope": "css.scss.sass.less"
     },
     "fa-angellist": {
         "prefix": "fa-angellist",
         "body": "'\\f209'",
-        "description": "fontawesome fa-angellist",
+        "description": "fontawesome icon: fa-angellist",
         "scope": "css.scss.sass.less"
     },
     "fa-cc": {
         "prefix": "fa-cc",
         "body": "'\\f20a'",
-        "description": "fontawesome fa-cc",
+        "description": "fontawesome icon: fa-cc",
         "scope": "css.scss.sass.less"
     },
     "fa-shekel": {
         "prefix": "fa-shekel",
         "body": "'\\f20b'",
-        "description": "fontawesome fa-shekel",
+        "description": "fontawesome icon: fa-shekel",
         "scope": "css.scss.sass.less"
     },
     "fa-sheqel": {
         "prefix": "fa-sheqel",
         "body": "'\\f20b'",
-        "description": "fontawesome fa-sheqel",
+        "description": "fontawesome icon: fa-sheqel",
         "scope": "css.scss.sass.less"
     },
     "fa-ils": {
         "prefix": "fa-ils",
         "body": "'\\f20b'",
-        "description": "fontawesome fa-ils",
+        "description": "fontawesome icon: fa-ils",
         "scope": "css.scss.sass.less"
     },
     "fa-meanpath": {
         "prefix": "fa-meanpath",
         "body": "'\\f20c'",
-        "description": "fontawesome fa-meanpath",
+        "description": "fontawesome icon: fa-meanpath",
         "scope": "css.scss.sass.less"
     },
     "fa-buysellads": {
         "prefix": "fa-buysellads",
         "body": "'\\f20d'",
-        "description": "fontawesome fa-buysellads",
+        "description": "fontawesome icon: fa-buysellads",
         "scope": "css.scss.sass.less"
     },
     "fa-connectdevelop": {
         "prefix": "fa-connectdevelop",
         "body": "'\\f20e'",
-        "description": "fontawesome fa-connectdevelop",
+        "description": "fontawesome icon: fa-connectdevelop",
         "scope": "css.scss.sass.less"
     },
     "fa-dashcube": {
         "prefix": "fa-dashcube",
         "body": "'\\f210'",
-        "description": "fontawesome fa-dashcube",
+        "description": "fontawesome icon: fa-dashcube",
         "scope": "css.scss.sass.less"
     },
     "fa-forumbee": {
         "prefix": "fa-forumbee",
         "body": "'\\f211'",
-        "description": "fontawesome fa-forumbee",
+        "description": "fontawesome icon: fa-forumbee",
         "scope": "css.scss.sass.less"
     },
     "fa-leanpub": {
         "prefix": "fa-leanpub",
         "body": "'\\f212'",
-        "description": "fontawesome fa-leanpub",
+        "description": "fontawesome icon: fa-leanpub",
         "scope": "css.scss.sass.less"
     },
     "fa-sellsy": {
         "prefix": "fa-sellsy",
         "body": "'\\f213'",
-        "description": "fontawesome fa-sellsy",
+        "description": "fontawesome icon: fa-sellsy",
         "scope": "css.scss.sass.less"
     },
     "fa-shirtsinbulk": {
         "prefix": "fa-shirtsinbulk",
         "body": "'\\f214'",
-        "description": "fontawesome fa-shirtsinbulk",
+        "description": "fontawesome icon: fa-shirtsinbulk",
         "scope": "css.scss.sass.less"
     },
     "fa-simplybuilt": {
         "prefix": "fa-simplybuilt",
         "body": "'\\f215'",
-        "description": "fontawesome fa-simplybuilt",
+        "description": "fontawesome icon: fa-simplybuilt",
         "scope": "css.scss.sass.less"
     },
     "fa-skyatlas": {
         "prefix": "fa-skyatlas",
         "body": "'\\f216'",
-        "description": "fontawesome fa-skyatlas",
+        "description": "fontawesome icon: fa-skyatlas",
         "scope": "css.scss.sass.less"
     },
     "fa-cart-plus": {
         "prefix": "fa-cart-plus",
         "body": "'\\f217'",
-        "description": "fontawesome fa-cart-plus",
+        "description": "fontawesome icon: fa-cart-plus",
         "scope": "css.scss.sass.less"
     },
     "fa-cart-arrow-down": {
         "prefix": "fa-cart-arrow-down",
         "body": "'\\f218'",
-        "description": "fontawesome fa-cart-arrow-down",
+        "description": "fontawesome icon: fa-cart-arrow-down",
         "scope": "css.scss.sass.less"
     },
     "fa-diamond": {
         "prefix": "fa-diamond",
         "body": "'\\f219'",
-        "description": "fontawesome fa-diamond",
+        "description": "fontawesome icon: fa-diamond",
         "scope": "css.scss.sass.less"
     },
     "fa-ship": {
         "prefix": "fa-ship",
         "body": "'\\f21a'",
-        "description": "fontawesome fa-ship",
+        "description": "fontawesome icon: fa-ship",
         "scope": "css.scss.sass.less"
     },
     "fa-user-secret": {
         "prefix": "fa-user-secret",
         "body": "'\\f21b'",
-        "description": "fontawesome fa-user-secret",
+        "description": "fontawesome icon: fa-user-secret",
         "scope": "css.scss.sass.less"
     },
     "fa-motorcycle": {
         "prefix": "fa-motorcycle",
         "body": "'\\f21c'",
-        "description": "fontawesome fa-motorcycle",
+        "description": "fontawesome icon: fa-motorcycle",
         "scope": "css.scss.sass.less"
     },
     "fa-street-view": {
         "prefix": "fa-street-view",
         "body": "'\\f21d'",
-        "description": "fontawesome fa-street-view",
+        "description": "fontawesome icon: fa-street-view",
         "scope": "css.scss.sass.less"
     },
     "fa-heartbeat": {
         "prefix": "fa-heartbeat",
         "body": "'\\f21e'",
-        "description": "fontawesome fa-heartbeat",
+        "description": "fontawesome icon: fa-heartbeat",
         "scope": "css.scss.sass.less"
     },
     "fa-venus": {
         "prefix": "fa-venus",
         "body": "'\\f221'",
-        "description": "fontawesome fa-venus",
+        "description": "fontawesome icon: fa-venus",
         "scope": "css.scss.sass.less"
     },
     "fa-mars": {
         "prefix": "fa-mars",
         "body": "'\\f222'",
-        "description": "fontawesome fa-mars",
+        "description": "fontawesome icon: fa-mars",
         "scope": "css.scss.sass.less"
     },
     "fa-mercury": {
         "prefix": "fa-mercury",
         "body": "'\\f223'",
-        "description": "fontawesome fa-mercury",
+        "description": "fontawesome icon: fa-mercury",
         "scope": "css.scss.sass.less"
     },
     "fa-intersex": {
         "prefix": "fa-intersex",
         "body": "'\\f224'",
-        "description": "fontawesome fa-intersex",
+        "description": "fontawesome icon: fa-intersex",
         "scope": "css.scss.sass.less"
     },
     "fa-transgender": {
         "prefix": "fa-transgender",
         "body": "'\\f224'",
-        "description": "fontawesome fa-transgender",
+        "description": "fontawesome icon: fa-transgender",
         "scope": "css.scss.sass.less"
     },
     "fa-transgender-alt": {
         "prefix": "fa-transgender-alt",
         "body": "'\\f225'",
-        "description": "fontawesome fa-transgender-alt",
+        "description": "fontawesome icon: fa-transgender-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-venus-double": {
         "prefix": "fa-venus-double",
         "body": "'\\f226'",
-        "description": "fontawesome fa-venus-double",
+        "description": "fontawesome icon: fa-venus-double",
         "scope": "css.scss.sass.less"
     },
     "fa-mars-double": {
         "prefix": "fa-mars-double",
         "body": "'\\f227'",
-        "description": "fontawesome fa-mars-double",
+        "description": "fontawesome icon: fa-mars-double",
         "scope": "css.scss.sass.less"
     },
     "fa-venus-mars": {
         "prefix": "fa-venus-mars",
         "body": "'\\f228'",
-        "description": "fontawesome fa-venus-mars",
+        "description": "fontawesome icon: fa-venus-mars",
         "scope": "css.scss.sass.less"
     },
     "fa-mars-stroke": {
         "prefix": "fa-mars-stroke",
         "body": "'\\f229'",
-        "description": "fontawesome fa-mars-stroke",
+        "description": "fontawesome icon: fa-mars-stroke",
         "scope": "css.scss.sass.less"
     },
     "fa-mars-stroke-v": {
         "prefix": "fa-mars-stroke-v",
         "body": "'\\f22a'",
-        "description": "fontawesome fa-mars-stroke-v",
+        "description": "fontawesome icon: fa-mars-stroke-v",
         "scope": "css.scss.sass.less"
     },
     "fa-mars-stroke-h": {
         "prefix": "fa-mars-stroke-h",
         "body": "'\\f22b'",
-        "description": "fontawesome fa-mars-stroke-h",
+        "description": "fontawesome icon: fa-mars-stroke-h",
         "scope": "css.scss.sass.less"
     },
     "fa-neuter": {
         "prefix": "fa-neuter",
         "body": "'\\f22c'",
-        "description": "fontawesome fa-neuter",
+        "description": "fontawesome icon: fa-neuter",
         "scope": "css.scss.sass.less"
     },
     "fa-genderless": {
         "prefix": "fa-genderless",
         "body": "'\\f22d'",
-        "description": "fontawesome fa-genderless",
+        "description": "fontawesome icon: fa-genderless",
         "scope": "css.scss.sass.less"
     },
     "fa-facebook-official": {
         "prefix": "fa-facebook-official",
         "body": "'\\f230'",
-        "description": "fontawesome fa-facebook-official",
+        "description": "fontawesome icon: fa-facebook-official",
         "scope": "css.scss.sass.less"
     },
     "fa-pinterest-p": {
         "prefix": "fa-pinterest-p",
         "body": "'\\f231'",
-        "description": "fontawesome fa-pinterest-p",
+        "description": "fontawesome icon: fa-pinterest-p",
         "scope": "css.scss.sass.less"
     },
     "fa-whatsapp": {
         "prefix": "fa-whatsapp",
         "body": "'\\f232'",
-        "description": "fontawesome fa-whatsapp",
+        "description": "fontawesome icon: fa-whatsapp",
         "scope": "css.scss.sass.less"
     },
     "fa-server": {
         "prefix": "fa-server",
         "body": "'\\f233'",
-        "description": "fontawesome fa-server",
+        "description": "fontawesome icon: fa-server",
         "scope": "css.scss.sass.less"
     },
     "fa-user-plus": {
         "prefix": "fa-user-plus",
         "body": "'\\f234'",
-        "description": "fontawesome fa-user-plus",
+        "description": "fontawesome icon: fa-user-plus",
         "scope": "css.scss.sass.less"
     },
     "fa-user-times": {
         "prefix": "fa-user-times",
         "body": "'\\f235'",
-        "description": "fontawesome fa-user-times",
+        "description": "fontawesome icon: fa-user-times",
         "scope": "css.scss.sass.less"
     },
     "fa-hotel": {
         "prefix": "fa-hotel",
         "body": "'\\f236'",
-        "description": "fontawesome fa-hotel",
+        "description": "fontawesome icon: fa-hotel",
         "scope": "css.scss.sass.less"
     },
     "fa-bed": {
         "prefix": "fa-bed",
         "body": "'\\f236'",
-        "description": "fontawesome fa-bed",
+        "description": "fontawesome icon: fa-bed",
         "scope": "css.scss.sass.less"
     },
     "fa-viacoin": {
         "prefix": "fa-viacoin",
         "body": "'\\f237'",
-        "description": "fontawesome fa-viacoin",
+        "description": "fontawesome icon: fa-viacoin",
         "scope": "css.scss.sass.less"
     },
     "fa-train": {
         "prefix": "fa-train",
         "body": "'\\f238'",
-        "description": "fontawesome fa-train",
+        "description": "fontawesome icon: fa-train",
         "scope": "css.scss.sass.less"
     },
     "fa-subway": {
         "prefix": "fa-subway",
         "body": "'\\f239'",
-        "description": "fontawesome fa-subway",
+        "description": "fontawesome icon: fa-subway",
         "scope": "css.scss.sass.less"
     },
     "fa-medium": {
         "prefix": "fa-medium",
         "body": "'\\f23a'",
-        "description": "fontawesome fa-medium",
+        "description": "fontawesome icon: fa-medium",
         "scope": "css.scss.sass.less"
     },
     "fa-yc": {
         "prefix": "fa-yc",
         "body": "'\\f23b'",
-        "description": "fontawesome fa-yc",
+        "description": "fontawesome icon: fa-yc",
         "scope": "css.scss.sass.less"
     },
     "fa-y-combinator": {
         "prefix": "fa-y-combinator",
         "body": "'\\f23b'",
-        "description": "fontawesome fa-y-combinator",
+        "description": "fontawesome icon: fa-y-combinator",
         "scope": "css.scss.sass.less"
     },
     "fa-optin-monster": {
         "prefix": "fa-optin-monster",
         "body": "'\\f23c'",
-        "description": "fontawesome fa-optin-monster",
+        "description": "fontawesome icon: fa-optin-monster",
         "scope": "css.scss.sass.less"
     },
     "fa-opencart": {
         "prefix": "fa-opencart",
         "body": "'\\f23d'",
-        "description": "fontawesome fa-opencart",
+        "description": "fontawesome icon: fa-opencart",
         "scope": "css.scss.sass.less"
     },
     "fa-expeditedssl": {
         "prefix": "fa-expeditedssl",
         "body": "'\\f23e'",
-        "description": "fontawesome fa-expeditedssl",
+        "description": "fontawesome icon: fa-expeditedssl",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-4": {
         "prefix": "fa-battery-4",
         "body": "'\\f240'",
-        "description": "fontawesome fa-battery-4",
+        "description": "fontawesome icon: fa-battery-4",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-full": {
         "prefix": "fa-battery-full",
         "body": "'\\f240'",
-        "description": "fontawesome fa-battery-full",
+        "description": "fontawesome icon: fa-battery-full",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-3": {
         "prefix": "fa-battery-3",
         "body": "'\\f241'",
-        "description": "fontawesome fa-battery-3",
+        "description": "fontawesome icon: fa-battery-3",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-three-quarters": {
         "prefix": "fa-battery-three-quarters",
         "body": "'\\f241'",
-        "description": "fontawesome fa-battery-three-quarters",
+        "description": "fontawesome icon: fa-battery-three-quarters",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-2": {
         "prefix": "fa-battery-2",
         "body": "'\\f242'",
-        "description": "fontawesome fa-battery-2",
+        "description": "fontawesome icon: fa-battery-2",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-half": {
         "prefix": "fa-battery-half",
         "body": "'\\f242'",
-        "description": "fontawesome fa-battery-half",
+        "description": "fontawesome icon: fa-battery-half",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-1": {
         "prefix": "fa-battery-1",
         "body": "'\\f243'",
-        "description": "fontawesome fa-battery-1",
+        "description": "fontawesome icon: fa-battery-1",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-quarter": {
         "prefix": "fa-battery-quarter",
         "body": "'\\f243'",
-        "description": "fontawesome fa-battery-quarter",
+        "description": "fontawesome icon: fa-battery-quarter",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-0": {
         "prefix": "fa-battery-0",
         "body": "'\\f244'",
-        "description": "fontawesome fa-battery-0",
+        "description": "fontawesome icon: fa-battery-0",
         "scope": "css.scss.sass.less"
     },
     "fa-battery-empty": {
         "prefix": "fa-battery-empty",
         "body": "'\\f244'",
-        "description": "fontawesome fa-battery-empty",
+        "description": "fontawesome icon: fa-battery-empty",
         "scope": "css.scss.sass.less"
     },
     "fa-mouse-pointer": {
         "prefix": "fa-mouse-pointer",
         "body": "'\\f245'",
-        "description": "fontawesome fa-mouse-pointer",
+        "description": "fontawesome icon: fa-mouse-pointer",
         "scope": "css.scss.sass.less"
     },
     "fa-i-cursor": {
         "prefix": "fa-i-cursor",
         "body": "'\\f246'",
-        "description": "fontawesome fa-i-cursor",
+        "description": "fontawesome icon: fa-i-cursor",
         "scope": "css.scss.sass.less"
     },
     "fa-object-group": {
         "prefix": "fa-object-group",
         "body": "'\\f247'",
-        "description": "fontawesome fa-object-group",
+        "description": "fontawesome icon: fa-object-group",
         "scope": "css.scss.sass.less"
     },
     "fa-object-ungroup": {
         "prefix": "fa-object-ungroup",
         "body": "'\\f248'",
-        "description": "fontawesome fa-object-ungroup",
+        "description": "fontawesome icon: fa-object-ungroup",
         "scope": "css.scss.sass.less"
     },
     "fa-sticky-note": {
         "prefix": "fa-sticky-note",
         "body": "'\\f249'",
-        "description": "fontawesome fa-sticky-note",
+        "description": "fontawesome icon: fa-sticky-note",
         "scope": "css.scss.sass.less"
     },
     "fa-sticky-note-o": {
         "prefix": "fa-sticky-note-o",
         "body": "'\\f24a'",
-        "description": "fontawesome fa-sticky-note-o",
+        "description": "fontawesome icon: fa-sticky-note-o",
         "scope": "css.scss.sass.less"
     },
     "fa-cc-jcb": {
         "prefix": "fa-cc-jcb",
         "body": "'\\f24b'",
-        "description": "fontawesome fa-cc-jcb",
+        "description": "fontawesome icon: fa-cc-jcb",
         "scope": "css.scss.sass.less"
     },
     "fa-cc-diners-club": {
         "prefix": "fa-cc-diners-club",
         "body": "'\\f24c'",
-        "description": "fontawesome fa-cc-diners-club",
+        "description": "fontawesome icon: fa-cc-diners-club",
         "scope": "css.scss.sass.less"
     },
     "fa-clone": {
         "prefix": "fa-clone",
         "body": "'\\f24d'",
-        "description": "fontawesome fa-clone",
+        "description": "fontawesome icon: fa-clone",
         "scope": "css.scss.sass.less"
     },
     "fa-balance-scale": {
         "prefix": "fa-balance-scale",
         "body": "'\\f24e'",
-        "description": "fontawesome fa-balance-scale",
+        "description": "fontawesome icon: fa-balance-scale",
         "scope": "css.scss.sass.less"
     },
     "fa-hourglass-o": {
         "prefix": "fa-hourglass-o",
         "body": "'\\f250'",
-        "description": "fontawesome fa-hourglass-o",
+        "description": "fontawesome icon: fa-hourglass-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hourglass-1": {
         "prefix": "fa-hourglass-1",
         "body": "'\\f251'",
-        "description": "fontawesome fa-hourglass-1",
+        "description": "fontawesome icon: fa-hourglass-1",
         "scope": "css.scss.sass.less"
     },
     "fa-hourglass-start": {
         "prefix": "fa-hourglass-start",
         "body": "'\\f251'",
-        "description": "fontawesome fa-hourglass-start",
+        "description": "fontawesome icon: fa-hourglass-start",
         "scope": "css.scss.sass.less"
     },
     "fa-hourglass-2": {
         "prefix": "fa-hourglass-2",
         "body": "'\\f252'",
-        "description": "fontawesome fa-hourglass-2",
+        "description": "fontawesome icon: fa-hourglass-2",
         "scope": "css.scss.sass.less"
     },
     "fa-hourglass-half": {
         "prefix": "fa-hourglass-half",
         "body": "'\\f252'",
-        "description": "fontawesome fa-hourglass-half",
+        "description": "fontawesome icon: fa-hourglass-half",
         "scope": "css.scss.sass.less"
     },
     "fa-hourglass-3": {
         "prefix": "fa-hourglass-3",
         "body": "'\\f253'",
-        "description": "fontawesome fa-hourglass-3",
+        "description": "fontawesome icon: fa-hourglass-3",
         "scope": "css.scss.sass.less"
     },
     "fa-hourglass-end": {
         "prefix": "fa-hourglass-end",
         "body": "'\\f253'",
-        "description": "fontawesome fa-hourglass-end",
+        "description": "fontawesome icon: fa-hourglass-end",
         "scope": "css.scss.sass.less"
     },
     "fa-hourglass": {
         "prefix": "fa-hourglass",
         "body": "'\\f254'",
-        "description": "fontawesome fa-hourglass",
+        "description": "fontawesome icon: fa-hourglass",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-grab-o": {
         "prefix": "fa-hand-grab-o",
         "body": "'\\f255'",
-        "description": "fontawesome fa-hand-grab-o",
+        "description": "fontawesome icon: fa-hand-grab-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-rock-o": {
         "prefix": "fa-hand-rock-o",
         "body": "'\\f255'",
-        "description": "fontawesome fa-hand-rock-o",
+        "description": "fontawesome icon: fa-hand-rock-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-stop-o": {
         "prefix": "fa-hand-stop-o",
         "body": "'\\f256'",
-        "description": "fontawesome fa-hand-stop-o",
+        "description": "fontawesome icon: fa-hand-stop-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-paper-o": {
         "prefix": "fa-hand-paper-o",
         "body": "'\\f256'",
-        "description": "fontawesome fa-hand-paper-o",
+        "description": "fontawesome icon: fa-hand-paper-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-scissors-o": {
         "prefix": "fa-hand-scissors-o",
         "body": "'\\f257'",
-        "description": "fontawesome fa-hand-scissors-o",
+        "description": "fontawesome icon: fa-hand-scissors-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-lizard-o": {
         "prefix": "fa-hand-lizard-o",
         "body": "'\\f258'",
-        "description": "fontawesome fa-hand-lizard-o",
+        "description": "fontawesome icon: fa-hand-lizard-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-spock-o": {
         "prefix": "fa-hand-spock-o",
         "body": "'\\f259'",
-        "description": "fontawesome fa-hand-spock-o",
+        "description": "fontawesome icon: fa-hand-spock-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-pointer-o": {
         "prefix": "fa-hand-pointer-o",
         "body": "'\\f25a'",
-        "description": "fontawesome fa-hand-pointer-o",
+        "description": "fontawesome icon: fa-hand-pointer-o",
         "scope": "css.scss.sass.less"
     },
     "fa-hand-peace-o": {
         "prefix": "fa-hand-peace-o",
         "body": "'\\f25b'",
-        "description": "fontawesome fa-hand-peace-o",
+        "description": "fontawesome icon: fa-hand-peace-o",
         "scope": "css.scss.sass.less"
     },
     "fa-trademark": {
         "prefix": "fa-trademark",
         "body": "'\\f25c'",
-        "description": "fontawesome fa-trademark",
+        "description": "fontawesome icon: fa-trademark",
         "scope": "css.scss.sass.less"
     },
     "fa-registered": {
         "prefix": "fa-registered",
         "body": "'\\f25d'",
-        "description": "fontawesome fa-registered",
+        "description": "fontawesome icon: fa-registered",
         "scope": "css.scss.sass.less"
     },
     "fa-creative-commons": {
         "prefix": "fa-creative-commons",
         "body": "'\\f25e'",
-        "description": "fontawesome fa-creative-commons",
+        "description": "fontawesome icon: fa-creative-commons",
         "scope": "css.scss.sass.less"
     },
     "fa-gg": {
         "prefix": "fa-gg",
         "body": "'\\f260'",
-        "description": "fontawesome fa-gg",
+        "description": "fontawesome icon: fa-gg",
         "scope": "css.scss.sass.less"
     },
     "fa-gg-circle": {
         "prefix": "fa-gg-circle",
         "body": "'\\f261'",
-        "description": "fontawesome fa-gg-circle",
+        "description": "fontawesome icon: fa-gg-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-tripadvisor": {
         "prefix": "fa-tripadvisor",
         "body": "'\\f262'",
-        "description": "fontawesome fa-tripadvisor",
+        "description": "fontawesome icon: fa-tripadvisor",
         "scope": "css.scss.sass.less"
     },
     "fa-odnoklassniki": {
         "prefix": "fa-odnoklassniki",
         "body": "'\\f263'",
-        "description": "fontawesome fa-odnoklassniki",
+        "description": "fontawesome icon: fa-odnoklassniki",
         "scope": "css.scss.sass.less"
     },
     "fa-odnoklassniki-square": {
         "prefix": "fa-odnoklassniki-square",
         "body": "'\\f264'",
-        "description": "fontawesome fa-odnoklassniki-square",
+        "description": "fontawesome icon: fa-odnoklassniki-square",
         "scope": "css.scss.sass.less"
     },
     "fa-get-pocket": {
         "prefix": "fa-get-pocket",
         "body": "'\\f265'",
-        "description": "fontawesome fa-get-pocket",
+        "description": "fontawesome icon: fa-get-pocket",
         "scope": "css.scss.sass.less"
     },
     "fa-wikipedia-w": {
         "prefix": "fa-wikipedia-w",
         "body": "'\\f266'",
-        "description": "fontawesome fa-wikipedia-w",
+        "description": "fontawesome icon: fa-wikipedia-w",
         "scope": "css.scss.sass.less"
     },
     "fa-safari": {
         "prefix": "fa-safari",
         "body": "'\\f267'",
-        "description": "fontawesome fa-safari",
+        "description": "fontawesome icon: fa-safari",
         "scope": "css.scss.sass.less"
     },
     "fa-chrome": {
         "prefix": "fa-chrome",
         "body": "'\\f268'",
-        "description": "fontawesome fa-chrome",
+        "description": "fontawesome icon: fa-chrome",
         "scope": "css.scss.sass.less"
     },
     "fa-firefox": {
         "prefix": "fa-firefox",
         "body": "'\\f269'",
-        "description": "fontawesome fa-firefox",
+        "description": "fontawesome icon: fa-firefox",
         "scope": "css.scss.sass.less"
     },
     "fa-opera": {
         "prefix": "fa-opera",
         "body": "'\\f26a'",
-        "description": "fontawesome fa-opera",
+        "description": "fontawesome icon: fa-opera",
         "scope": "css.scss.sass.less"
     },
     "fa-internet-explorer": {
         "prefix": "fa-internet-explorer",
         "body": "'\\f26b'",
-        "description": "fontawesome fa-internet-explorer",
+        "description": "fontawesome icon: fa-internet-explorer",
         "scope": "css.scss.sass.less"
     },
     "fa-tv": {
         "prefix": "fa-tv",
         "body": "'\\f26c'",
-        "description": "fontawesome fa-tv",
+        "description": "fontawesome icon: fa-tv",
         "scope": "css.scss.sass.less"
     },
     "fa-television": {
         "prefix": "fa-television",
         "body": "'\\f26c'",
-        "description": "fontawesome fa-television",
+        "description": "fontawesome icon: fa-television",
         "scope": "css.scss.sass.less"
     },
     "fa-contao": {
         "prefix": "fa-contao",
         "body": "'\\f26d'",
-        "description": "fontawesome fa-contao",
+        "description": "fontawesome icon: fa-contao",
         "scope": "css.scss.sass.less"
     },
     "fa-500px": {
         "prefix": "fa-500px",
         "body": "'\\f26e'",
-        "description": "fontawesome fa-500px",
+        "description": "fontawesome icon: fa-500px",
         "scope": "css.scss.sass.less"
     },
     "fa-amazon": {
         "prefix": "fa-amazon",
         "body": "'\\f270'",
-        "description": "fontawesome fa-amazon",
+        "description": "fontawesome icon: fa-amazon",
         "scope": "css.scss.sass.less"
     },
     "fa-calendar-plus-o": {
         "prefix": "fa-calendar-plus-o",
         "body": "'\\f271'",
-        "description": "fontawesome fa-calendar-plus-o",
+        "description": "fontawesome icon: fa-calendar-plus-o",
         "scope": "css.scss.sass.less"
     },
     "fa-calendar-minus-o": {
         "prefix": "fa-calendar-minus-o",
         "body": "'\\f272'",
-        "description": "fontawesome fa-calendar-minus-o",
+        "description": "fontawesome icon: fa-calendar-minus-o",
         "scope": "css.scss.sass.less"
     },
     "fa-calendar-times-o": {
         "prefix": "fa-calendar-times-o",
         "body": "'\\f273'",
-        "description": "fontawesome fa-calendar-times-o",
+        "description": "fontawesome icon: fa-calendar-times-o",
         "scope": "css.scss.sass.less"
     },
     "fa-calendar-check-o": {
         "prefix": "fa-calendar-check-o",
         "body": "'\\f274'",
-        "description": "fontawesome fa-calendar-check-o",
+        "description": "fontawesome icon: fa-calendar-check-o",
         "scope": "css.scss.sass.less"
     },
     "fa-industry": {
         "prefix": "fa-industry",
         "body": "'\\f275'",
-        "description": "fontawesome fa-industry",
+        "description": "fontawesome icon: fa-industry",
         "scope": "css.scss.sass.less"
     },
     "fa-map-pin": {
         "prefix": "fa-map-pin",
         "body": "'\\f276'",
-        "description": "fontawesome fa-map-pin",
+        "description": "fontawesome icon: fa-map-pin",
         "scope": "css.scss.sass.less"
     },
     "fa-map-signs": {
         "prefix": "fa-map-signs",
         "body": "'\\f277'",
-        "description": "fontawesome fa-map-signs",
+        "description": "fontawesome icon: fa-map-signs",
         "scope": "css.scss.sass.less"
     },
     "fa-map-o": {
         "prefix": "fa-map-o",
         "body": "'\\f278'",
-        "description": "fontawesome fa-map-o",
+        "description": "fontawesome icon: fa-map-o",
         "scope": "css.scss.sass.less"
     },
     "fa-map": {
         "prefix": "fa-map",
         "body": "'\\f279'",
-        "description": "fontawesome fa-map",
+        "description": "fontawesome icon: fa-map",
         "scope": "css.scss.sass.less"
     },
     "fa-commenting": {
         "prefix": "fa-commenting",
         "body": "'\\f27a'",
-        "description": "fontawesome fa-commenting",
+        "description": "fontawesome icon: fa-commenting",
         "scope": "css.scss.sass.less"
     },
     "fa-commenting-o": {
         "prefix": "fa-commenting-o",
         "body": "'\\f27b'",
-        "description": "fontawesome fa-commenting-o",
+        "description": "fontawesome icon: fa-commenting-o",
         "scope": "css.scss.sass.less"
     },
     "fa-houzz": {
         "prefix": "fa-houzz",
         "body": "'\\f27c'",
-        "description": "fontawesome fa-houzz",
+        "description": "fontawesome icon: fa-houzz",
         "scope": "css.scss.sass.less"
     },
     "fa-vimeo": {
         "prefix": "fa-vimeo",
         "body": "'\\f27d'",
-        "description": "fontawesome fa-vimeo",
+        "description": "fontawesome icon: fa-vimeo",
         "scope": "css.scss.sass.less"
     },
     "fa-black-tie": {
         "prefix": "fa-black-tie",
         "body": "'\\f27e'",
-        "description": "fontawesome fa-black-tie",
+        "description": "fontawesome icon: fa-black-tie",
         "scope": "css.scss.sass.less"
     },
     "fa-fonticons": {
         "prefix": "fa-fonticons",
         "body": "'\\f280'",
-        "description": "fontawesome fa-fonticons",
+        "description": "fontawesome icon: fa-fonticons",
         "scope": "css.scss.sass.less"
     },
     "fa-reddit-alien": {
         "prefix": "fa-reddit-alien",
         "body": "'\\f281'",
-        "description": "fontawesome fa-reddit-alien",
+        "description": "fontawesome icon: fa-reddit-alien",
         "scope": "css.scss.sass.less"
     },
     "fa-edge": {
         "prefix": "fa-edge",
         "body": "'\\f282'",
-        "description": "fontawesome fa-edge",
+        "description": "fontawesome icon: fa-edge",
         "scope": "css.scss.sass.less"
     },
     "fa-credit-card-alt": {
         "prefix": "fa-credit-card-alt",
         "body": "'\\f283'",
-        "description": "fontawesome fa-credit-card-alt",
+        "description": "fontawesome icon: fa-credit-card-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-codiepie": {
         "prefix": "fa-codiepie",
         "body": "'\\f284'",
-        "description": "fontawesome fa-codiepie",
+        "description": "fontawesome icon: fa-codiepie",
         "scope": "css.scss.sass.less"
     },
     "fa-modx": {
         "prefix": "fa-modx",
         "body": "'\\f285'",
-        "description": "fontawesome fa-modx",
+        "description": "fontawesome icon: fa-modx",
         "scope": "css.scss.sass.less"
     },
     "fa-fort-awesome": {
         "prefix": "fa-fort-awesome",
         "body": "'\\f286'",
-        "description": "fontawesome fa-fort-awesome",
+        "description": "fontawesome icon: fa-fort-awesome",
         "scope": "css.scss.sass.less"
     },
     "fa-usb": {
         "prefix": "fa-usb",
         "body": "'\\f287'",
-        "description": "fontawesome fa-usb",
+        "description": "fontawesome icon: fa-usb",
         "scope": "css.scss.sass.less"
     },
     "fa-product-hunt": {
         "prefix": "fa-product-hunt",
         "body": "'\\f288'",
-        "description": "fontawesome fa-product-hunt",
+        "description": "fontawesome icon: fa-product-hunt",
         "scope": "css.scss.sass.less"
     },
     "fa-mixcloud": {
         "prefix": "fa-mixcloud",
         "body": "'\\f289'",
-        "description": "fontawesome fa-mixcloud",
+        "description": "fontawesome icon: fa-mixcloud",
         "scope": "css.scss.sass.less"
     },
     "fa-scribd": {
         "prefix": "fa-scribd",
         "body": "'\\f28a'",
-        "description": "fontawesome fa-scribd",
+        "description": "fontawesome icon: fa-scribd",
         "scope": "css.scss.sass.less"
     },
     "fa-pause-circle": {
         "prefix": "fa-pause-circle",
         "body": "'\\f28b'",
-        "description": "fontawesome fa-pause-circle",
+        "description": "fontawesome icon: fa-pause-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-pause-circle-o": {
         "prefix": "fa-pause-circle-o",
         "body": "'\\f28c'",
-        "description": "fontawesome fa-pause-circle-o",
+        "description": "fontawesome icon: fa-pause-circle-o",
         "scope": "css.scss.sass.less"
     },
     "fa-stop-circle": {
         "prefix": "fa-stop-circle",
         "body": "'\\f28d'",
-        "description": "fontawesome fa-stop-circle",
+        "description": "fontawesome icon: fa-stop-circle",
         "scope": "css.scss.sass.less"
     },
     "fa-stop-circle-o": {
         "prefix": "fa-stop-circle-o",
         "body": "'\\f28e'",
-        "description": "fontawesome fa-stop-circle-o",
+        "description": "fontawesome icon: fa-stop-circle-o",
         "scope": "css.scss.sass.less"
     },
     "fa-shopping-bag": {
         "prefix": "fa-shopping-bag",
         "body": "'\\f290'",
-        "description": "fontawesome fa-shopping-bag",
+        "description": "fontawesome icon: fa-shopping-bag",
         "scope": "css.scss.sass.less"
     },
     "fa-shopping-basket": {
         "prefix": "fa-shopping-basket",
         "body": "'\\f291'",
-        "description": "fontawesome fa-shopping-basket",
+        "description": "fontawesome icon: fa-shopping-basket",
         "scope": "css.scss.sass.less"
     },
     "fa-hashtag": {
         "prefix": "fa-hashtag",
         "body": "'\\f292'",
-        "description": "fontawesome fa-hashtag",
+        "description": "fontawesome icon: fa-hashtag",
         "scope": "css.scss.sass.less"
     },
     "fa-bluetooth": {
         "prefix": "fa-bluetooth",
         "body": "'\\f293'",
-        "description": "fontawesome fa-bluetooth",
+        "description": "fontawesome icon: fa-bluetooth",
         "scope": "css.scss.sass.less"
     },
     "fa-bluetooth-b": {
         "prefix": "fa-bluetooth-b",
         "body": "'\\f294'",
-        "description": "fontawesome fa-bluetooth-b",
+        "description": "fontawesome icon: fa-bluetooth-b",
         "scope": "css.scss.sass.less"
     },
     "fa-percent": {
         "prefix": "fa-percent",
         "body": "'\\f295'",
-        "description": "fontawesome fa-percent",
+        "description": "fontawesome icon: fa-percent",
         "scope": "css.scss.sass.less"
     },
     "fa-gitlab": {
         "prefix": "fa-gitlab",
         "body": "'\\f296'",
-        "description": "fontawesome fa-gitlab",
+        "description": "fontawesome icon: fa-gitlab",
         "scope": "css.scss.sass.less"
     },
     "fa-wpbeginner": {
         "prefix": "fa-wpbeginner",
         "body": "'\\f297'",
-        "description": "fontawesome fa-wpbeginner",
+        "description": "fontawesome icon: fa-wpbeginner",
         "scope": "css.scss.sass.less"
     },
     "fa-wpforms": {
         "prefix": "fa-wpforms",
         "body": "'\\f298'",
-        "description": "fontawesome fa-wpforms",
+        "description": "fontawesome icon: fa-wpforms",
         "scope": "css.scss.sass.less"
     },
     "fa-envira": {
         "prefix": "fa-envira",
         "body": "'\\f299'",
-        "description": "fontawesome fa-envira",
+        "description": "fontawesome icon: fa-envira",
         "scope": "css.scss.sass.less"
     },
     "fa-universal-access": {
         "prefix": "fa-universal-access",
         "body": "'\\f29a'",
-        "description": "fontawesome fa-universal-access",
+        "description": "fontawesome icon: fa-universal-access",
         "scope": "css.scss.sass.less"
     },
     "fa-wheelchair-alt": {
         "prefix": "fa-wheelchair-alt",
         "body": "'\\f29b'",
-        "description": "fontawesome fa-wheelchair-alt",
+        "description": "fontawesome icon: fa-wheelchair-alt",
         "scope": "css.scss.sass.less"
     },
     "fa-question-circle-o": {
         "prefix": "fa-question-circle-o",
         "body": "'\\f29c'",
-        "description": "fontawesome fa-question-circle-o",
+        "description": "fontawesome icon: fa-question-circle-o",
         "scope": "css.scss.sass.less"
     },
     "fa-blind": {
         "prefix": "fa-blind",
         "body": "'\\f29d'",
-        "description": "fontawesome fa-blind",
+        "description": "fontawesome icon: fa-blind",
         "scope": "css.scss.sass.less"
     },
     "fa-audio-description": {
         "prefix": "fa-audio-description",
         "body": "'\\f29e'",
-        "description": "fontawesome fa-audio-description",
+        "description": "fontawesome icon: fa-audio-description",
         "scope": "css.scss.sass.less"
     },
     "fa-volume-control-phone": {
         "prefix": "fa-volume-control-phone",
         "body": "'\\f2a0'",
-        "description": "fontawesome fa-volume-control-phone",
+        "description": "fontawesome icon: fa-volume-control-phone",
         "scope": "css.scss.sass.less"
     },
     "fa-braille": {
         "prefix": "fa-braille",
         "body": "'\\f2a1'",
-        "description": "fontawesome fa-braille",
+        "description": "fontawesome icon: fa-braille",
         "scope": "css.scss.sass.less"
     },
     "fa-assistive-listening-systems": {
         "prefix": "fa-assistive-listening-systems",
         "body": "'\\f2a2'",
-        "description": "fontawesome fa-assistive-listening-systems",
+        "description": "fontawesome icon: fa-assistive-listening-systems",
         "scope": "css.scss.sass.less"
     },
     "fa-asl-interpreting": {
         "prefix": "fa-asl-interpreting",
         "body": "'\\f2a3'",
-        "description": "fontawesome fa-asl-interpreting",
+        "description": "fontawesome icon: fa-asl-interpreting",
         "scope": "css.scss.sass.less"
     },
     "fa-american-sign-language-interpreting": {
         "prefix": "fa-american-sign-language-interpreting",
         "body": "'\\f2a3'",
-        "description": "fontawesome fa-american-sign-language-interpreting",
+        "description": "fontawesome icon: fa-american-sign-language-interpreting",
         "scope": "css.scss.sass.less"
     },
     "fa-deafness": {
         "prefix": "fa-deafness",
         "body": "'\\f2a4'",
-        "description": "fontawesome fa-deafness",
+        "description": "fontawesome icon: fa-deafness",
         "scope": "css.scss.sass.less"
     },
     "fa-hard-of-hearing": {
         "prefix": "fa-hard-of-hearing",
         "body": "'\\f2a4'",
-        "description": "fontawesome fa-hard-of-hearing",
+        "description": "fontawesome icon: fa-hard-of-hearing",
         "scope": "css.scss.sass.less"
     },
     "fa-deaf": {
         "prefix": "fa-deaf",
         "body": "'\\f2a4'",
-        "description": "fontawesome fa-deaf",
+        "description": "fontawesome icon: fa-deaf",
         "scope": "css.scss.sass.less"
     },
     "fa-glide": {
         "prefix": "fa-glide",
         "body": "'\\f2a5'",
-        "description": "fontawesome fa-glide",
+        "description": "fontawesome icon: fa-glide",
         "scope": "css.scss.sass.less"
     },
     "fa-glide-g": {
         "prefix": "fa-glide-g",
         "body": "'\\f2a6'",
-        "description": "fontawesome fa-glide-g",
+        "description": "fontawesome icon: fa-glide-g",
         "scope": "css.scss.sass.less"
     },
     "fa-signing": {
         "prefix": "fa-signing",
         "body": "'\\f2a7'",
-        "description": "fontawesome fa-signing",
+        "description": "fontawesome icon: fa-signing",
         "scope": "css.scss.sass.less"
     },
     "fa-sign-language": {
         "prefix": "fa-sign-language",
         "body": "'\\f2a7'",
-        "description": "fontawesome fa-sign-language",
+        "description": "fontawesome icon: fa-sign-language",
         "scope": "css.scss.sass.less"
     },
     "fa-low-vision": {
         "prefix": "fa-low-vision",
         "body": "'\\f2a8'",
-        "description": "fontawesome fa-low-vision",
+        "description": "fontawesome icon: fa-low-vision",
         "scope": "css.scss.sass.less"
     },
     "fa-viadeo": {
         "prefix": "fa-viadeo",
         "body": "'\\f2a9'",
-        "description": "fontawesome fa-viadeo",
+        "description": "fontawesome icon: fa-viadeo",
         "scope": "css.scss.sass.less"
     },
     "fa-viadeo-square": {
         "prefix": "fa-viadeo-square",
         "body": "'\\f2aa'",
-        "description": "fontawesome fa-viadeo-square",
+        "description": "fontawesome icon: fa-viadeo-square",
         "scope": "css.scss.sass.less"
     },
     "fa-snapchat": {
         "prefix": "fa-snapchat",
         "body": "'\\f2ab'",
-        "description": "fontawesome fa-snapchat",
+        "description": "fontawesome icon: fa-snapchat",
         "scope": "css.scss.sass.less"
     },
     "fa-snapchat-ghost": {
         "prefix": "fa-snapchat-ghost",
         "body": "'\\f2ac'",
-        "description": "fontawesome fa-snapchat-ghost",
+        "description": "fontawesome icon: fa-snapchat-ghost",
         "scope": "css.scss.sass.less"
     },
     "fa-snapchat-square": {
         "prefix": "fa-snapchat-square",
         "body": "'\\f2ad'",
-        "description": "fontawesome fa-snapchat-square",
+        "description": "fontawesome icon: fa-snapchat-square",
         "scope": "css.scss.sass.less"
     }
 }
